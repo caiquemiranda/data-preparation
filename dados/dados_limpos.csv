@@ -1,0 +1,2001 @@
+fname,lname,age,exercise,hours,grade,address,hours_normalizada,gender_male
+Marcia,Pugh,17,3,10,82.4,"7379 Highland Rd. , Dublin, GA 31021",0.5,0
+Kadeem,Morrison,18,4,4,78.2,"8 Bayport St. , Honolulu, HI 96815",0.2,1
+Nash,Powell,18,5,9,79.3,"Encino, CA 91316, 3 Lilac Street ",0.45,1
+Noelani,Wagner,14,2,7,83.2,"Riverview, FL 33569, 9998 North Smith Dr. ",0.35000000000000003,0
+Noelani,Cherry,18,4,15,87.4,"97 SE. Ocean Street , Bethlehem, PA 18015",0.75,0
+Neil,Whitley,16,5,16,88.7,"8041 Sunbeam Dr. , Downers Grove, IL 60515",0.8,1
+Nelle,Golden,17,1,9,80.2,"8701 Rockville Ave. , Grovetown, GA 30813",0.45,0
+Armando,Hoffman,17,5,18,95.1,"9 Old Tarkiln Hill Court , Council Bluffs, IA 51501",0.9,1
+Illiana,Rojas,15,5,9,76.5,"133 Valley Farms Lane , Ephrata, PA 17522",0.45,0
+Neil,Wooten,15,3,15,89.7,"43 Wood Court , Lincoln, NE 68506",0.75,1
+Daquan,Alvarez,16,2,13,85.2,"6 Laurel St. , Ormond Beach, FL 32174",0.65,1
+Nola,Velazquez,15,2,10,75.3,"Hopkinsville, KY 42240, 495 Cypress Road ",0.5,0
+Quinn,Warren,14,4,12,80.7,"Reynoldsburg, OH 43068, 81 Somerset Dr. ",0.6000000000000001,0
+Frances,Velasquez,15,2,15,84.2,"Roswell, GA 30075, 41 Branch St. ",0.75,0
+Lareina,Poole,18,1,14,87.6,"Salt Lake City, UT 84119, 515 Wintergreen Ave. ",0.7000000000000001,0
+Medge,Mccarthy,15,1,8,75.8,"8985 Bishop Lane , Painesville, OH 44077",0.4,0
+Kibo,Gates,16,1,10,88.2,"9855 Fawn Lane , Roy, UT 84067",0.5,1
+Libby,Guzman,19,1,19,100.0,"92 Williams Ave. , Burbank, IL 60459",0.9500000000000001,0
+Shelly,Rosario,18,4,13,84.3,"54 Crescent Drive , Groton, CT 06340",0.65,0
+Lane,Tate,19,4,11,84.2,"557 Rockwell Street , Irwin, PA 15642",0.55,1
+Isadora,Case,18,3,11,79.1,"Milton, MA 02186, 2 Third Street ",0.55,0
+Maggy,Whitfield,15,1,15,90.5,"99 Sage Street , Bozeman, MT 59715",0.75,0
+Elton,Wagner,16,2,9,71.0,"Powder Springs, GA 30127, 81 East Logan Drive ",0.45,1
+Lance,Benjamin,14,5,18,90.3,"24 Cardinal St. , Trenton, NJ 08610",0.9,1
+Kyle,Skinner,17,5,6,82.4,"Lawndale, CA 90260, 860 Henry Ave. ",0.30000000000000004,1
+Colin,Cohen,14,1,10,83.8,"9249 S. Third Ave. , New Castle, PA 16101",0.5,1
+Solomon,Mcpherson,15,5,18,94.5,"Groton, CT 06340, 711 Ashley Dr. ",0.9,1
+Ulla,Warren,18,1,16,83.5,"7310 Beach Street , Altamonte Springs, FL 32714",0.8,0
+Tyler,Collier,16,1,9,69.7,"8339 Heritage Ave. , Meadville, PA 16335",0.45,1
+Emma,Mccall,16,2,13,91.1,"Reading, MA 01867, 256 Peninsula Drive ",0.65,0
+Isaiah,Newman,16,2,12,91.9,"Orlando, FL 32806, 8278 Logan Lane ",0.6000000000000001,1
+Carol,Acosta,16,3,13,85.0,"Paducah, KY 42001, 18 Liberty Avenue ",0.65,0
+Georgia,Munoz,14,5,20,99.0,"9088 Randall Mill Ave. , Stevens Point, WI 54481",1.0,0
+Doris,Melendez,17,5,12,93.2,"7837 High Point Drive , Shelbyville, TN 37160",0.6000000000000001,0
+Eric,Larsen,14,2,11,71.9,"8004 Poplar Dr. , Franklin Square, NY 11010",0.55,1
+Cain,Sexton,16,3,8,85.3,"La Vergne, TN 37086, 9302 Indian Summer Ave. ",0.4,1
+Ivor,Arnold,19,4,20,100.0,"990 Brookside Street , West Warwick, RI 02893",1.0,1
+Devin,Jacobs,14,3,14,98.1,"7482 E. Mayfield Drive , Huntington, NY 11743",0.7000000000000001,1
+Rebekah,Brock,16,2,5,68.9,"Delray Beach, FL 33445, 925 Fairview Lane ",0.25,0
+Cameran,Sears,14,4,8,75.4,"8430 Richardson St. , Natick, MA 01760",0.4,0
+Norman,Cunningham,17,2,10,76.8,"Land O Lakes, FL 34639, 70 E. Lake Forest Dr. ",0.5,1
+Lenore,Copeland,14,4,8,74.0,"7453 West King St. , Longview, TX 75604",0.4,0
+Keelie,Guerrero,15,1,12,81.0,"240 Ridge St. , Wheaton, IL 60187",0.6000000000000001,0
+Hilel,Hamilton,15,2,17,95.2,"7186 E. Cobblestone Rd. , Saint Louis, MO 63109",0.8500000000000001,1
+Dolan,Ford,14,3,3,64.2,"12 West Roehampton Ave. , Round Lake, IL 60073",0.15000000000000002,1
+Rhea,Melton,18,5,12,95.0,"993 River St. , New Windsor, NY 12553",0.6000000000000001,0
+Fulton,Castaneda,14,3,10,71.2,"72 Grove Ave. , Hartselle, AL 35640",0.5,1
+Kiayada,Bullock,18,3,11,74.9,"Lapeer, MI 48446, 974 Willow Rd. ",0.55,0
+Aurelia,Clayton,14,5,3,72.1,"650 Elmwood Street , North Andover, MA 01845",0.15000000000000002,0
+Nero,Klein,18,2,10,87.8,"Severn, MD 21144, 3 Old Depot Street ",0.5,1
+Aladdin,Chambers,19,4,11,82.6,"7691 S. Corona Street , Antioch, TN 37013",0.55,1
+Beau,Goff,19,2,15,85.1,"Endicott, NY 13760, 7171 E. Livingston Lane ",0.75,1
+Octavius,Walker,15,2,11,81.3,"83 Howard Ave. , Bettendorf, IA 52722",0.55,1
+Allen,Livingston,18,5,13,89.4,"664 Plumb Branch Lane , Annapolis, MD 21401",0.65,1
+Basil,Fuller,16,3,9,86.4,"563 Coffee Street , Riverview, FL 33569",0.45,1
+Reese,Kline,16,4,11,83.5,"91 Constitution St. , Oceanside, NY 11572",0.55,1
+Tate,Dunlap,17,2,6,67.7,"796 Sunnyslope St. , Copperas Cove, TX 76522",0.30000000000000004,1
+Jonah,Sosa,14,5,12,89.9,"8789 Lawrence Dr. , Evanston, IL 60201",0.6000000000000001,1
+Ingrid,Harvey,16,5,5,72.6,"Longwood, FL 32779, 180 Lancaster St. ",0.25,0
+Tanner,Vaughn,17,4,11,89.1,"Oakland Gardens, NY 11364, 18 West Street ",0.55,1
+Oleg,Mooney,16,3,10,71.3,"7072 NW. Columbia Street , Winter Haven, FL 33880",0.5,1
+Piper,Lowery,19,2,5,61.4,"West Deptford, NJ 08096, 210 E. Grand St. ",0.25,0
+Genevieve,Adkins,15,1,8,67.3,"Winter Garden, FL 34787, 79 Shub Farm Lane ",0.4,0
+Lilah,Roman,19,4,9,85.9,"New Kensington, PA 15068, 499 Tailwater Ave. ",0.45,0
+Illiana,Thompson,15,3,17,86.0,"584 Bowman Drive , Clementon, NJ 08021",0.8500000000000001,0
+Warren,Pope,18,4,5,76.3,"83 Tanglewood Street , Helena, MT 59601",0.25,1
+Regan,Foley,16,2,9,77.4,"7705 Cambridge Street , Coventry, RI 02816",0.45,0
+Justin,Morris,19,5,10,77.5,"718 School Ave. , Mebane, NC 27302",0.5,1
+Isaiah,Patrick,19,4,3,65.3,"Nottingham, MD 21236, 363 Church Lane ",0.15000000000000002,1
+Daryl,Benson,19,1,18,93.8,"Augusta, GA 30906, 392 E. Blackburn Street ",0.9,0
+Barbara,Berger,16,3,12,82.7,"Irmo, SC 29063, 7296 4th Road ",0.6000000000000001,0
+Christine,Briggs,14,5,18,91.9,"901 Shirley Ave. , Uniondale, NY 11553",0.9,0
+Iola,Bowers,19,3,11,88.4,"Hopkins, MN 55343, 786 Valley View St. ",0.55,0
+Lars,Oconnor,18,4,8,67.9,"Hanover, PA 17331, 62 Shub Farm Street ",0.4,1
+Jaden,Maldonado,16,4,10,84.5,"3 Lakewood St. , Englewood, NJ 07631",0.5,0
+Signe,Lopez,18,2,13,76.7,"Media, PA 19063, 56 University St. ",0.65,0
+Deanna,Warren,19,1,9,83.2,"Hackensack, NJ 07601, 8405 Depot Drive ",0.45,0
+Quemby,Justice,14,2,17,100.0,"Bayonne, NJ 07002, 187 South Surrey Street ",0.8500000000000001,0
+Shafira,Guthrie,17,4,12,85.3,"893 Green Hill Street , Butler, PA 16001",0.6000000000000001,0
+Ariana,Pacheco,17,1,5,70.9,"259 West Poplar St. , Ballston Spa, NY 12020",0.25,0
+Hoyt,Lyons,16,5,1,71.3,"472 S. Columbia St. , Dubuque, IA 52001",0.05,1
+Justin,Holden,18,3,17,83.5,"31 Ohio Lane , Glen Ellyn, IL 60137",0.8500000000000001,1
+Phelan,Rich,16,1,6,74.9,"156 Manhattan Street , Sicklerville, NJ 08081",0.30000000000000004,1
+Honorato,Villarreal,14,1,12,73.3,"751 Oakland Street , Johnston, RI 02919",0.6000000000000001,1
+Hashim,Hopkins,18,3,10,77.9,"5 San Juan Street , Palm City, FL 34990",0.5,1
+Porter,Ware,14,1,16,90.4,"55 Circle Lane , Bolingbrook, IL 60440",0.8,1
+Joan,Sexton,18,5,18,96.6,"9651 Fairway Drive , Thornton, CO 80241",0.9,0
+Alexa,Gutierrez,17,4,6,81.2,"Ponte Vedra Beach, FL 32082, 32 S. Marconi Street ",0.30000000000000004,0
+Sean,Molina,17,1,8,67.7,"64 S. Talbot St. , Land O Lakes, FL 34639",0.4,1
+Lucius,Herrera,14,2,19,88.0,"7052 Myrtle Ave. , Hampton, VA 23666",0.9500000000000001,1
+Sydnee,Campbell,18,2,15,99.4,"7749 53rd Rd. , Chandler, AZ 85224",0.75,0
+Allistair,Rosales,14,4,3,67.0,"851 S. Sherwood Lane , Barrington, IL 60010",0.15000000000000002,1
+Alyssa,Craig,19,5,11,93.0,"Fredericksburg, VA 22405, 95 West Park Ave. ",0.55,0
+Cody,Lara,18,1,6,69.0,"55 S. Wild Horse Circle , Jamestown, NY 14701",0.30000000000000004,1
+Bernard,Mcconnell,14,2,10,78.3,"14 Rockcrest St. , Fremont, OH 43420",0.5,1
+Jonah,Mckinney,15,2,11,74.9,"842 East Green Lake Street , Fenton, MI 48430",0.55,1
+Yen,Cooke,14,4,11,87.9,"Maplewood, NJ 07040, 8259 Illinois Street ",0.55,0
+Cassidy,Hughes,15,3,17,92.0,"Nicholasville, KY 40356, 237 Lake Street ",0.8500000000000001,0
+Gisela,Johnston,19,1,8,68.0,"379 Rose Drive , Lake Jackson, TX 77566",0.4,0
+Yetta,Howell,17,3,13,89.2,"Fort Lauderdale, FL 33308, 769 Primrose St. ",0.65,0
+Gabriel,Morton,16,2,15,91.3,"323 Arcadia Drive , Vineland, NJ 08360",0.75,1
+Sage,Cleveland,19,2,20,100.0,"522 Woodside Street , Torrington, CT 06790",1.0,0
+Shannon,Key,15,1,11,83.7,"468 North San Carlos Rd. , Hallandale, FL 33009",0.55,0
+Sigourney,Mitchell,14,2,12,82.5,"Hackettstown, NJ 07840, 8870 West Heather Lane ",0.6000000000000001,0
+Adrienne,Klein,18,3,12,77.3,"Helena, MT 59601, 709 Constitution Avenue ",0.6000000000000001,0
+Chaney,Hoffman,14,3,13,93.6,"423 Cambridge Circle , Chardon, OH 44024",0.65,1
+Fritz,Park,14,2,18,93.2,"686 Elizabeth Ave. , Brunswick, GA 31525",0.9,1
+Clinton,Donaldson,16,5,10,88.4,"18 North Rock Maple Drive , Oviedo, FL 32765",0.5,1
+Lara,Haley,17,5,12,95.6,"81 Catherine Lane , Amarillo, TX 79106",0.6000000000000001,0
+Sophia,Gordon,19,4,17,100.0,"54 Saxton Lane , Bowie, MD 20715",0.8500000000000001,0
+Kaye,Howard,19,5,13,94.9,"9951 Lincoln St. , Toms River, NJ 08753",0.65,0
+Quinlan,Rollins,15,5,8,73.3,"8821 Young Ave. , Jupiter, FL 33458",0.4,1
+Xanthus,Barlow,19,5,16,95.5,"681 Shipley Drive , Thornton, CO 80241",0.8,1
+Hamilton,Terrell,15,5,16,96.6,"9620 Brewery Ave. , Saint Albans, NY 11412",0.8,1
+Zeus,Ratliff,14,2,16,88.8,"477 Bellevue St. , The Villages, FL 32162",0.8,1
+Valentine,Osborne,19,5,12,92.2,"Alliance, OH 44601, 7369 Border St. ",0.6000000000000001,1
+Zahir,Watkins,14,2,14,92.0,"Detroit, MI 48205, 7059 Hill Field Drive ",0.7000000000000001,1
+Debra,Wilkerson,16,4,5,66.3,"Clayton, NC 27520, 49 Tanglewood Lane ",0.25,0
+Clio,Wilson,14,1,5,65.3,"South Portland, ME 04106, 7717 North Rockwell Road ",0.25,0
+Cathleen,Hayden,18,4,3,73.4,"Bardstown, KY 40004, 8532 Young Street ",0.15000000000000002,0
+Yolanda,Vaughan,14,2,15,94.0,"9449 High Ridge Drive , Media, PA 19063",0.75,0
+Guinevere,Romero,18,5,14,84.2,"Fair Lawn, NJ 07410, 8428 Middle River Dr. ",0.7000000000000001,0
+Keelie,Rice,19,4,9,88.4,"Grand Haven, MI 49417, 384 Canal Dr. ",0.45,0
+Bethany,Sullivan,15,3,9,73.1,"52 Magnolia Ave. , Johnson City, TN 37601",0.45,0
+Salvador,Gray,14,1,13,84.2,"278 Manchester Avenue , Winchester, VA 22601",0.65,1
+Violet,Jennings,14,1,5,62.6,"Dalton, GA 30721, 9130 Greenrose Court ",0.25,0
+Lewis,Jones,15,5,11,92.6,"471 W. Lawrence Drive , Newtown, PA 18940",0.55,1
+Lunea,Mcfadden,17,1,17,91.6,"Dyersburg, TN 38024, 756 East Bohemia Ave. ",0.8500000000000001,0
+Shaeleigh,Clayton,19,2,12,92.4,"Virginia Beach, VA 23451, 507 Campfire Ave. ",0.6000000000000001,0
+Nathan,Payne,15,1,8,79.1,"26 Pheasant Street , Sicklerville, NJ 08081",0.4,1
+Stella,Smith,14,1,6,76.2,"408 Park St. , Lindenhurst, NY 11757",0.30000000000000004,0
+Kelly,Shannon,18,5,14,90.9,"96 Oxford St. , Chicago Heights, IL 60411",0.7000000000000001,1
+Yael,Mcdowell,18,3,16,85.2,"Austin, MN 55912, 22 State Ave. ",0.8,0
+Zena,Schultz,19,3,12,80.1,"695 Logan Ave. , Natchez, MS 39120",0.6000000000000001,0
+Chaney,Harrington,19,4,11,89.3,"660 Wood Road , Danvers, MA 01923",0.55,1
+Conan,Wall,19,3,6,66.8,"6 Adams Street , Huntington Station, NY 11746",0.30000000000000004,1
+Jamalia,Bowman,16,1,13,77.8,"Elk Grove Village, IL 60007, 580 Pin Oak Rd. ",0.65,0
+Shana,Castro,14,1,14,95.0,"48 Market Dr. , Hampton, VA 23666",0.7000000000000001,0
+Merrill,Duran,17,2,10,76.3,"Spring Hill, FL 34608, 799 Fairview Street ",0.5,1
+Gregory,Lawrence,19,3,14,86.8,"328 Magnolia Drive , Augusta, GA 30906",0.7000000000000001,1
+Rebecca,Bird,19,2,7,82.5,"Green Bay, WI 54302, 9990 Mammoth Ave. ",0.35000000000000003,0
+Sheila,Koch,15,5,13,97.1,"Lake Charles, LA 70605, 9164 Elmwood St. ",0.65,0
+Dane,Flynn,18,5,12,87.4,"884 Pine Street , Hartford, CT 06106",0.6000000000000001,1
+Connor,Salas,19,5,17,90.7,"78 East Albany St. , Middletown, CT 06457",0.8500000000000001,1
+Baxter,Hardy,14,5,9,75.1,"57 East Queen Rd. , Passaic, NJ 07055",0.45,1
+Jorden,Sharp,17,4,12,90.2,"702 1st Street , Arlington Heights, IL 60004",0.6000000000000001,0
+Hu,Weber,17,3,9,84.2,"9707 Courtland Lane , Danvers, MA 01923",0.45,1
+Maite,Walters,16,3,10,74.0,"78 Richardson Drive , Wantagh, NY 11793",0.5,0
+Alfreda,Mays,15,4,7,71.6,"Drexel Hill, PA 19026, 53 Nut Swamp Ave. ",0.35000000000000003,0
+Dexter,Wells,16,3,5,68.9,"8830 Blue Spring St. , Bolingbrook, IL 60440",0.25,1
+Sawyer,Hart,19,4,8,69.4,"8713 W. Swanson Court , Oklahoma City, OK 73112",0.4,1
+Maggie,Rich,19,2,11,77.3,"8429 North Pacific Rd. , Baltimore, MD 21206",0.55,0
+Hashim,Callahan,16,1,11,71.8,"434 Honey Creek Dr. , Wasilla, AK 99654",0.55,1
+Darius,Gilbert,19,3,9,86.3,"8454 Mill Street , Rolla, MO 65401",0.45,1
+Rosalyn,Le,18,1,14,88.3,"8201 Greenview Street , Sykesville, MD 21784",0.7000000000000001,0
+Jordan,Holt,18,3,4,72.1,"2 Essex St. , Fayetteville, NC 28303",0.2,1
+Chase,Flynn,19,3,7,81.1,"307 Sherwood Ave. , Iowa City, IA 52240",0.35000000000000003,1
+Jane,Welch,15,3,16,93.7,"7055 East Grant St. , Nashua, NH 03060",0.8,0
+Grant,Strickland,19,1,6,79.0,"8268 Depot Ave. , Jacksonville Beach, FL 32250",0.30000000000000004,1
+Darius,Miranda,19,1,16,93.3,"455 Columbia St. , Davenport, IA 52804",0.8,1
+Arthur,Pacheco,15,3,14,96.9,"82 South Galvin Circle , Baldwin, NY 11510",0.7000000000000001,1
+Hedda,Ramos,16,5,5,82.3,"Goldsboro, NC 27530, 46 SW. Smoky Hollow Street ",0.25,0
+Farrah,Palmer,15,5,11,91.3,"2 George Ave. , New Brunswick, NJ 08901",0.55,0
+Bree,Weaver,16,4,12,83.3,"North Ridgeville, OH 44039, 9825 Oak Valley St. ",0.6000000000000001,0
+Elton,Preston,17,4,20,97.8,"Hanover, PA 17331, 1 Bradford Ave. ",1.0,1
+Ciaran,Johns,16,4,15,100.0,"991 Broad Ave. , Bethlehem, PA 18015",0.75,1
+Miranda,Le,19,3,10,80.6,"605 Olive Street , East Hartford, CT 06118",0.5,0
+Geraldine,Farrell,16,3,10,84.9,"7867 Sierra Road , Shakopee, MN 55379",0.5,0
+Callie,Hoffman,15,3,9,71.9,"50 Mayfair Drive , Gloucester, MA 01930",0.45,0
+Jelani,Kaufman,14,3,14,94.1,"Millington, TN 38053, 551 Rockaway Lane ",0.7000000000000001,1
+Solomon,Rosales,19,3,17,91.1,"7749 SE. Deerfield Drive , Tucker, GA 30084",0.8500000000000001,1
+Callie,Washington,17,2,7,77.0,"509 Glenridge Dr. , Warren, MI 48089",0.35000000000000003,0
+Carson,Meadows,17,5,8,75.4,"98 Peninsula Avenue , Lombard, IL 60148",0.4,1
+Joseph,Mclean,16,1,14,81.8,"31 Heritage Ave. , West Deptford, NJ 08096",0.7000000000000001,1
+Britanni,Tucker,19,1,13,89.7,"55 South Glen Creek Lane , Sandusky, OH 44870",0.65,0
+Raja,Stuart,14,1,13,82.5,"Iowa City, IA 52240, 36 Wilson Rd. ",0.65,1
+Quail,Bonner,18,5,6,68.0,"9 Windsor Ave. , Lacey, WA 98503",0.30000000000000004,0
+Dana,Deleon,18,1,14,82.7,"Danville, VA 24540, 68 Miller St. ",0.7000000000000001,0
+Evangeline,Cox,14,5,13,88.9,"79 Cross Avenue , Stillwater, MN 55082",0.65,0
+Slade,Padilla,17,5,16,93.1,"74 Whitemarsh Lane , Elizabethton, TN 37643",0.8,1
+Latifah,Daugherty,18,5,6,81.0,"Sidney, OH 45365, 8316 Bishop Drive ",0.30000000000000004,0
+Beverly,Benson,14,4,17,89.7,"7 Hill Field St. , Sicklerville, NJ 08081",0.8500000000000001,0
+Solomon,Beach,14,4,13,90.3,"7582 South William Court , Cleveland, TN 37312",0.65,1
+Nyssa,George,19,2,10,80.2,"817 North San Pablo Lane , Plainfield, NJ 07060",0.5,0
+Lars,David,14,1,16,84.3,"446 SE. Boston Ave. , Absecon, NJ 08205",0.8,1
+Halla,Newman,16,3,8,80.5,"Sioux City, IA 51106, 9207 Deerfield St. ",0.4,0
+Gay,Wagner,17,4,7,75.0,"7952 Ridgeview Dr. , Fairfield, CT 06824",0.35000000000000003,0
+Ariana,Hess,15,4,14,99.1,"9 Green Lake Ave. , West Chester, PA 19380",0.7000000000000001,0
+Victor,Mcdonald,15,2,11,76.4,"821 Bellevue Drive , Canonsburg, PA 15317",0.55,1
+Jocelyn,Brock,15,2,7,72.7,"Gainesville, VA 20155, 5 Wilson Ave. ",0.35000000000000003,0
+Hoyt,Salazar,19,4,14,89.9,"7 East Pulaski Street , Mchenry, IL 60050",0.7000000000000001,1
+Mohammad,Drake,18,2,18,99.6,"7038 East Cleveland St. , Milwaukee, WI 53204",0.9,1
+Russell,Eaton,17,4,9,73.4,"684 E. Old York St. , Los Angeles, CA 90008",0.45,1
+Chava,Carey,18,4,14,91.5,"7894 Bay Meadows Street , North Fort Myers, FL 33917",0.7000000000000001,0
+Danielle,Wade,19,2,6,64.3,"Myrtle Beach, SC 29577, 896 Indian Spring Rd. ",0.30000000000000004,0
+Hector,Aguilar,14,1,9,68.8,"8 Harvard Rd. , Streamwood, IL 60107",0.45,1
+Ocean,Koch,19,4,12,88.0,"678 Sunnyslope St. , Nashville, TN 37205",0.6000000000000001,0
+Jescie,Snyder,17,3,5,77.0,"Edison, NJ 08817, 61 South Pawnee Lane ",0.25,0
+Ciara,Burris,18,4,14,88.0,"Edison, NJ 08817, 2 El Dorado Drive ",0.7000000000000001,0
+Nigel,Morris,16,2,11,77.0,"75 NE. Westminster Street , East Northport, NY 11731",0.55,1
+Michelle,Webster,19,1,11,90.3,"740 State Street , Prior Lake, MN 55372",0.55,0
+Maris,Holt,14,2,6,68.2,"Stuart, FL 34997, 924 Old Glen Creek Lane ",0.30000000000000004,0
+Jarrod,Calderon,19,1,12,79.6,"992 2nd Rd. , Cincinnati, OH 45211",0.6000000000000001,1
+Hanna,Rose,14,3,15,90.8,"5 James St. , Meriden, CT 06450",0.75,0
+Timon,Goodman,19,4,20,98.0,"116 San Carlos Avenue , Adrian, MI 49221",1.0,1
+Ginger,Stevens,18,1,14,84.6,"94 Somerset Lane , Sun City, AZ 85351",0.7000000000000001,0
+Nathan,Gonzales,16,1,8,74.3,"893 Sierra Rd. , Waltham, MA 02453",0.4,1
+Madaline,Ayala,15,1,8,78.2,"786 Vermont Lane , Ocoee, FL 34761",0.4,0
+Dante,Malone,18,4,12,87.3,"7 Squaw Creek Dr. , Ballston Spa, NY 12020",0.6000000000000001,1
+Colette,Workman,15,2,12,81.1,"Medford, MA 02155, 357 S. Fieldstone Ave. ",0.6000000000000001,0
+Keith,Zimmerman,14,3,10,86.0,"1 Fairway Ave. , Lady Lake, FL 32159",0.5,1
+Channing,Stark,16,3,7,65.3,"43 West Addison Street , Emporia, KS 66801",0.35000000000000003,1
+Dexter,Knowles,18,5,7,75.2,"Ambler, PA 19002, 93 Schoolhouse Dr. ",0.35000000000000003,1
+Kermit,Raymond,17,4,13,90.8,"Mount Holly, NJ 08060, 282 Summit Ave. ",0.65,1
+Anthony,Bishop,19,2,5,61.6,"7401 Sherman Ave. , Knoxville, TN 37918",0.25,1
+Keaton,Velazquez,14,1,9,72.7,"Loxahatchee, FL 33470, 74 Cypress Court ",0.45,1
+Adam,Ray,18,4,8,74.9,"Passaic, NJ 07055, 17 Front Street ",0.4,1
+TaShya,Cote,15,5,10,87.5,"154 Holly Court , Hamtramck, MI 48212",0.5,0
+Breanna,Silva,16,5,12,86.0,"9412 West Fieldstone Road , Parlin, NJ 08859",0.6000000000000001,0
+Xanthus,Schmidt,19,2,12,88.9,"8327 East Ann Street , Elizabethton, TN 37643",0.6000000000000001,1
+Audrey,Coffey,19,1,14,90.5,"Deland, FL 32720, 806 Cherry Hill Court ",0.7000000000000001,0
+Marshall,Cooke,18,5,13,86.3,"836 Glen Eagles Ave. , Jonesboro, GA 30236",0.65,1
+Destiny,Hansen,18,1,17,91.9,"8343 Mayfield St. , Grand Haven, MI 49417",0.8500000000000001,0
+Conan,Kirkland,15,5,11,85.2,"296 Glenlake Ave. , Branford, CT 06405",0.55,1
+Venus,Navarro,14,1,12,77.0,"Suite 7 , Mount Juliet, TN 37122",0.6000000000000001,0
+Naida,Delacruz,17,2,9,70.3,"Westport, CT 06880, 416 Bayport Lane ",0.45,0
+Uriah,Cummings,18,3,20,100.0,"Beverly, MA 01915, 7446 Livingston Rd. ",1.0,1
+Barry,Mcgowan,16,3,8,69.3,"48 Primrose St. , Hoffman Estates, IL 60169",0.4,1
+Hall,Flynn,18,2,6,71.9,"808 E. Kirkland Dr. , Leland, NC 28451",0.30000000000000004,1
+Harriet,Harvey,15,3,8,76.1,"8950 E. Grand St. , West Warwick, RI 02893",0.4,0
+Christopher,Arnold,19,2,6,77.9,"10 Pearl St. , Duluth, GA 30096",0.30000000000000004,1
+Regina,Hays,18,3,13,94.7,"8932 Fulton St. , Schererville, IN 46375",0.65,0
+Nicole,Castillo,18,2,8,80.5,"Doylestown, PA 18901, 7746 West Tunnel Court ",0.4,0
+Devin,Snider,16,1,12,88.5,"8073 New Avenue , Morgantown, WV 26508",0.6000000000000001,1
+Natalie,Delaney,16,4,18,90.8,"949 Lawrence Ave. , Goldsboro, NC 27530",0.9,0
+Rahim,Nicholson,16,4,11,76.1,"8411 Galvin Street , Fishers, IN 46037",0.55,1
+Teagan,Mullins,15,1,12,91.3,"68 Temple Ave. , Phillipsburg, NJ 08865",0.6000000000000001,0
+Jenette,Moon,16,5,12,81.0,"305 Van Dyke Ave. , Apt 9 ",0.6000000000000001,0
+Brenna,Morse,17,3,16,89.0,"Bayside, NY 11361, 9221 Bayberry Dr. ",0.8,0
+Hayley,Wolf,14,1,10,87.3,"869 Pin Oak Rd. , Newburgh, NY 12550",0.5,0
+Allistair,Jenkins,17,2,11,80.8,"77 Applegate Court , Griffin, GA 30223",0.55,1
+Jackson,Hester,14,5,11,79.5,"9478 S. Brandywine Street , Boynton Beach, FL 33435",0.55,1
+Sylvia,Logan,19,5,9,73.2,"458 Monroe Lane , Bayonne, NJ 07002",0.45,0
+Dante,Terrell,14,4,4,63.4,"5 Windsor St. , Reston, VA 20191",0.2,1
+Wynne,Herring,15,2,8,71.4,"232 Princeton Ave. , Shirley, NY 11967",0.4,0
+Lester,Russell,18,5,14,82.0,"232 West Edgemont Drive , Clinton Township, MI 48035",0.7000000000000001,1
+Sage,Donovan,14,4,12,77.4,"486 Aspen St. , Metairie, LA 70001",0.6000000000000001,0
+Raja,Cox,14,2,17,90.6,"685 Creek St. , Dublin, GA 31021",0.8500000000000001,1
+Ciara,Rivers,17,2,11,86.8,"57 Andover St. , Matthews, NC 28104",0.55,0
+Phyllis,Walters,18,4,19,100.0,"Ames, IA 50010, 8571 Tailwater St. ",0.9500000000000001,0
+Kennedy,Ryan,15,1,10,83.0,"Johnston, RI 02919, 8 Indian Spring Street ",0.5,1
+Shaeleigh,Gallagher,16,2,11,81.7,"401 Railroad St. , Dothan, AL 36301",0.55,0
+Rose,Middleton,15,2,20,100.0,"7341 Tailwater Street , Bemidji, MN 56601",1.0,0
+Portia,Campbell,18,5,10,80.9,"496 Fairway Street , Glenview, IL 60025",0.5,0
+Kasper,Hammond,17,3,10,71.9,"265 Old Fairway Ave. , Winchester, VA 22601",0.5,1
+Lamar,Day,17,4,17,95.0,"2 Carriage St. , Calumet City, IL 60409",0.8500000000000001,1
+Rylee,Ward,18,2,9,88.4,"Halethorpe, MD 21227, 86 Andover Street ",0.45,0
+Kasimir,Peck,15,4,4,75.0,"Covington, GA 30014, 386 Wood Rd. ",0.2,1
+Xyla,Roman,14,3,16,87.9,"Middle River, MD 21220, 13 East Somerset Drive ",0.8,0
+Gavin,Deleon,16,5,9,77.9,"State College, PA 16801, 997 Crescent Lane ",0.45,1
+Shellie,Moreno,14,1,13,84.4,"7752 Lantern St. , Rockville Centre, NY 11570",0.65,0
+Lydia,Oneal,14,2,5,78.1,"299 Valley View Street , Auburn, NY 13021",0.25,0
+Cain,Russo,19,1,10,83.6,"1 Berkshire Ave. , Colorado Springs, CO 80911",0.5,1
+Megan,Kennedy,16,4,11,90.4,"Yorktown Heights, NY 10598, 112 Oak Valley Road ",0.55,0
+Noah,Cote,14,2,13,84.3,"316 Taylor Ave. , Elyria, OH 44035",0.65,1
+Wynne,Downs,18,5,3,76.0,"68 Myers Ave. , Bowie, MD 20715",0.15000000000000002,0
+Caldwell,Shaw,14,3,15,95.3,"Oswego, NY 13126, 435 Lake View St. ",0.75,1
+Keith,Dominguez,14,3,9,84.2,"53 Woodland Avenue , Dunedin, FL 34698",0.45,1
+Alma,Hewitt,17,4,15,99.3,"Fort Walton Beach, FL 32547, 283 Rock Maple Rd. ",0.75,0
+Josephine,Lynn,18,3,15,99.2,"7389 Highland Rd. , Annandale, VA 22003",0.75,0
+Forrest,Rollins,17,2,19,87.2,"Manitowoc, WI 54220, 441 Big Rock Cove St. ",0.9500000000000001,1
+Perry,Ramsey,18,4,8,87.5,"849 Broad Ave. , Wausau, WI 54401",0.4,1
+Cody,Merritt,19,5,5,75.3,"9235 Border Ave. , North Royalton, OH 44133",0.25,1
+Camden,Day,15,4,8,82.7,"117 Tailwater Court , Allen Park, MI 48101",0.4,1
+Eve,Mayer,17,4,15,83.7,"8871 Elm Drive , Naugatuck, CT 06770",0.75,0
+Leslie,Kaufman,18,3,18,90.3,"585 Fairground Dr. , Fort Myers, FL 33905",0.9,0
+Declan,Hinton,15,2,12,76.5,"24 Bridge St. , Kennewick, WA 99337",0.6000000000000001,1
+Roth,Patrick,14,2,13,90.4,"12 Brickyard Court , Monroe Township, NJ 08831",0.65,1
+Nathan,Phillips,15,4,8,71.2,"82 North Olive Rd. , Reynoldsburg, OH 43068",0.4,1
+Elvis,Watkins,14,2,11,80.7,"Cumming, GA 30040, 348B Morris Street ",0.55,1
+Germaine,Nunez,18,2,15,95.2,"Parkersburg, WV 26101, 56 Tailwater Lane ",0.75,0
+Audra,Combs,17,5,12,78.5,"1 E. Cleveland St. , Miamisburg, OH 45342",0.6000000000000001,0
+Lavinia,Marshall,17,3,9,74.6,"Stafford, VA 22554, 486 Thompson Ave. ",0.45,0
+Kadeem,Garcia,15,2,10,73.3,"832 Golf Court , Woodside, NY 11377",0.5,1
+Roth,Dickson,16,5,12,77.6,"84 Highland Drive , Woodstock, GA 30188",0.6000000000000001,1
+Chava,Meadows,16,4,11,93.0,"Kansas City, MO 64151, 8194 West Ave. ",0.55,0
+Mary,Estrada,18,2,9,74.0,"9 Tunnel Rd. , Milford, MA 01757",0.45,0
+Dylan,Espinoza,19,4,10,74.1,"662 Main St. , Batavia, OH 45103",0.5,1
+Haley,Cruz,18,1,4,71.1,"Summerville, SC 29483, 8 West Kirkland St. ",0.2,0
+Thomas,Dotson,14,5,11,84.0,"85 Courtland St. , Lowell, MA 01851",0.55,1
+Jayme,Chang,15,4,6,78.4,"17 Holly St. , Gainesville, VA 20155",0.30000000000000004,0
+Hall,Rowland,18,2,14,92.2,"96 West Alton St. , Mason City, IA 50401",0.7000000000000001,1
+Amanda,Vincent,15,4,10,88.5,"North Kingstown, RI 02852, 284 Dunbar Rd. ",0.5,0
+Ria,Bowen,15,2,5,76.5,"537 Golf Court , Crystal Lake, IL 60014",0.25,0
+Illiana,Branch,14,5,4,69.8,"8860 Lawrence Street , Port Orange, FL 32127",0.2,0
+Vanna,Mccarthy,16,5,9,76.5,"430 Beech Drive , Cordova, TN 38016",0.45,0
+Nathan,Gutierrez,17,4,12,77.1,"957 Blackburn St. , Monroe Township, NJ 08831",0.6000000000000001,1
+Jane,Allison,17,2,11,74.5,"Granger, IN 46530, 323 Winding Way Ave. ",0.55,0
+Christopher,Warner,14,2,15,84.5,"23 Richardson Drive , Centreville, VA 20120",0.75,1
+Fiona,Higgins,18,1,11,77.5,"1 Magnolia Ave. , Satellite Beach, FL 32937",0.55,0
+Jemima,Vargas,17,1,8,74.9,"7166 Lakeshore Street , Greensboro, NC 27405",0.4,0
+Raven,Mendez,18,5,13,87.0,"578 West Snake Hill Drive , Hollywood, FL 33020",0.65,0
+Quintessa,Boyle,16,3,3,69.4,"Clinton, MD 20735, 79 Marlborough St. ",0.15000000000000002,0
+Kamal,Walton,14,1,17,100.0,"51 NW. Henry Smith St. , Morgantown, WV 26508",0.8500000000000001,1
+Cassandra,Barton,18,4,12,79.5,"70 Bishop St. , Wilmington, MA 01887",0.6000000000000001,0
+Hayes,Ellis,19,1,5,74.0,"56 Shirley Dr. , Houston, TX 77016",0.25,1
+Jana,Schroeder,14,5,9,82.6,"7337 SW. Golden Star Dr. , Inman, SC 29349",0.45,0
+Janna,King,15,1,6,77.0,"482 Carpenter Court , Apt 82 ",0.30000000000000004,0
+Britanni,Fletcher,15,1,10,80.7,"152 Summerhouse St. , Batavia, OH 45103",0.5,0
+Hanna,Dorsey,19,2,14,96.6,"365 Fawn Street , Gibsonia, PA 15044",0.7000000000000001,0
+Honorato,Hogan,17,1,19,90.1,"513 North Hawthorne Dr. , Glendale, AZ 85302",0.9500000000000001,1
+Jane,Reed,15,1,9,72.5,"Salisbury, MD 21801, 710 Walt Whitman Street ",0.45,0
+Nita,Rios,19,1,15,80.4,"360 Strawberry St. , Mableton, GA 30126",0.75,0
+Zena,Kirk,18,3,12,89.0,"663 Old Cedar Ave. , Jackson, NJ 08527",0.6000000000000001,0
+Cally,Garrison,17,3,7,84.7,"Hialeah, FL 33010, 48 Essex St. ",0.35000000000000003,0
+Nissim,Oconnor,16,5,14,94.7,"94 Glenholme St. , Neptune, NJ 07753",0.7000000000000001,1
+Nicole,Webb,14,3,14,94.2,"77 W. Cedar Swamp Dr. , Andover, MA 01810",0.7000000000000001,0
+Todd,Cunningham,16,1,16,81.4,"8585 San Pablo Drive , Munster, IN 46321",0.8,1
+Rina,Combs,17,3,13,84.2,"9 South Mammoth Street , Quincy, MA 02169",0.65,0
+Price,Tran,17,2,10,74.1,"8376 Golf Ave. , Fresh Meadows, NY 11365",0.5,1
+Shad,Walker,17,3,10,78.7,"907 Studebaker St. , Pearl, MS 39208",0.5,1
+Lysandra,Copeland,19,5,19,100.0,"Aiken, SC 29803, 7172 St Paul Street ",0.9500000000000001,0
+Rhiannon,Terrell,14,2,13,88.9,"Ephrata, PA 17522, 75 West Avenue ",0.65,0
+Jackson,Williamson,15,1,10,75.3,"8255 Poor House Dr. , Anoka, MN 55303",0.5,1
+Leigh,Jones,18,3,4,74.5,"Cottage Grove, MN 55016, 9644 Shady Dr. ",0.2,0
+Thor,Ramos,17,3,18,100.0,"Battle Creek, MI 49015, 65 St Paul St. ",0.9,1
+Reese,Morales,19,2,8,71.2,"163 St Louis St. , Vista, CA 92083",0.4,1
+Ray,Randall,16,4,10,73.2,"572 Wagon St. , North Haven, CT 06473",0.5,1
+Tasha,Wilkins,15,4,16,99.2,"91 Mill Street , Media, PA 19063",0.8,0
+Yoko,Cain,16,4,16,96.5,"Savage, MN 55378, 599 Lyme Street ",0.8,0
+Curran,Petersen,14,5,8,72.9,"304 S. Ketch Harbour St. , Wadsworth, OH 44281",0.4,1
+Garrison,Carson,17,4,6,81.2,"Largo, FL 33771, 7068 Hawthorne Street ",0.30000000000000004,1
+Judith,Perez,17,5,12,93.1,"Athens, GA 30605, 409 Rock Creek Lane ",0.6000000000000001,0
+Hammett,Rios,17,1,7,78.8,"318 Meadow St. , Carol Stream, IL 60188",0.35000000000000003,1
+Flynn,Berger,17,2,10,84.9,"9493 Mulberry Rd. , Fernandina Beach, FL 32034",0.5,1
+Steven,Everett,17,3,12,79.3,"Ridgewood, NJ 07450, 9088 Longbranch Rd. ",0.6000000000000001,1
+Lucy,Rodriquez,16,2,10,79.6,"Athens, GA 30605, 144 Beechwood Ave. ",0.5,0
+Orlando,Osborne,19,4,8,69.3,"482 Indian Spring St. , Ypsilanti, MI 48197",0.4,1
+Micah,Wolfe,14,4,11,83.2,"Cornelius, NC 28031, 477 St Margarets Avenue ",0.55,1
+Lunea,Harper,17,4,11,92.3,"9476 Pawnee Ave. , Winston Salem, NC 27103",0.55,0
+Abbot,Hall,16,4,3,58.9,"Lewis Center, OH 43035, 279 Lake View Dr. ",0.15000000000000002,1
+Zia,Ratliff,19,2,19,88.4,"445 Shady St. , Pueblo, CO 81001",0.9500000000000001,0
+Charissa,West,18,4,6,69.9,"74 Pacific St. , Liverpool, NY 13090",0.30000000000000004,0
+Athena,Collins,17,1,4,71.3,"Grand Rapids, MI 49503, 26 Corona Street ",0.2,0
+Fuller,Christian,15,5,9,82.0,"Pikesville, MD 21208, 9781 Linda Street ",0.45,1
+Shelley,Nielsen,15,5,10,88.1,"436 West Bear Hill St. , Jonesboro, GA 30236",0.5,0
+Hamish,Carey,17,1,6,75.6,"171 Shub Farm Street , Millville, NJ 08332",0.30000000000000004,1
+Jayme,Santiago,16,3,6,77.1,"306 Parker Dr. , Romulus, MI 48174",0.30000000000000004,0
+Isaiah,Harrell,17,5,7,75.8,"7306 Annadale Drive , Lake Worth, FL 33460",0.35000000000000003,1
+Rudyard,Horton,19,3,13,77.5,"Grove City, OH 43123, 7695 Washington St. ",0.65,1
+Georgia,Hensley,16,5,11,87.4,"37 Lake Forest Lane , Crofton, MD 21114",0.55,0
+Nehru,Ballard,14,1,19,93.3,"39 Rockville Street , Elgin, IL 60120",0.9500000000000001,1
+Ciara,Valdez,19,4,7,73.1,"Lincolnton, NC 28092, 7277 St Margarets Drive ",0.35000000000000003,0
+Keelie,Sparks,14,5,16,99.5,"Clarkston, MI 48348, 9073 N. College St. ",0.8,0
+Evan,Ball,14,2,9,80.7,"323 West Paris Hill Lane , Sarasota, FL 34231",0.45,1
+Kadeem,Marshall,17,5,18,100.0,"79 Ashley Lane , Hattiesburg, MS 39401",0.9,1
+Luke,Santana,17,1,0,75.0,"339 E. Cambridge Ave. , Twin Falls, ID 83301",0.0,1
+Sara,Gonzalez,14,2,6,72.4,"Andover, MA 01810, 9362 Thorne Court ",0.30000000000000004,0
+Rhiannon,Douglas,16,3,15,82.5,"9165 Nicolls St. , Eau Claire, WI 54701",0.75,0
+Margaret,Mitchell,19,2,14,94.9,"726 Arnold Ave. , Mount Vernon, NY 10550",0.7000000000000001,0
+Nomlanga,Hoover,18,1,11,80.0,"567 W. Mill Pond Lane , Hicksville, NY 11801",0.55,0
+Jescie,Horne,18,0,16,83.4,"8 Whitemarsh Court , Matawan, NJ 07747",0.8,0
+Claire,Wheeler,14,2,14,90.4,"9461 Lawrence St. , Buffalo Grove, IL 60089",0.7000000000000001,0
+Madeson,Wilkins,15,4,16,98.0,"968 Riverview Street , Palos Verdes Peninsula, CA 90274",0.8,0
+Prescott,Kaufman,15,1,17,96.3,"7166 Mill Pond St. , Roslindale, MA 02131",0.8500000000000001,1
+Kaitlin,Solomon,17,1,8,66.4,"New Port Richey, FL 34653, 8 West Pearl St. ",0.4,0
+Yardley,Horne,18,1,10,79.6,"8756 North Oxford Dr. , Smithtown, NY 11787",0.5,1
+Hasad,Rice,19,4,16,95.9,"61 Church St. , Holbrook, NY 11741",0.8,1
+Tana,Rodgers,15,5,15,96.6,"93 Smith Store Court , Detroit, MI 48205",0.75,0
+Mufutau,Dawson,17,5,14,99.9,"375 Crescent St. , Eastpointe, MI 48021",0.7000000000000001,1
+Paul,Haley,18,5,17,84.2,"85 Indian Spring Drive , Coventry, RI 02816",0.8500000000000001,1
+Bryar,Melendez,18,5,12,93.4,"Amarillo, TX 79106, 471 Oak Valley Drive ",0.6000000000000001,0
+Arthur,Morse,19,1,14,80.2,"8651 West Fieldstone St. , Tallahassee, FL 32303",0.7000000000000001,1
+Inga,Sharpe,17,1,5,74.1,"Wyandotte, MI 48192, 633 Fifth Ave. ",0.25,0
+Steel,Solomon,16,4,13,87.3,"8939 Cambridge Street , Troy, NY 12180",0.65,1
+Brianna,Trevino,18,3,13,82.6,"8028 North Van Dyke Lane , Alpharetta, GA 30004",0.65,0
+Noah,Blanchard,14,2,14,88.1,"Cambridge, MA 02138, 19 Academy Street ",0.7000000000000001,1
+Kelsie,Diaz,15,4,15,93.9,"857 Country Club Drive , Greensburg, PA 15601",0.75,0
+Jacob,Finch,15,2,14,87.1,"4 Strawberry St. , Depew, NY 14043",0.7000000000000001,1
+Baker,Winters,15,2,14,89.8,"Apt 36 , Winona, MN 55987",0.7000000000000001,1
+Jael,Knapp,14,3,15,83.7,"44 North Marconi Ave. , Nampa, ID 83651",0.75,0
+Norman,Kinney,15,3,14,88.0,"22 S. Elm Lane , Menasha, WI 54952",0.7000000000000001,1
+Jacob,Gray,15,3,17,100.0,"7874 Cherry Hill Ave. , Flushing, NY 11354",0.8500000000000001,1
+Cynthia,Hurley,16,4,12,81.0,"Dorchester, MA 02125, 90 Maiden Street ",0.6000000000000001,0
+Elijah,Bell,19,5,16,88.4,"8064 White Drive , Hamilton, OH 45011",0.8,1
+Isaiah,Avery,15,3,9,82.3,"69 W. Carpenter Drive , Depew, NY 14043",0.45,1
+Miriam,Jacobson,17,2,10,77.8,"9931 W. Glenwood St. , Medford, MA 02155",0.5,0
+Hiroko,Koch,17,4,15,90.4,"Asheville, NC 28803, 7732 High Dr. ",0.75,0
+Colton,Ochoa,17,1,4,60.3,"Dubuque, IA 52001, 43 Hamilton Road ",0.2,1
+Caldwell,Dorsey,17,5,9,79.1,"83 Gulf Lane , Flemington, NJ 08822",0.45,1
+Pandora,Dickerson,15,2,3,70.5,"Xenia, OH 45385, 820 Fifth Rd. ",0.15000000000000002,0
+Thomas,Boyer,17,4,17,89.9,"681 Harvard Dr. , Encino, CA 91316",0.8500000000000001,1
+Phelan,Mcmillan,17,3,17,98.0,"60 Middle River Dr. , Royal Oak, MI 48067",0.8500000000000001,1
+Gabriel,Jordan,16,4,2,62.0,"973 White Rd. , Englishtown, NJ 07726",0.1,1
+Kamal,Dodson,17,4,7,77.6,"10 Glenridge St. , Orange Park, FL 32065",0.35000000000000003,1
+Holmes,Lawson,18,2,16,98.7,"202 Second Lane , Chatsworth, GA 30705",0.8,1
+Preston,Church,17,1,8,66.1,"Dorchester, MA 02125, 18 Walt Whitman Dr. ",0.4,1
+Chester,Becker,19,3,14,89.4,"Queensbury, NY 12804, 7978 Glenridge Street ",0.7000000000000001,1
+Quamar,Delaney,15,4,11,91.3,"38 East Bellevue Dr. , Macon, GA 31204",0.55,1
+Amery,Mcmahon,19,3,12,84.2,"63 Lancaster St. , Nicholasville, KY 40356",0.6000000000000001,1
+Vance,Cherry,17,2,6,65.1,"98 Halifax Street , Arvada, CO 80003",0.30000000000000004,1
+Lee,Ramsey,19,1,10,86.5,"1 SW. Old York Ave. , New Windsor, NY 12553",0.5,0
+Malik,Vega,19,2,10,72.3,"8319 Hillcrest Dr. , Hamden, CT 06514",0.5,1
+Dana,Weaver,14,3,6,67.3,"Buford, GA 30518, 7057 Fordham St. ",0.30000000000000004,0
+Kelly,Crane,14,2,8,80.6,"7833 Country Club Ave. , Medford, MA 02155",0.4,1
+Ryan,Petersen,16,5,11,81.3,"Suite 95 , Central Islip, NY 11722",0.55,1
+Brett,Wilkerson,18,2,7,76.0,"9559 Old Cedar St. , Vista, CA 92083",0.35000000000000003,1
+Veda,Gilbert,18,4,12,82.5,"Bridgeport, CT 06606, 14 Rockland St. ",0.6000000000000001,0
+Ezekiel,Alexander,16,5,8,81.5,"9332 Canal St. , Hudsonville, MI 49426",0.4,1
+Ulla,Marshall,17,2,12,81.0,"Saugus, MA 01906, 443 North Boston Street ",0.6000000000000001,0
+Linda,Baldwin,16,5,2,59.0,"7765 Bishop Dr. , Perkasie, PA 18944",0.1,0
+Ulysses,Huber,14,1,7,66.6,"41 Thatcher Drive , Owensboro, KY 42301",0.35000000000000003,1
+Tana,Frye,17,3,6,81.2,"8704 Wood Ave. , Cranford, NJ 07016",0.30000000000000004,0
+Kaye,Potts,19,1,5,66.6,"87 Miller Ave. , Round Lake, IL 60073",0.25,0
+Marshall,Reeves,15,4,11,83.0,"7666 Myers Ave. , Los Banos, CA 93635",0.55,1
+Hedley,Rodriguez,15,3,8,78.3,"450 North Jefferson St. , Willoughby, OH 44094",0.4,1
+Gillian,Cunningham,19,5,13,82.9,"8365 N. Temple St. , Nutley, NJ 07110",0.65,0
+Nadine,Jacobson,17,4,11,75.5,"175 Bank St. , Butler, PA 16001",0.55,0
+Nathan,Ferrell,16,2,13,77.5,"150 S. Winding Way Avenue , Wheaton, IL 60187",0.65,1
+Amethyst,Christensen,15,5,6,80.4,"Banning, CA 92220, 651 Acacia Lane ",0.30000000000000004,0
+Nigel,Wilkins,19,5,10,90.0,"El Dorado, AR 71730, 89 Grand St. ",0.5,1
+Nigel,Mclean,18,4,12,77.6,"24 North Paris Hill St. , Anderson, SC 29621",0.6000000000000001,1
+Dara,Weber,15,3,11,85.7,"9643 Williams Street , Hartselle, AL 35640",0.55,0
+Neil,Beck,16,2,18,91.4,"7622 Lake St. , Meriden, CT 06450",0.9,1
+Mollie,Ryan,15,1,14,97.2,"102 Schoolhouse St. , Indian Trail, NC 28079",0.7000000000000001,0
+Yolanda,Hanson,15,4,16,94.3,"Villa Rica, GA 30180, 293 Clark Dr. ",0.8,0
+Sonia,Jacobson,18,1,14,88.2,"South Ozone Park, NY 11420, 328 North Court ",0.7000000000000001,0
+Dustin,Chambers,17,5,15,94.7,"Cocoa, FL 32927, 582 Manchester Ave. ",0.75,1
+Berk,Austin,19,5,11,88.1,"Vineland, NJ 08360, 674 Lower River St. ",0.55,1
+Scott,Snow,16,4,5,77.2,"Fuquay Varina, NC 27526, 442 Homestead Drive ",0.25,1
+Nicole,Harrell,18,4,10,76.7,"8435 Carson Avenue , Warminster, PA 18974",0.5,0
+Myra,Wilkinson,14,5,14,86.2,"Cornelius, NC 28031, 66 Rock Creek Dr. ",0.7000000000000001,0
+Shoshana,Moses,14,3,13,87.4,"Media, PA 19063, 10 Spring Avenue ",0.65,0
+Asher,Sloan,17,5,7,70.2,"Avon, IN 46123, 9 Miles St. ",0.35000000000000003,1
+Kaden,Grant,17,5,14,100.0,"Basking Ridge, NJ 07920, 8954 Glen Eagles Court ",0.7000000000000001,0
+Aaron,Knowles,16,4,11,88.7,"779 Bayport St. , Wheeling, WV 26003",0.55,1
+Chester,Stuart,19,2,5,65.3,"8371 Cross Ave. , Windsor, CT 06095",0.25,1
+Quin,Prince,18,5,15,92.4,"Newton, NJ 07860, 940 Gregory St. ",0.75,0
+Jared,Randall,19,1,11,89.0,"Hamilton, OH 45011, 6 Shore Ave. ",0.55,1
+September,Hoffman,16,3,11,82.8,"8632 Lincoln Street , Rahway, NJ 07065",0.55,0
+Maxwell,Carver,15,1,11,81.8,"West Babylon, NY 11704, 6 Heather Street ",0.55,1
+Miranda,Donovan,16,2,4,63.7,"West Lafayette, IN 47906, 117 Shub Farm Drive ",0.2,0
+Shaine,Harrell,14,1,11,90.3,"94 Chestnut St. , Aberdeen, SD 57401",0.55,0
+Craig,Sweeney,15,4,10,88.1,"875 Catherine Ave. , Crystal Lake, IL 60014",0.5,1
+Claudia,Bradshaw,19,4,10,80.4,"984 Ashley Lane , Randolph, MA 02368",0.5,0
+Adria,Bender,19,1,7,76.8,"322 East Park Rd. , Harrison Township, MI 48045",0.35000000000000003,0
+Alfonso,Petersen,17,5,11,88.8,"Montgomery, AL 36109, 7211 Peninsula Drive ",0.55,1
+Henry,Chang,18,2,16,94.6,"Atlanta, GA 30303, 722 Mammoth Drive ",0.8,1
+Zachery,Dorsey,16,4,15,85.5,"9492 Holly Street , Arvada, CO 80003",0.75,1
+Barclay,Finley,18,4,11,86.9,"Stratford, CT 06614, 9955 Vine St. ",0.55,1
+Audra,Stout,14,5,10,85.1,"73 Marshall Drive , Derry, NH 03038",0.5,0
+Ila,Mooney,14,5,12,93.8,"Portsmouth, VA 23703, 9978 North Lakeshore Rd. ",0.6000000000000001,0
+Felix,Spears,16,2,11,76.5,"84 Boston Lane , Longwood, FL 32779",0.55,1
+Roanna,Hoover,17,5,15,94.2,"285 North Marconi Dr. , West Orange, NJ 07052",0.75,0
+Audra,Murphy,18,1,12,74.2,"728 Parker Dr. , Des Moines, IA 50310",0.6000000000000001,0
+Isaac,Gray,16,5,12,81.0,"7766 N. Colonial St. , Menasha, WI 54952",0.6000000000000001,1
+Laura,Shannon,16,4,13,82.4,"West Lafayette, IN 47906, 3 Evergreen St. ",0.65,0
+Myra,Parrish,19,5,15,100.0,"8641 Greystone Dr. , Parsippany, NJ 07054",0.75,0
+Iola,Fernandez,17,1,14,81.6,"45 Jennings Street , Algonquin, IL 60102",0.7000000000000001,0
+Inez,Stephenson,17,5,17,100.0,"Murfreesboro, TN 37128, 109 Longbranch Street ",0.8500000000000001,0
+Kyra,Love,19,2,12,93.0,"747 Brookside Avenue , Thibodaux, LA 70301",0.6000000000000001,0
+Emery,Shepherd,14,5,11,89.0,"26C Boston Court , Hudson, NH 03051",0.55,1
+Sade,Juarez,18,3,5,61.1,"Barberton, OH 44203, 82 New St. ",0.25,0
+Aline,Bond,18,4,6,68.2,"1 Ashley Ave. , Lagrange, GA 30240",0.30000000000000004,0
+Cyrus,Kelley,19,5,13,81.8,"Danvers, MA 01923, 9582 Glenholme Dr. ",0.65,1
+Patrick,Bell,19,1,11,85.0,"16 North Hillside Road , Rock Hill, SC 29730",0.55,1
+Kuame,Gordon,18,1,16,83.5,"90 Woodside Street , Banning, CA 92220",0.8,1
+Yvette,Coleman,18,4,17,89.8,"20 Illinois St. , Hamtramck, MI 48212",0.8500000000000001,0
+Ronan,Howell,19,3,4,68.0,"Elk River, MN 55330, 34 Saxon Rd. ",0.2,1
+Courtney,Bryan,16,5,15,88.3,"49 Cambridge Street , Jeffersonville, IN 47130",0.75,0
+Tate,Fletcher,15,3,12,87.2,"827 Pine St. , Cedar Rapids, IA 52402",0.6000000000000001,1
+Pascale,Freeman,16,5,15,96.4,"Westfield, MA 01085, 388 Blackburn Drive ",0.75,0
+Morgan,Ayala,14,5,4,73.0,"41 Nichols Ave. , Norwich, CT 06360",0.2,0
+Declan,Manning,18,4,16,100.0,"7145 Main Drive , High Point, NC 27265",0.8,1
+Dana,Vang,17,4,14,88.7,"499 Bedford Ave. , Hyattsville, MD 20782",0.7000000000000001,0
+Orlando,Mcguire,15,1,13,84.4,"9139 Elmwood St. , New Bedford, MA 02740",0.65,1
+Giselle,Estes,15,1,6,65.9,"70 Temple Road , Neenah, WI 54956",0.30000000000000004,0
+Ryan,Hodge,17,1,4,60.9,"8 Oakland Dr. , Hialeah, FL 33010",0.2,1
+Kylee,Santana,18,4,10,90.3,"Unit 65 , Winston Salem, NC 27103",0.5,0
+Laith,Henderson,19,1,6,67.4,"6 E. New St. , Patchogue, NY 11772",0.30000000000000004,1
+Sarah,Gibbs,15,5,9,71.3,"9369 Meadowbrook Street , Port Chester, NY 10573",0.45,0
+Hiroko,Parsons,14,3,17,95.4,"Rockford, MI 49341, 226 E. Arlington Avenue ",0.8500000000000001,0
+John,Branch,15,2,17,86.5,"621 Sherwood Drive , Huntington Station, NY 11746",0.8500000000000001,1
+Inez,Vargas,16,2,19,93.4,"7366 Thatcher Ave. , Ypsilanti, MI 48197",0.9500000000000001,0
+Ciaran,Brady,19,3,3,62.5,"9817 Winding Way Lane , Lincoln, NE 68506",0.15000000000000002,1
+Elvis,Stewart,16,5,8,85.1,"9884 Green Hill Drive , Waukegan, IL 60085",0.4,1
+Elton,Sanchez,16,4,9,70.1,"1 Shipley St. , Fenton, MI 48430",0.45,1
+Bertha,Waller,19,5,8,80.5,"7272 Purple Finch Street , Forest Hills, NY 11375",0.4,0
+Cameron,Craig,16,4,11,76.7,"93 Glenlake St. , Oxnard, CA 93035",0.55,0
+Griffin,Woodward,19,5,14,92.5,"Dickson, TN 37055, 76 Arcadia St. ",0.7000000000000001,1
+Savannah,Sherman,14,3,16,87.3,"Lake Villa, IL 60046, 988 Tower Lane ",0.8,0
+Sydnee,Carpenter,14,4,11,75.3,"771 Vale St. , Saint Charles, IL 60174",0.55,0
+Clarke,Crawford,18,1,8,77.8,"7654 Plymouth St. , Buffalo, NY 14215",0.4,1
+Aileen,Mcgee,19,5,10,85.4,"9431 Homewood Drive , Little Falls, NJ 07424",0.5,0
+Michael,Bell,15,3,7,64.1,"317 Ohio Dr. , New Hyde Park, NY 11040",0.35000000000000003,1
+Ivana,Watts,16,5,9,87.4,"New Bern, NC 28560, 7531 Leeton Ridge St. ",0.45,0
+Kerry,Mcbride,16,1,6,67.0,"8423 N. Summer St. , Tiffin, OH 44883",0.30000000000000004,0
+Kasimir,Clarke,16,5,8,68.2,"8569 South Smoky Hollow Dr. , Upland, CA 91784",0.4,1
+Celeste,Alford,14,5,8,73.2,"Dekalb, IL 60115, 7464 Surrey Court ",0.4,0
+Nyssa,Kent,17,5,4,76.1,"13 Hudson St. , Oshkosh, WI 54901",0.2,0
+Jolene,Rivers,14,5,10,79.3,"275 East Wood St. , Enterprise, AL 36330",0.5,0
+Bo,Miranda,18,1,11,82.8,"Lockport, NY 14094, 859 Golden Star Street ",0.55,0
+Summer,Lang,15,3,12,85.8,"Depew, NY 14043, 865 Prospect St. ",0.6000000000000001,0
+Gloria,Morrison,15,1,10,88.0,"Fuquay Varina, NC 27526, 436 West Logan Drive ",0.5,0
+Bethany,Fields,14,5,12,88.2,"378 Country Lane , Chatsworth, GA 30705",0.6000000000000001,0
+Sonia,Kelly,17,4,7,83.6,"Linden, NJ 07036, 8075 Gregory Lane ",0.35000000000000003,0
+Noah,Suarez,16,1,12,82.6,"Altamonte Springs, FL 32714, 9828 Ridgewood Drive ",0.6000000000000001,1
+Travis,Avery,15,4,12,85.1,"160 Livingston Ave. , Birmingham, AL 35209",0.6000000000000001,1
+Dai,Osborne,19,5,20,100.0,"Springfield Gardens, NY 11413, 7964 E. Ramblewood Rd. ",1.0,0
+Rebekah,Skinner,16,2,13,81.7,"The Villages, FL 32162, 101 Oak Meadow Street ",0.65,0
+Zorita,Oliver,16,2,12,93.1,"96 Crescent Dr. , York, PA 17402",0.6000000000000001,0
+Tara,Townsend,14,1,9,71.0,"524 Jackson St. , Gainesville, VA 20155",0.45,0
+Kaitlin,Lane,15,3,10,71.0,"Drexel Hill, PA 19026, 618 Walt Whitman St. ",0.5,0
+Preston,Paul,16,4,8,67.8,"20 Maple Circle , Rockville, MD 20850",0.4,1
+Kirk,Keller,16,4,6,77.0,"9469 West Manor Dr. , Stoughton, MA 02072",0.30000000000000004,1
+Zeph,Gilmore,19,3,9,88.3,"8042 Highland Street , Stockbridge, GA 30281",0.45,1
+Rahim,Weaver,19,4,12,92.9,"847 Woodland Avenue , Waukegan, IL 60085",0.6000000000000001,1
+Linus,Snow,18,5,17,88.4,"2 Stillwater St. , Manchester Township, NJ 08759",0.8500000000000001,1
+Vladimir,Salinas,17,3,5,70.9,"9781 Union St. , Norwalk, CT 06851",0.25,1
+Wang,Reed,16,5,13,93.7,"83 Sycamore Avenue , Carpentersville, IL 60110",0.65,1
+Kaseem,Leon,18,1,5,67.1,"498 King St. , Owosso, MI 48867",0.25,1
+Yetta,Vasquez,17,2,6,77.3,"Muncie, IN 47302, 71 East Vernon Ave. ",0.30000000000000004,0
+Lacey,Tucker,17,4,16,87.5,"76 Holly Dr. , Summerville, SC 29483",0.8,0
+James,Mccormick,15,3,5,71.0,"8288 Mulberry Circle , Waynesboro, PA 17268",0.25,1
+Inga,Webster,14,3,10,75.9,"Piscataway, NJ 08854, 30 South 8th Street ",0.5,0
+Eagan,Oliver,17,4,11,86.6,"7103 Green Ave. , Raeford, NC 28376",0.55,1
+Orson,Burton,18,3,17,96.6,"8105 Stonybrook St. , Graham, NC 27253",0.8500000000000001,1
+Noelani,Villarreal,19,1,5,75.4,"17 Valley View St. , Cornelius, NC 28031",0.25,0
+Chester,Vance,17,1,5,60.1,"Windermere, FL 34786, 8605 South Shady Road ",0.25,1
+Stuart,Powell,17,1,6,64.1,"4 Bishop Drive , Glen Cove, NY 11542",0.30000000000000004,1
+Robert,Bass,16,4,9,73.8,"8583 Colonial Street , Wakefield, MA 01880",0.45,1
+Zephania,Dotson,16,4,14,98.1,"972 Highland St. , Tupelo, MS 38801",0.7000000000000001,1
+Robin,Adkins,16,4,4,68.0,"45 West Washington Court , Waldorf, MD 20601",0.2,0
+Kamal,Wheeler,17,5,15,86.3,"Mcminnville, TN 37110, 932 Pilgrim Street ",0.75,1
+William,Greene,19,4,11,84.0,"1 East William Street , Blacksburg, VA 24060",0.55,1
+Merritt,Donovan,16,5,7,83.1,"13 Marsh St. , Opa Locka, FL 33054",0.35000000000000003,1
+Orla,Carlson,19,3,8,75.8,"983 Bowman Drive , Greenfield, IN 46140",0.4,0
+Byron,Buckner,16,2,13,92.9,"592 East William Lane , Ronkonkoma, NY 11779",0.65,1
+Aimee,Sheppard,14,3,12,87.0,"Toms River, NJ 08753, 67 East Wayne St. ",0.6000000000000001,0
+Daphne,Patel,19,1,10,82.2,"East Northport, NY 11731, 7073 Baker St. ",0.5,0
+Clarke,Mills,17,2,9,83.1,"20 SE. Highland St. , Camas, WA 98607",0.45,1
+Kameko,Flynn,17,3,15,86.6,"911 Tanglewood St. , Halethorpe, MD 21227",0.75,0
+Kamal,Pacheco,16,1,14,84.1,"Lindenhurst, NY 11757, 55 Military Lane ",0.7000000000000001,1
+Kuame,Conrad,18,3,14,92.6,"621 W. Thorne Dr. , Hendersonville, NC 28792",0.7000000000000001,1
+Erasmus,Maynard,17,4,15,87.3,"277 West Miles Ave. , Winchester, VA 22601",0.75,1
+Mufutau,Clayton,17,1,16,86.0,"Canonsburg, PA 15317, 92 10th St. ",0.8,1
+Daria,Taylor,19,3,14,87.1,"Mason City, IA 50401, 894 County Street ",0.7000000000000001,0
+Hamilton,Mclean,16,3,14,82.0,"8594 Sycamore Drive , Berwyn, IL 60402",0.7000000000000001,1
+Belle,Walter,19,4,14,85.7,"Fargo, ND 58102, 1 Santa Clara St. ",0.7000000000000001,0
+Honorato,Finley,17,5,9,77.6,"95 Beacon St. , Eden Prairie, MN 55347",0.45,1
+Josephine,Jennings,15,2,12,89.0,"548 Van Dyke Avenue , Coraopolis, PA 15108",0.6000000000000001,0
+Quentin,Bryan,19,4,7,77.7,"Tualatin, OR 97062, 7892 Border Drive ",0.35000000000000003,1
+Lars,Hines,18,1,5,71.0,"Bowling Green, KY 42101, 24 Military Dr. ",0.25,1
+Wade,Holden,15,3,12,92.6,"457 Glen Creek Dr. , Cranberry Twp, PA 16066",0.6000000000000001,1
+Faith,Cotton,17,4,15,99.8,"42 Cherry St. , Loveland, OH 45140",0.75,0
+Bruno,Humphrey,16,3,12,76.8,"729 St Louis Street , Freeport, NY 11520",0.6000000000000001,1
+Lacey,Nieves,18,1,2,57.9,"175 Rockaway St. , South Richmond Hill, NY 11419",0.1,0
+Odette,Herrera,16,5,6,82.8,"12 Blackburn Ave. , Dallas, GA 30132",0.30000000000000004,0
+Davis,Reese,19,3,15,87.7,"545 Thatcher Court , Wakefield, MA 01880",0.75,1
+Wang,Dorsey,18,3,10,76.3,"76 Old Bear Hill Road , Liverpool, NY 13090",0.5,1
+Todd,Madden,19,4,13,89.8,"Lewis Center, OH 43035, 7509 Cross Ave. ",0.65,1
+Oren,Porter,16,4,14,80.8,"8645 Cedar Street , Hazleton, PA 18201",0.7000000000000001,1
+Sharon,Hull,14,5,8,79.0,"Logansport, IN 46947, 19 Jefferson Court ",0.4,0
+Kareem,Hudson,18,4,16,98.6,"4 Glenlake Lane , Severn, MD 21144",0.8,1
+Unity,Preston,19,1,14,86.8,"Port Huron, MI 48060, 790 Amherst St. ",0.7000000000000001,0
+Ella,Cantrell,18,4,15,96.5,"Fernandina Beach, FL 32034, 76 Leatherwood Dr. ",0.75,0
+Hanna,Burton,15,1,14,81.5,"Olympia, WA 98512, 71 Galvin Street ",0.7000000000000001,0
+Cody,Giles,15,5,9,79.2,"7067 Union Drive , Grand Blanc, MI 48439",0.45,1
+Latifah,Williamson,17,3,6,66.7,"8617 Pacific St. , Rockledge, FL 32955",0.30000000000000004,0
+Aileen,Huff,16,4,13,96.5,"Emporia, KS 66801, 214 Pleasant Court ",0.65,0
+Brittany,Odom,17,5,13,91.5,"Schererville, IN 46375, 8713 George Court ",0.65,0
+Marny,Daniels,17,2,4,69.0,"Dedham, MA 02026, 9558 Sage Lane ",0.2,0
+Dieter,Tyson,18,2,8,67.9,"356 Middle River Ave. , Port Richey, FL 34668",0.4,1
+Raja,Burt,17,3,8,82.6,"62 East Queen Road , Stow, OH 44224",0.4,1
+Irma,Bradley,14,3,6,66.2,"307 Devonshire Court , Carrollton, GA 30117",0.30000000000000004,0
+Gray,Reilly,16,1,12,87.5,"Tualatin, OR 97062, 46 Second Ave. ",0.6000000000000001,1
+Pamela,Holder,16,4,4,61.8,"303 Hartford Road , Suitland, MD 20746",0.2,0
+Conan,Stout,19,5,6,70.0,"Alliance, OH 44601, 7940 S. Alton Dr. ",0.30000000000000004,1
+Stella,Phillips,18,1,8,66.1,"9824 W. Dogwood St. , Menomonee Falls, WI 53051",0.4,0
+Xenos,Snow,14,2,12,91.4,"623 Fairview St. , Baldwin, NY 11510",0.6000000000000001,1
+Justin,Pierce,18,4,15,92.0,"431 Sherman St. , Flemington, NJ 08822",0.75,1
+Kareem,Munoz,15,1,9,81.4,"New Baltimore, MI 48047, 6 Surrey St. ",0.45,1
+Ali,Underwood,18,1,13,89.5,"Natchez, MS 39120, 9971 Lake Street ",0.65,1
+Bethany,Duke,19,5,9,79.4,"Burbank, IL 60459, 33 School Ave. ",0.45,0
+Amaya,Green,17,1,19,99.2,"8117 Saxon Lane , Lawrence, MA 01841",0.9500000000000001,0
+Wyatt,Marsh,17,1,6,74.7,"25 N. Brook St. , Glenview, IL 60025",0.30000000000000004,1
+Carol,Sparks,17,2,17,91.1,"73 Mountainview St. , Neenah, WI 54956",0.8500000000000001,0
+Kiona,Collier,14,4,11,84.0,"2 Carriage Street , Bowie, MD 20715",0.55,0
+Jocelyn,Ashley,14,3,9,73.4,"90 Brown St. , West Bloomfield, MI 48322",0.45,0
+Shellie,Murray,18,1,13,85.3,"7303 Durham Lane , Sioux Falls, SD 57103",0.65,0
+Talon,Rush,17,3,16,98.1,"131 Bear Hill Street , Lumberton, NC 28358",0.8,1
+Alana,Berry,17,3,11,87.5,"955 Evergreen St. , Holyoke, MA 01040",0.55,0
+Steel,Tanner,14,5,12,80.7,"Rockville, MD 20850, 872 Sunnyslope Rd. ",0.6000000000000001,1
+Elvis,Clayton,17,3,8,81.1,"777 Prairie Ave. , Dracut, MA 01826",0.4,1
+Silas,Paul,19,1,15,94.2,"7 Beechwood Dr. , Thomasville, NC 27360",0.75,1
+Yasir,Fowler,18,1,5,73.5,"9550 E. Baker St. , Vincentown, NJ 08088",0.25,1
+Breanna,Gillespie,19,1,12,82.5,"North Olmsted, OH 44070, 414 Harrison Dr. ",0.6000000000000001,0
+Nasim,Fernandez,16,2,14,83.8,"795 Eagle St. , Westwood, NJ 07675",0.7000000000000001,1
+Kaitlin,Mccarthy,17,1,14,95.4,"Noblesville, IN 46060, 9439 Galvin St. ",0.7000000000000001,0
+Cassidy,Hogan,18,3,5,76.9,"Annapolis, MD 21401, 735 Rockwell St. ",0.25,0
+Ebony,David,17,3,12,90.5,"Meriden, CT 06450, 9292 1st Dr. ",0.6000000000000001,0
+Leila,Riggs,15,3,9,71.4,"Londonderry, NH 03053, 8444 Greenview Ave. ",0.45,0
+Troy,Raymond,18,5,11,80.3,"515 Brook St. , Ithaca, NY 14850",0.55,1
+Buckminster,Craig,19,5,14,95.2,"6 Sunset St. , Chapel Hill, NC 27516",0.7000000000000001,1
+Kessie,Gonzalez,19,3,13,86.4,"17 South Spruce Dr. , Westwood, NJ 07675",0.65,0
+Ariel,Cortez,18,5,3,74.7,"Mocksville, NC 27028, 23 Big Rock Cove St. ",0.15000000000000002,0
+Cailin,Crosby,19,3,12,75.5,"Hattiesburg, MS 39401, 189 West Gonzales St. ",0.6000000000000001,0
+Calvin,Maldonado,18,5,9,82.7,"45 E. Rockwell Drive , Oakland Gardens, NY 11364",0.45,1
+Connor,Huber,19,4,8,84.9,"Erie, PA 16506, 7656 Pennsylvania Dr. ",0.4,1
+Libby,Odonnell,17,1,6,65.1,"Mount Airy, MD 21771, 725 Piper Ave. ",0.30000000000000004,0
+Kiara,Singleton,16,4,19,100.0,"Saginaw, MI 48601, 215 North Front Dr. ",0.9500000000000001,0
+Dante,Odom,18,3,10,79.9,"Newtown, PA 18940, 679 Leatherwood Street ",0.5,1
+Dalton,Washington,17,5,14,90.4,"8556 Pennsylvania Dr. , Ypsilanti, MI 48197",0.7000000000000001,1
+Bruce,Cobb,18,5,15,95.8,"8 Baker Street , Plainfield, NJ 07060",0.75,1
+Cara,Hudson,15,1,8,66.1,"4 W. Linden Ave. , Champaign, IL 61821",0.4,0
+Carla,Larsen,18,1,16,95.2,"227 Sheffield Ave. , Sebastian, FL 32958",0.8,0
+Ali,Franks,18,5,20,100.0,"8 Peg Shop St. , Stroudsburg, PA 18360",1.0,1
+Cadman,Whitaker,18,5,4,67.8,"Fullerton, CA 92831, 795 Essex Ave. ",0.2,1
+Holmes,Carson,15,5,15,92.2,"Nanuet, NY 10954, 882 Maple Ave. ",0.75,1
+Lee,Alford,16,1,15,83.7,"524 Bohemia Ave. , Pomona, CA 91768",0.75,1
+Virginia,Rodgers,18,2,5,75.0,"128 Pineknoll Avenue , Mountain View, CA 94043",0.25,0
+Gwendolyn,Vazquez,19,5,19,100.0,"Maplewood, NJ 07040, 77 South Oxford Lane ",0.9500000000000001,0
+Althea,Ratliff,19,2,10,79.4,"75 Dogwood Lane , Eugene, OR 97402",0.5,0
+Micah,Gilbert,19,5,11,76.1,"29 NE. Cactus Dr. , Menasha, WI 54952",0.55,1
+Jordan,Spears,17,5,13,89.4,"17 Oakland Dr. , Akron, OH 44312",0.65,1
+Walker,Terrell,18,2,9,85.4,"510 Brook Lane , Indianapolis, IN 46201",0.45,1
+Lunea,Grant,16,1,15,88.7,"377 Parker St. , Apex, NC 27502",0.75,0
+Odessa,Puckett,14,5,13,84.3,"447 Evergreen Ave. , Colonial Heights, VA 23834",0.65,0
+Risa,Chang,14,5,17,98.6,"Yorktown, VA 23693, 999 Foxrun Dr. ",0.8500000000000001,0
+Juliet,Collier,18,2,14,94.6,"2 N. Joy Ridge Ave. , Upper Darby, PA 19082",0.7000000000000001,0
+Flavia,Jones,18,4,4,66.6,"8915 East Marshall Avenue , Somerset, NJ 08873",0.2,0
+Noble,Zamora,17,1,14,91.7,"756 Peninsula Ave. , Oak Creek, WI 53154",0.7000000000000001,1
+Catherine,Lynch,15,2,10,81.9,"9566 Clinton St. , Mchenry, IL 60050",0.5,0
+Carissa,Fuller,18,3,7,76.8,"Campbell, CA 95008, 7310 La Sierra St. ",0.35000000000000003,0
+Aiko,Mullins,15,3,15,95.5,"Lemont, IL 60439, 866 Devonshire Street ",0.75,0
+Nora,Gonzales,17,2,10,85.5,"580 Ashley Ave. , Emporia, KS 66801",0.5,0
+Armando,Holman,17,5,7,76.5,"524 Squaw Creek St. , Elkton, MD 21921",0.35000000000000003,1
+Kendall,Shepherd,16,2,14,81.2,"Greenwood, SC 29646, 827 East Rockwell Drive ",0.7000000000000001,0
+Virginia,Murphy,17,4,12,81.6,"9322 Lower River Court , San Jose, CA 95127",0.6000000000000001,0
+Hashim,Knox,19,1,5,66.8,"Addison, IL 60101, 682 Woodsman Ave. ",0.25,1
+Hedley,Benton,18,3,12,78.2,"72 Hill Dr. , Clarksville, TN 37040",0.6000000000000001,1
+Quamar,Sherman,17,4,9,80.2,"Canal Winchester, OH 43110, 3 Parker Rd. ",0.45,1
+Tatum,Buchanan,18,2,7,71.9,"420 Nut Swamp Road , Endicott, NY 13760",0.35000000000000003,0
+Abraham,Mccormick,18,2,10,73.7,"North Wales, PA 19454, 7527 Santa Clara Dr. ",0.5,1
+Drake,Winters,17,4,19,100.0,"41 Glen Eagles Road , Winchester, VA 22601",0.9500000000000001,1
+Stella,Taylor,19,3,3,65.5,"965 Pheasant Ave. , Williamstown, NJ 08094",0.15000000000000002,0
+Lawrence,Willis,16,1,11,75.2,"8172 College St. , Antioch, TN 37013",0.55,1
+Rylee,Mcpherson,19,5,10,76.8,"Glendale, AZ 85302, 461 Fieldstone St. ",0.5,0
+Tate,Crosby,19,3,3,68.6,"Waltham, MA 02453, 216 Oak Valley Ave. ",0.15000000000000002,1
+Gavin,Tran,18,2,10,70.4,"730 W. Summer Street , Goodlettsville, TN 37072",0.5,1
+Blossom,House,19,4,8,81.1,"Bergenfield, NJ 07621, 9634 Edgemont Court ",0.4,0
+Carolyn,Wolfe,14,5,9,85.2,"7518 Washington Dr. , East Stroudsburg, PA 18301",0.45,0
+Zia,Tyson,14,3,15,88.2,"Wappingers Falls, NY 12590, 36 Lancaster Street ",0.75,0
+Fitzgerald,Hammond,18,1,16,85.9,"Clarkston, MI 48348, 257 Chestnut Court ",0.8,1
+Bruno,Sharpe,16,5,10,90.4,"Eau Claire, WI 54701, 7516 Logan St. ",0.5,1
+Silas,Gillespie,16,1,13,85.6,"8910 School Dr. , New Milford, CT 06776",0.65,1
+Xantha,Parrish,18,4,9,74.0,"9575 Sunbeam Dr. , Staten Island, NY 10301",0.45,0
+Maxine,Cooley,19,3,9,77.0,"836 Hill Field Avenue , Vineland, NJ 08360",0.45,0
+Levi,Maddox,19,2,8,68.1,"888 W. Helen St. , Clover, SC 29710",0.4,1
+Judah,Wise,15,1,14,93.8,"483 Illinois Lane , Port Huron, MI 48060",0.7000000000000001,1
+Tanya,Coleman,19,3,10,74.6,"Essex, MD 21221, 887 Rose Street ",0.5,0
+Camille,Barr,14,4,14,100.0,"Sioux Falls, SD 57103, 9885 Garden Road ",0.7000000000000001,0
+Sarah,Bruce,14,2,9,75.4,"Pueblo, CO 81001, 61 Liberty Lane ",0.45,0
+Colton,Charles,17,5,8,80.1,"Macomb, MI 48042, 715 West Harvard Dr. ",0.4,1
+Alika,Poole,19,2,16,32.0,"Klamath Falls, OR 97603, 161 S. Wrangler Ave. ",0.8,0
+Ifeoma,Hendricks,17,3,13,79.0,"Midland, MI 48640, 86 Gates Dr. ",0.65,0
+Hakeem,Dorsey,15,2,5,74.7,"473 Linda St. , Falls Church, VA 22041",0.25,1
+Reese,Heath,18,4,8,75.3,"7496 Prairie Drive , Prior Lake, MN 55372",0.4,1
+Lance,Steele,15,1,14,92.2,"Cockeysville, MD 21030, 55 Thompson Lane ",0.7000000000000001,1
+Adrienne,Conrad,18,1,9,73.4,"308 W. Lakeshore Court , Sioux Falls, SD 57103",0.45,0
+Aretha,Fisher,14,1,13,83.2,"Caldwell, NJ 07006, 217 Leeton Ridge St. ",0.65,0
+Jeremy,Rowe,19,3,10,83.4,"755 Linda Drive , Gulfport, MS 39503",0.5,1
+Ciaran,Gay,19,4,3,59.3,"Oak Lawn, IL 60453, 8600 West Gonzales Avenue ",0.15000000000000002,1
+Nero,Burgess,17,1,16,87.6,"466 Bank Street , Vernon Rockville, CT 06066",0.8,1
+Tyrone,Stephenson,18,5,17,91.4,"428 Wayne Drive , Villa Park, IL 60181",0.8500000000000001,1
+Ashton,Mullen,16,1,16,80.1,"Warren, MI 48089, 7127 N. Redwood Street ",0.8,1
+Samantha,Freeman,15,2,13,87.4,"84 Pheasant Rd. , Douglasville, GA 30134",0.65,0
+Katell,Stafford,15,5,9,74.0,"Amityville, NY 11701, 762 Rose Rd. ",0.45,0
+Callum,Whitley,16,5,11,80.2,"Ottumwa, IA 52501, 6 Littleton Dr. ",0.55,1
+Miriam,Elliott,16,1,13,80.9,"North Bergen, NJ 07047, 7 Rockville St. ",0.65,0
+David,Nichols,19,4,12,75.7,"56 53rd Ave. , Chesterfield, VA 23832",0.6000000000000001,1
+Kalia,Moss,15,2,11,84.5,"Plattsburgh, NY 12901, 34 Princeton Dr. ",0.55,0
+Quon,James,19,2,5,71.4,"Massillon, OH 44646, 4 East Peachtree St. ",0.25,0
+Cyrus,Landry,19,4,12,80.4,"8798 East Leeton Ridge Street , Dorchester, MA 02125",0.6000000000000001,1
+Keane,Copeland,16,1,6,67.5,"9973 Stonybrook Drive , Boynton Beach, FL 33435",0.30000000000000004,1
+Hammett,Schroeder,19,2,12,86.2,"Kernersville, NC 27284, 738 Primrose Street ",0.6000000000000001,1
+Arthur,Sims,16,2,11,80.5,"7570 Alton Road , Farmingdale, NY 11735",0.55,1
+Mary,Vang,18,1,7,70.6,"Moses Lake, WA 98837, 8049 Birchpond Street ",0.35000000000000003,0
+Patience,Hyde,19,2,10,87.4,"Wakefield, MA 01880, 9924 Cardinal Dr. ",0.5,0
+Hadassah,Valenzuela,18,3,5,76.3,"93 George Road , Virginia Beach, VA 23451",0.25,0
+Sylvester,Payne,17,5,20,100.0,"204 Longbranch Road , Geneva, IL 60134",1.0,1
+Penelope,Campos,18,1,9,73.0,"125 West George Lane , Garden City, NY 11530",0.45,0
+Camilla,Goff,18,4,8,70.2,"Villa Rica, GA 30180, 956 W. Buckingham Ave. ",0.4,0
+Hamish,Haley,18,1,9,71.1,"8611 NE. Arrowhead Lane , Bowling Green, KY 42101",0.45,1
+Wylie,Alexander,16,3,13,82.0,"25 Linda Court , Patchogue, NY 11772",0.65,1
+Serena,Frazier,17,4,6,80.4,"Villa Park, IL 60181, 129 E. Alderwood Street ",0.30000000000000004,0
+Tasha,Park,14,5,5,73.0,"Peoria, IL 61604, 8586 Peg Shop Rd. ",0.25,0
+Gretchen,Haynes,19,4,4,77.2,"West Haven, CT 06516, 170 Woodsman Dr. ",0.2,0
+Ruth,Bowman,18,3,18,100.0,"8 Grandrose Street , Gwynn Oak, MD 21207",0.9,0
+Eric,Walter,18,4,15,93.2,"Grand Blanc, MI 48439, 9598 Valley Road ",0.75,1
+Steven,Sherman,18,1,2,60.0,"391 Smith Ave. , Rosedale, NY 11422",0.1,1
+Janna,Moran,17,5,17,100.0,"32 North Big Rock Cove Court , Toms River, NJ 08753",0.8500000000000001,0
+Jonas,Bailey,16,5,14,85.6,"775 Marvon Dr. , Charlotte, NC 28205",0.7000000000000001,1
+Steven,Hayes,15,4,14,88.7,"153 Windfall St. , Loganville, GA 30052",0.7000000000000001,1
+Pascale,Ingram,14,4,3,76.5,"700 South Tarkiln Hill Street , Hyattsville, MD 20782",0.15000000000000002,0
+Dominic,Gould,19,4,8,85.2,"166 Mulberry Road , Fort Wayne, IN 46804",0.4,1
+Mason,Burke,14,4,10,84.3,"95 Fieldstone St. , Chardon, OH 44024",0.5,1
+Ifeoma,Miles,16,5,10,83.3,"Langhorne, PA 19047, 24 S. Pine St. ",0.5,0
+Amela,Randall,16,1,6,78.6,"Caldwell, NJ 07006, 8201 Canal Dr. ",0.30000000000000004,0
+Eve,Dillon,18,4,8,71.7,"Dalton, GA 30721, 28 Coffee Lane ",0.4,0
+Leilani,Marquez,16,4,12,89.9,"9687 W. Hilltop Ave. , Gwynn Oak, MD 21207",0.6000000000000001,0
+Yoshio,Cruz,17,1,13,76.5,"446 West Thompson Dr. , Ankeny, IA 50023",0.65,1
+Jin,Parks,17,1,8,78.4,"93 Ridgeview Lane , Feasterville Trevose, PA 19053",0.4,1
+Gay,Pope,18,3,11,88.9,"9275 Market St. , Lebanon, PA 17042",0.55,0
+Solomon,Myers,19,3,9,81.6,"677 Crescent Street , Saint Petersburg, FL 33702",0.45,1
+Amery,Pearson,17,1,14,83.3,"761 Young Street , Cartersville, GA 30120",0.7000000000000001,1
+Hyacinth,Roberson,18,4,11,81.6,"390 Sussex Dr. , Malvern, PA 19355",0.55,0
+Evan,Hester,17,2,9,76.5,"9817 Buckingham Court , Hillsboro, OR 97124",0.45,1
+Merritt,Dominguez,15,3,10,74.0,"8907 Hilldale Drive , Longview, TX 75604",0.5,1
+Rebekah,Schmidt,18,5,12,84.1,"8677 Queen Street , East Orange, NJ 07017",0.6000000000000001,0
+Jesse,Boyle,18,1,9,73.8,"9128 Joy Ridge Street , Plainfield, NJ 07060",0.45,1
+Aaron,Salas,19,4,10,86.7,"8671 Argyle Drive , Holly Springs, NC 27540",0.5,1
+Noble,Walsh,19,4,10,79.1,"9155 Valley Farms Road , Loganville, GA 30052",0.5,1
+Beverly,Kinney,17,3,12,88.1,"285 Grant Street , San Jose, CA 95127",0.6000000000000001,0
+Ferdinand,Garcia,18,2,11,89.5,"963 Wayne Drive , Dallas, GA 30132",0.55,1
+Regina,Sellers,18,4,14,84.8,"7857 Prospect Ave. , Bardstown, KY 40004",0.7000000000000001,0
+Quamar,Calhoun,15,2,18,97.4,"Rolla, MO 65401, 950 Anderson St. ",0.9,1
+Erasmus,Huber,15,3,8,75.2,"28 County Drive , Brockton, MA 02301",0.4,1
+Garth,Sims,14,1,10,76.0,"58 Argyle Street , Windsor Mill, MD 21244",0.5,1
+Edward,Guthrie,16,5,7,79.5,"Winter Garden, FL 34787, 16 Brandywine Dr. ",0.35000000000000003,1
+Maryam,Walter,16,2,12,79.2,"Naugatuck, CT 06770, 59 Bayberry Road ",0.6000000000000001,0
+Len,Curry,14,3,15,83.3,"Opa Locka, FL 33054, 9787 Country St. ",0.75,1
+Oscar,Sosa,14,3,15,88.9,"566 Rockwell Dr. , Chicago, IL 60621",0.75,1
+Ferdinand,Sanchez,18,3,17,95.6,"7836 Tallwood Street , Orange, NJ 07050",0.8500000000000001,1
+Aquila,Aguirre,16,1,5,71.0,"7943 Whitemarsh Street , Lombard, IL 60148",0.25,1
+Lydia,Ruiz,18,1,13,87.3,"794 Mill Pond St. , Roy, UT 84067",0.65,0
+Camilla,Turner,16,5,10,79.3,"9227 Swanson St. , Land O Lakes, FL 34639",0.5,0
+Walter,Decker,15,4,8,84.9,"9924 Inverness St. , Independence, KY 41051",0.4,1
+Dakota,Salazar,14,2,15,85.3,"Fall River, MA 02720, 9250 Canal Dr. ",0.75,0
+Stuart,Rasmussen,14,3,14,97.6,"99 Shore Ave. , West Hempstead, NY 11552",0.7000000000000001,1
+Timothy,Pearson,19,4,12,86.7,"Perrysburg, OH 43551, 3 Miller Street ",0.6000000000000001,1
+Allistair,Davenport,14,1,18,88.0,"Windermere, FL 34786, 7173 Elm St. ",0.9,1
+Wing,Holcomb,16,4,10,80.6,"Deerfield, IL 60015, 7280 Jackson Drive ",0.5,1
+Casey,Ramirez,18,5,9,87.4,"9693 South Rock Creek Lane , Fairmont, WV 26554",0.45,0
+Quintessa,Joyce,15,3,6,74.0,"59 River Ave. , Port Richey, FL 34668",0.30000000000000004,0
+Armando,Odom,18,4,5,75.0,"Vernon Rockville, CT 06066, 9736 Baker St. ",0.25,1
+Chase,Wiley,14,1,13,90.8,"81 Laurel Street , Morristown, NJ 07960",0.65,1
+Malcolm,Nicholson,19,3,9,79.2,"7921 Gonzales Ave. , Henderson, KY 42420",0.45,1
+Shellie,Bennett,14,4,11,87.0,"Kent, OH 44240, 847 Winchester Drive ",0.55,0
+Uta,Perez,17,4,10,78.2,"Superior, WI 54880, 434 Poor House Street ",0.5,0
+Lynn,Petersen,16,2,15,84.5,"9444 North Purple Finch Lane , Beaver Falls, PA 15010",0.75,0
+Teegan,Merrill,17,5,11,84.0,"7864 Jockey Hollow Road , Stamford, CT 06902",0.55,0
+Cade,Hogan,18,5,19,98.0,"944 Greenrose Street , Windsor Mill, MD 21244",0.9500000000000001,1
+Scott,Mueller,14,4,6,73.8,"Amsterdam, NY 12010, 876 Creek Dr. ",0.30000000000000004,1
+Rafael,Cherry,19,2,12,91.5,"8408 E. Philmont Lane , Beachwood, OH 44122",0.6000000000000001,1
+Carol,Graves,14,4,12,79.7,"Downers Grove, IL 60515, 426 Middle River St. ",0.6000000000000001,0
+Sawyer,Harding,17,5,9,71.3,"78 Roberts Street , Los Banos, CA 93635",0.45,1
+Erich,Stone,14,5,17,100.0,"20 King Rd. , Chester, PA 19013",0.8500000000000001,1
+Iliana,Marks,18,1,4,69.3,"Tupelo, MS 38801, 35 Carson Avenue ",0.2,0
+Minerva,Skinner,14,5,7,80.2,"467 10th Street , Savage, MN 55378",0.35000000000000003,0
+Anastasia,Goodwin,18,4,3,76.4,"465 Walnutwood Avenue , Fort Worth, TX 76110",0.15000000000000002,0
+Nell,Fitzgerald,17,5,6,83.1,"31 Carson St. , Bergenfield, NJ 07621",0.30000000000000004,0
+Rhiannon,Acevedo,15,3,10,72.7,"8034 53rd St. , Dallas, GA 30132",0.5,0
+Demetria,Rush,17,3,15,98.6,"Wyandotte, MI 48192, 9777 Beach St. ",0.75,0
+Dolan,Maxwell,18,5,7,82.5,"8610 E. Devonshire Court , Harrison Township, MI 48045",0.35000000000000003,1
+Tanek,Gallagher,17,3,11,74.4,"403 El Dorado St. , Kingston, NY 12401",0.55,1
+Cameron,Blackburn,16,1,16,87.8,"Cartersville, GA 30120, 60 SE. Campfire Street ",0.8,0
+Lila,Wall,17,5,18,100.0,"754 Border Court , Boca Raton, FL 33428",0.9,0
+Cleo,Workman,18,3,8,70.0,"Glen Cove, NY 11542, 381 Cedarwood St. ",0.4,0
+Pandora,Lambert,16,1,11,87.3,"Brunswick, GA 31525, 56 State Dr. ",0.55,0
+Quail,Lewis,15,4,8,69.1,"718 Manor Station Drive , Statesville, NC 28625",0.4,0
+Abigail,Rodriguez,14,5,8,81.5,"21 Main Dr. , Easley, SC 29640",0.4,0
+Kellie,Sandoval,15,2,6,71.5,"Merrick, NY 11566, 1 Buckingham Street ",0.30000000000000004,0
+Dorian,Patel,16,2,7,72.5,"8180 Pilgrim Rd. , Norristown, PA 19401",0.35000000000000003,1
+Lester,Page,15,1,10,82.4,"Barberton, OH 44203, 8033 S. Theatre Ave. ",0.5,1
+Brody,Sharp,19,4,12,93.1,"501 Marvon Ave. , Dothan, AL 36301",0.6000000000000001,1
+Alea,Harmon,14,3,12,82.2,"7359 Depot St. , Ocean Springs, MS 39564",0.6000000000000001,0
+Simon,Mclaughlin,15,2,8,74.7,"Southington, CT 06489, 833 Hillside Drive ",0.4,1
+Oscar,Thomas,14,3,14,90.4,"9110 S. Durham St. , Saint Albans, NY 11412",0.7000000000000001,1
+Allen,York,15,3,10,80.0,"86 Penn St. , Roanoke Rapids, NC 27870",0.5,1
+Octavius,Riley,15,3,16,84.4,"55 West Lafayette Ave. , New Philadelphia, OH 44663",0.8,1
+Griffith,Larsen,19,4,8,84.1,"7403 Ashley Drive , Ithaca, NY 14850",0.4,1
+Cullen,Britt,19,4,8,70.7,"92 Bellevue Ave. , Lincoln Park, MI 48146",0.4,1
+Jerome,Cox,14,1,7,77.8,"93 Wentworth St. , Elizabeth City, NC 27909",0.35000000000000003,1
+Orson,Acosta,18,4,14,94.4,"Greenfield, IN 46140, 56 San Juan St. ",0.7000000000000001,1
+Adam,Franklin,15,3,9,68.3,"9676 Olive Dr. , Vicksburg, MS 39180",0.45,1
+Kathleen,David,15,3,11,89.1,"9146 Sunbeam St. , Deerfield, IL 60015",0.55,0
+Josephine,Rivers,18,2,17,100.0,"South El Monte, CA 91733, 7340 W. Canterbury Dr. ",0.8500000000000001,0
+India,Christensen,14,1,14,89.0,"Miamisburg, OH 45342, 937 Gregory Avenue ",0.7000000000000001,0
+Samuel,Cooke,17,1,15,98.2,"7572 Wild Rose Ave. , Roselle, IL 60172",0.75,1
+Len,Greer,15,3,9,84.3,"7621 SE. Kent St. , El Dorado, AR 71730",0.45,1
+Shad,Arnold,17,2,10,84.4,"953 Middle River St. , Sun Prairie, WI 53590",0.5,1
+Kevyn,Cote,14,5,14,93.7,"Coram, NY 11727, 3 Bear Hill Ave. ",0.7000000000000001,0
+Thor,Sanders,16,3,14,90.1,"Bridgeton, NJ 08302, 95 Greenrose Ave. ",0.7000000000000001,1
+Clark,Cervantes,19,2,6,76.3,"York, PA 17402, 159 Philmont Drive ",0.30000000000000004,1
+Yetta,Webb,19,1,11,87.5,"Eastlake, OH 44095, 69 Pineknoll Street ",0.55,0
+Alexandra,Guthrie,19,4,9,72.1,"9079 Johnson Street , El Dorado, AR 71730",0.45,0
+Magee,Kim,17,1,14,76.8,"8680 Carson St. , Santa Clara, CA 95050",0.7000000000000001,1
+Ezra,Talley,18,1,18,88.2,"73 Cactus Dr. , Waukegan, IL 60085",0.9,1
+Solomon,Perez,15,5,9,81.6,"Richmond Hill, NY 11418, 102 Sherwood Street ",0.45,1
+Zenia,Craft,17,4,13,86.9,"50 Brown Avenue , Elmhurst, NY 11373",0.65,0
+Cade,Maxwell,19,3,9,84.9,"Newington, CT 06111, 81 County Dr. ",0.45,1
+Erica,Oconnor,17,5,11,86.4,"Shelbyville, TN 37160, 390 E. La Sierra Drive ",0.55,0
+Constance,Little,17,1,6,71.8,"54 Cactus Drive , Massillon, OH 44646",0.30000000000000004,0
+Jamal,Morton,16,4,19,100.0,"7978 Birchpond Street , Cambridge, MA 02138",0.9500000000000001,1
+Felix,Potter,18,4,11,82.1,"9103 North St. , Chesapeake, VA 23320",0.55,1
+Theodore,Estes,18,3,10,84.0,"13 Hill Avenue , West Deptford, NJ 08096",0.5,1
+Forrest,Reyes,16,3,15,83.3,"841 Academy Street , Pompano Beach, FL 33060",0.75,1
+Cassidy,Navarro,19,5,11,75.7,"744 NW. Shady St. , Lindenhurst, NY 11757",0.55,0
+Violet,Conley,16,1,12,73.7,"823 Buckingham Drive , Palm Coast, FL 32137",0.6000000000000001,0
+Bo,Fletcher,18,2,4,77.0,"211 Franklin Drive , Anoka, MN 55303",0.2,0
+Malcolm,Peck,19,4,10,82.6,"7905 Vernon Rd. , Valrico, FL 33594",0.5,1
+Kato,Mercado,17,5,8,78.6,"732 Argyle Rd. , Sidney, OH 45365",0.4,1
+Acton,Edwards,18,4,7,70.8,"8148B Paris Hill Road , Wooster, OH 44691",0.35000000000000003,1
+Porter,White,17,2,13,77.9,"3 Depot Road , East Elmhurst, NY 11369",0.65,1
+Lucy,Jennings,19,3,9,73.9,"Paramus, NJ 07652, 115 Sheffield Street ",0.45,0
+Rama,Cameron,16,1,9,85.7,"996 Virginia Street , Coventry, RI 02816",0.45,0
+Abbot,Daugherty,17,1,9,82.3,"27 Bridge Court , Albany, NY 12203",0.45,1
+Colette,Rojas,19,4,6,73.3,"Commack, NY 11725, 9597 NW. Oak Meadow St. ",0.30000000000000004,0
+Athena,Acevedo,15,4,12,90.0,"Beckley, WV 25801, 53 Squaw Creek Road ",0.6000000000000001,0
+Ferris,Wade,18,2,7,70.4,"7850 E. Grove Court , Klamath Falls, OR 97603",0.35000000000000003,1
+Tamara,Branch,16,4,17,92.3,"13 Cardinal St. , Cranston, RI 02920",0.8500000000000001,0
+Rinah,Jacobson,19,1,7,80.8,"Lake Mary, FL 32746, 437 North Highland St. ",0.35000000000000003,0
+Tyler,Leon,18,4,15,94.2,"9311 Richardson St. , Front Royal, VA 22630",0.75,1
+Fredericka,White,17,2,10,88.3,"Oak Park, MI 48237, 41 Hillside Drive ",0.5,0
+Kevin,Smith,16,5,20,100.0,"956 Brookside Street , Dawsonville, GA 30534",1.0,1
+Hayes,Wilkinson,19,5,3,76.0,"Lynchburg, VA 24502, 30 William Street ",0.15000000000000002,1
+Kevin,Hewitt,18,4,13,96.1,"933 Wall Ave. , Buffalo Grove, IL 60089",0.65,1
+Ciara,Atkins,14,1,9,69.0,"King Of Prussia, PA 19406, 346 Thatcher St. ",0.45,0
+Merrill,Vance,18,2,13,80.9,"906 West Hartford Dr. , Lutherville Timonium, MD 21093",0.65,1
+Scott,Trujillo,17,5,13,90.3,"7539 Purple Finch St. , Lorton, VA 22079",0.65,1
+Noah,Mckay,19,5,8,74.8,"Loganville, GA 30052, 3 Old York St. ",0.4,1
+Nathan,Serrano,16,1,18,90.3,"52 Walt Whitman Lane , Toms River, NJ 08753",0.9,1
+Gwendolyn,Pratt,19,3,14,82.7,"Menomonee Falls, WI 53051, 7335 8th Drive ",0.7000000000000001,0
+Lavinia,Gaines,15,1,5,64.2,"66 Winchester Street , Oshkosh, WI 54901",0.25,0
+Hedley,Patrick,19,0,14,94.5,"Norman, OK 73072, 7551 Mill Pond Ave. ",0.7000000000000001,1
+Abel,Stephens,18,4,2,68.2,"286 Hill Field Ave. , Huntsville, AL 35803",0.1,1
+Addison,Barron,15,2,11,76.0,"8175 Oklahoma Street , Fairfield, CT 06824",0.55,1
+Dora,Hewitt,19,2,3,65.4,"142 Philmont Drive , Sioux Falls, SD 57103",0.15000000000000002,0
+Riley,Morris,16,5,18,100.0,"Lincoln, NE 68506, 8957 Fawn Lane ",0.9,0
+Naida,Davidson,14,3,13,90.8,"205 Catherine Court , Franklin, MA 02038",0.65,0
+Garth,Myers,15,3,15,90.6,"North Bergen, NJ 07047, 8854 Smith Rd. ",0.75,1
+Philip,Burgess,17,1,13,77.4,"Ponte Vedra Beach, FL 32082, 8793 Argyle Drive ",0.65,1
+Alec,Whitfield,18,1,9,70.3,"9630 Sleepy Hollow St. , Starkville, MS 39759",0.45,1
+Aretha,Whitley,15,1,10,82.2,"Hoffman Estates, IL 60169, 7289 Glenridge St. ",0.5,0
+Lysandra,Noble,15,4,13,79.2,"75 Sycamore St. , Grand Blanc, MI 48439",0.65,0
+Kirestin,Murphy,15,3,15,95.9,"7364 Orange St. , Bemidji, MN 56601",0.75,0
+Rebekah,Wiley,17,5,12,79.5,"Cape Coral, FL 33904, 958 Mayfair St. ",0.6000000000000001,0
+Samson,Francis,19,1,12,81.9,"Danvers, MA 01923, 81 Aspen St. ",0.6000000000000001,1
+Mira,Branch,17,2,15,91.8,"Morrisville, PA 19067, 35 Smith Store Street ",0.75,0
+Branden,Holcomb,15,4,11,84.4,"810 Lees Creek Lane , Portland, ME 04103",0.55,1
+Kasper,Melendez,19,4,9,73.8,"94 S. Kingston St. , Glasgow, KY 42141",0.45,1
+Chester,Buck,18,3,7,79.3,"222 Kingston Dr. , Lynchburg, VA 24502",0.35000000000000003,1
+Amir,Ross,16,2,5,77.6,"268 Foxrun Street , Mentor, OH 44060",0.25,1
+Elijah,Hahn,18,4,11,84.6,"Starkville, MS 39759, 24 River Street ",0.55,1
+Adena,Griffin,17,5,12,80.2,"196 Myers Dr. , Southington, CT 06489",0.6000000000000001,0
+Sandra,Wilder,16,2,15,97.5,"Hammonton, NJ 08037, 8660 Old Bishop Street ",0.75,0
+Dennis,Garrett,15,3,9,76.3,"107C Fairground Ave. , Valdosta, GA 31601",0.45,1
+Brenden,Slater,16,1,14,89.7,"9965 W. Iroquois Ave. , Nottingham, MD 21236",0.7000000000000001,1
+Cadman,Ballard,14,3,11,86.8,"Paramus, NJ 07652, 8358 North Windfall St. ",0.55,1
+Noel,Ellis,18,1,11,77.0,"Danville, VA 24540, 729 South Third St. ",0.55,0
+Paula,Mcbride,17,5,6,69.2,"Hartsville, SC 29550, 932 Orange Ave. ",0.30000000000000004,0
+Coby,Gibson,16,5,13,79.2,"179 N. Court St. , Superior, WI 54880",0.65,1
+Cally,Pearson,17,1,11,88.2,"7872 Cedar Swamp St. , Lorain, OH 44052",0.55,0
+Slade,Mooney,18,2,3,68.0,"Oakland, CA 94603, 7673 East Livingston Ave. ",0.15000000000000002,1
+Beau,Olson,15,1,12,75.0,"9123 Warren Ave. , Ypsilanti, MI 48197",0.6000000000000001,1
+Zane,Rodgers,14,3,14,83.0,"860 Arnold Ave. , Winter Springs, FL 32708",0.7000000000000001,1
+Zephr,Simmons,14,4,6,67.0,"51 Wayne Court , South Richmond Hill, NY 11419",0.30000000000000004,0
+Craig,Moses,19,4,19,100.0,"19 Front Dr. , Prior Lake, MN 55372",0.9500000000000001,1
+Tanek,Stephens,15,1,4,60.5,"9780 Essex Street , North Bergen, NJ 07047",0.2,1
+Jaquelyn,Gutierrez,14,3,10,87.1,"9573 Hill Field Ave. , Franklin, MA 02038",0.5,0
+Lucas,Buchanan,15,3,8,83.8,"15 NE. Olive Dr. , Ocean Springs, MS 39564",0.4,1
+Courtney,Preston,15,4,13,96.1,"9008 New Saddle Ave. , Middle Village, NY 11379",0.65,0
+Marny,Sandoval,17,2,8,76.4,"90 Green Hill Street , Newburgh, NY 12550",0.4,0
+Zelda,Casey,14,2,10,89.2,"40 Sleepy Hollow St. , West Babylon, NY 11704",0.5,0
+Steven,Turner,18,5,6,76.4,"427 W. Race Lane , Winchester, VA 22601",0.30000000000000004,1
+Alma,Davis,16,3,7,72.8,"85 Newcastle Ave. , Rego Park, NY 11374",0.35000000000000003,0
+Cameran,Potts,16,1,13,82.4,"8188 Center Street , Zeeland, MI 49464",0.65,0
+Caleb,Mcmahon,15,3,12,93.3,"Champlin, MN 55316, 9 West Surrey Rd. ",0.6000000000000001,1
+Conan,Meadows,19,3,16,86.2,"Fairfax, VA 22030, 141 Carpenter Ave. ",0.8,1
+Audrey,Pruitt,17,4,8,69.3,"Torrance, CA 90505, 26 York Ave. ",0.4,0
+Astra,Bean,18,5,7,68.2,"988 Devon Court , Camden, NJ 08105",0.35000000000000003,0
+Dara,Giles,15,4,17,88.4,"184 Broad Ave. , Montgomery, AL 36109",0.8500000000000001,0
+Sharon,Hart,19,2,14,96.3,"578 Silver Spear St. , Elyria, OH 44035",0.7000000000000001,0
+Paul,Atkins,19,1,17,97.9,"76 Warren Road , Cleveland, TN 37312",0.8500000000000001,1
+Wendy,Armstrong,14,5,11,88.1,"8432 Victoria Circle , Loxahatchee, FL 33470",0.55,0
+Charles,Gray,14,3,7,79.1,"958 Addison Road , Nottingham, MD 21236",0.35000000000000003,1
+Chancellor,Puckett,19,2,12,91.1,"789 Cherry Ave. , Newburgh, NY 12550",0.6000000000000001,1
+Carter,Cross,14,4,12,92.4,"Bridgeton, NJ 08302, 8317 West Pumpkin Hill Road ",0.6000000000000001,1
+Stephanie,Douglas,18,4,18,100.0,"983 Wentworth Ave. , Winder, GA 30680",0.9,0
+Lesley,Valentine,19,2,13,94.8,"5 Fulton Dr. , Akron, OH 44312",0.65,0
+Mufutau,Beck,18,5,12,82.9,"9727 Lakeview Street , Odenton, MD 21113",0.6000000000000001,1
+Talon,Watkins,17,5,7,71.2,"39 Fieldstone Court , Newington, CT 06111",0.35000000000000003,1
+Ignacia,Prince,17,2,11,86.1,"Mount Juliet, TN 37122, 89 Hillside Street ",0.55,0
+Seth,Cannon,16,1,19,100.0,"Gibsonia, PA 15044, 2 Airport Lane ",0.9500000000000001,1
+Flavia,Lane,15,4,12,77.0,"204 Bow Ridge St. , Chattanooga, TN 37421",0.6000000000000001,0
+Kenyon,Acosta,16,1,16,93.1,"52 Cedar Drive , Middletown, CT 06457",0.8,1
+Inga,Ellison,19,5,13,93.9,"Titusville, FL 32780, 9061 Sleepy Hollow St. ",0.65,0
+Lyle,Higgins,16,2,11,89.7,"76 Newport Street , North Olmsted, OH 44070",0.55,1
+Carson,Mack,16,5,19,94.9,"7 Valley Farms Rd. , Jonesborough, TN 37659",0.9500000000000001,1
+Ava,Pope,16,3,17,93.0,"527 East Prairie St. , Canyon Country, CA 91387",0.8500000000000001,0
+Wang,Sellers,15,4,13,77.3,"8190 Princeton Drive , Casselberry, FL 32707",0.65,1
+Steven,Graham,19,4,17,95.1,"7285 Arlington Drive , Windsor Mill, MD 21244",0.8500000000000001,1
+Lee,Barber,15,2,2,62.3,"120 South Glen Ridge Street , Mechanicsburg, PA 17050",0.1,1
+Latifah,Higgins,17,4,9,78.6,"Salt Lake City, UT 84119, 7935 Clark St. ",0.45,0
+Gavin,Bryan,18,3,13,80.1,"9474 Broad Dr. , Cumberland, RI 02864",0.65,1
+Indira,Briggs,17,4,9,72.3,"Xenia, OH 45385, 9514 Logan Ave. ",0.45,0
+Ori,Massey,16,3,11,89.5,"Springfield Gardens, NY 11413, 3 Mayfield Avenue ",0.55,0
+Mona,Gilliam,17,0,11,89.5,"9525 Country Club St. , Longview, TX 75604",0.55,0
+Brett,Hopper,19,2,13,92.3,"8392 Devonshire Ave. , Pasadena, MD 21122",0.65,1
+Francesca,Ratliff,14,1,13,79.2,"7729 South Buttonwood Ave. , Danvers, MA 01923",0.65,0
+Phyllis,Woods,17,4,7,71.9,"623 S. Pin Oak Street , Macon, GA 31204",0.35000000000000003,0
+Dora,Scott,19,4,7,80.1,"Prattville, AL 36067, 67 Ann Court ",0.35000000000000003,0
+Bo,Thompson,17,2,13,94.6,"37 Big Rock Cove Avenue , Park Forest, IL 60466",0.65,0
+Sonia,Mccall,16,5,17,100.0,"42 Campfire Lane , Fairborn, OH 45324",0.8500000000000001,0
+Petra,Burton,18,5,7,81.2,"864 Trenton Court , Asbury Park, NJ 07712",0.35000000000000003,0
+Karina,Chase,15,2,11,88.9,"Farmington, MI 48331, 41 Edgemont St. ",0.55,0
+Brielle,Sharpe,17,4,16,95.9,"43 Oakland St. , Beachwood, OH 44122",0.8,0
+Tamekah,Skinner,17,4,11,85.4,"9412 Westport Dr. , Huntley, IL 60142",0.55,0
+Kyra,Conley,14,1,6,70.8,"113 Race Ave. , Owatonna, MN 55060",0.30000000000000004,0
+Nichole,Blake,14,3,6,70.4,"3 W. Glenwood Dr. , Severna Park, MD 21146",0.30000000000000004,0
+Joseph,Nielsen,17,1,16,89.2,"416 Lantern Court , Saint Albans, NY 11412",0.8,1
+Cheryl,Henderson,15,3,14,88.9,"7653 Franklin Road , Bellmore, NY 11710",0.7000000000000001,0
+Eugenia,Barton,15,2,8,68.1,"Ladson, SC 29456, 4 East Ave. ",0.4,0
+Scarlet,Woods,17,2,7,76.5,"8641 North Trout Drive , Vista, CA 92083",0.35000000000000003,0
+Daryl,Harper,16,1,10,88.0,"730 South Golden Star Street , Euless, TX 76039",0.5,0
+Ebony,Salinas,19,5,5,81.6,"558 West Border Circle , Apple Valley, CA 92307",0.25,0
+Harper,Kelly,16,5,5,67.6,"905 Glenridge Lane , Mundelein, IL 60060",0.25,1
+Cadman,Cardenas,17,4,10,84.7,"7639 South Manhattan Ave. , Andover, MA 01810",0.5,1
+Briar,Harper,16,4,15,87.9,"8691 E. Border Dr. , Jupiter, FL 33458",0.75,0
+Martena,Hogan,15,3,10,82.2,"8835 Cemetery St. , Deland, FL 32720",0.5,0
+Elaine,Ramos,14,4,11,84.9,"54 Lawrence Court , New Milford, CT 06776",0.55,0
+Chantale,Bass,15,5,9,90.5,"Fort Myers, FL 33905, 7204 Trenton Lane ",0.45,0
+Dexter,Bell,19,3,10,69.9,"53 Alderwood Street , Land O Lakes, FL 34639",0.5,1
+Aurelia,Carson,19,4,12,81.3,"Gettysburg, PA 17325, 158 Paris Hill Drive ",0.6000000000000001,0
+William,Evans,17,1,6,75.7,"997 Harrison Dr. , Derby, KS 67037",0.30000000000000004,1
+Hiram,Valentine,18,3,17,93.1,"Omaha, NE 68107, 84 East Grandrose Lane ",0.8500000000000001,1
+Lisandra,Haynes,16,5,18,97.4,"Fort Washington, MD 20744, 842 Glen Creek St. ",0.9,0
+Rogan,Cole,19,4,9,83.4,"73 Sussex Drive , La Vergne, TN 37086",0.45,1
+Wendy,Hawkins,15,4,4,69.5,"7907 Magnolia St. , Buford, GA 30518",0.2,0
+Rose,Lloyd,14,2,7,69.1,"334 Virginia Drive , East Brunswick, NJ 08816",0.35000000000000003,0
+Hedy,Michael,15,5,7,81.3,"Central Islip, NY 11722, 810 Charles Drive ",0.35000000000000003,0
+Zahir,Ward,18,1,13,86.0,"Circle Pines, MN 55014, 8735 North High Noon Lane ",0.65,1
+Kato,Webster,17,4,10,72.6,"Leland, NC 28451, 24 South Crescent Ave. ",0.5,1
+Vielka,Greer,15,2,12,74.5,"8 Campfire Street , Greer, SC 29650",0.6000000000000001,0
+Russell,Mays,16,3,10,78.9,"712 Fieldstone St. , Saint Charles, IL 60174",0.5,1
+Maggy,Benton,18,5,16,91.1,"7 Plymouth Street , Saint Joseph, MI 49085",0.8,0
+Yvonne,Osborn,15,2,12,81.4,"Wayne, NJ 07470, 342 N. Tunnel Lane ",0.6000000000000001,0
+Ashton,Ashley,15,1,8,75.8,"350 Delaware Lane , Allen Park, MI 48101",0.4,1
+Preston,Hebert,16,5,13,89.0,"315 Nut Swamp St. , Jamestown, NY 14701",0.65,1
+Clio,Perry,17,2,10,85.1,"7209 South Jackson Road , Muncie, IN 47302",0.5,0
+Marshall,Sexton,18,1,3,62.6,"Carmel, NY 10512, 15 W. Shirley Lane ",0.15000000000000002,1
+Lane,Keith,16,1,8,79.9,"7904 East New Lane , Salisbury, MD 21801",0.4,1
+Laura,Buckner,14,1,5,69.2,"Bluffton, SC 29910, 225 Forest Rd. ",0.25,0
+Athena,Harvey,19,5,20,100.0,"45 Riverview St. , Haines City, FL 33844",1.0,0
+Dorian,Cantu,18,3,8,83.7,"861 Parker Avenue , Glen Burnie, MD 21060",0.4,1
+Ginger,Mcfadden,19,1,4,72.2,"55 Glenridge Lane , Montgomery Village, MD 20886",0.2,0
+Iona,Davis,19,3,11,80.3,"Lake Villa, IL 60046, 523 Halifax Street ",0.55,0
+Arsenio,Frank,14,3,8,81.5,"Green Bay, WI 54302, 776 Walnutwood Ave. ",0.4,1
+Evelyn,Crawford,17,4,11,81.2,"333 Armstrong Avenue , Spring Hill, FL 34608",0.55,0
+Ainsley,Small,19,5,12,94.4,"Vincentown, NJ 08088, 945 Gonzales Drive ",0.6000000000000001,0
+Hamilton,Green,14,1,14,80.2,"9338 Snake Hill St. , Abingdon, MD 21009",0.7000000000000001,1
+Chanda,Roth,17,3,11,92.0,"Clover, SC 29710, 167 Thorne Court ",0.55,0
+Hayley,Aguirre,19,4,14,85.8,"671 Foster Street , Suffolk, VA 23434",0.7000000000000001,0
+Christen,Miles,16,3,6,78.5,"Cumberland, RI 02864, 7331 Hill Field Street ",0.30000000000000004,0
+Dawn,Phelps,15,3,8,73.2,"654 N. Joy Ridge Ave. , Grand Rapids, MI 49503",0.4,0
+Summer,Parker,15,2,18,99.1,"Stone Mountain, GA 30083, 194 Fairway Dr. ",0.9,0
+Melissa,Clay,17,5,13,93.9,"36 Foxrun Court , Pottstown, PA 19464",0.65,0
+Claire,Schmidt,19,1,17,85.2,"Ringgold, GA 30736, 86 Young Dr. ",0.8500000000000001,0
+Ursula,Pruitt,17,4,10,84.5,"Pottstown, PA 19464, 627 North Thatcher Drive ",0.5,0
+Blaze,Chang,18,1,17,92.8,"55 Devon St. , Highland Park, IL 60035",0.8500000000000001,1
+Hiram,Warren,15,2,18,86.2,"7566 Philmont Dr. , Chicopee, MA 01020",0.9,1
+Keegan,Rasmussen,19,4,3,43.0,"994 Hill Field Ave. , Clermont, FL 34711",0.15000000000000002,1
+Wyatt,Pate,19,2,5,72.3,"273 Fairview Avenue , Massillon, OH 44646",0.25,1
+Keegan,Flores,18,4,4,66.7,"818 North Hartford Ave. , Perrysburg, OH 43551",0.2,1
+Rudyard,Shields,18,3,8,85.7,"Defiance, OH 43512, 7406 Old York Street ",0.4,1
+Daphne,Hess,15,5,9,85.1,"982 Temple St. , Manchester, NH 03102",0.45,0
+Imogene,Berger,19,4,10,81.3,"57 College Dr. , Mishawaka, IN 46544",0.5,0
+Ursula,York,16,2,13,86.7,"Saint Louis, MO 63109, 22 Carriage Road ",0.65,0
+Fitzgerald,Barry,15,2,10,69.6,"778 Hudson Ave. , Sidney, OH 45365",0.5,1
+Dai,Santiago,19,1,12,85.5,"Prior Lake, MN 55372, 8 W. Green Ave. ",0.6000000000000001,0
+Mari,Britt,15,5,8,81.8,"Cedar Falls, IA 50613, 7386 Yukon St. ",0.4,0
+Sylvester,Boyd,19,5,6,78.4,"85 South Harrison Rd. , Santa Clara, CA 95050",0.30000000000000004,1
+Benjamin,Trujillo,17,1,14,94.2,"7880 Courtland Dr. , Alpharetta, GA 30004",0.7000000000000001,1
+Drew,Crosby,17,4,9,88.2,"7757 Canterbury Street , Maryville, TN 37803",0.45,1
+Fleur,Pearson,14,3,10,84.8,"9640 Rockville St. , Villa Park, IL 60181",0.5,0
+Darius,Lang,17,4,11,85.9,"67 Beech St. , Miami, FL 33125",0.55,1
+Cedric,Harrell,18,3,8,72.7,"9712 N. Pheasant Ave. , Villa Rica, GA 30180",0.4,1
+Lydia,Benjamin,19,1,14,86.4,"575 Garfield Drive , Uniontown, PA 15401",0.7000000000000001,0
+Keelie,Graham,18,5,6,74.5,"Matawan, NJ 07747, 134 Lake View Dr. ",0.30000000000000004,0
+Maxwell,Pacheco,15,3,9,85.9,"Zeeland, MI 49464, 521 Glendale Street ",0.45,1
+Lysandra,Moore,18,4,15,91.7,"95 Jones Drive , Saint Joseph, MI 49085",0.75,0
+Iona,Jones,19,5,6,79.2,"Hopkins, MN 55343, 850 East Cleveland Street ",0.30000000000000004,0
+Harriet,Paul,14,3,14,89.5,"33 Briarwood Ave. , Rosemount, MN 55068",0.7000000000000001,0
+Gretchen,Cruz,16,3,9,79.4,"Menasha, WI 54952, 9261 Smith Store Street ",0.45,0
+Hunter,Tanner,17,4,18,89.9,"8039 Old Somerset Ave. , Reading, MA 01867",0.9,1
+Lester,George,16,5,16,100.0,"Stow, OH 44224, 99 W. Vernon Drive ",0.8,1
+Upton,Noble,16,4,14,84.4,"553 Sunnyslope Lane , Des Moines, IA 50310",0.7000000000000001,1
+Ralph,Douglas,19,3,10,72.2,"Yuba City, CA 95993, 34 West Grove Avenue ",0.5,1
+Susan,Hahn,18,3,8,77.7,"9535 Wayne St. , Lombard, IL 60148",0.4,0
+Hanna,Mooney,19,2,10,88.8,"Johnston, RI 02919, 4 North Bedford Street ",0.5,0
+Xena,Finley,19,1,11,79.2,"Rolla, MO 65401, 84 Baker Lane ",0.55,0
+Fulton,Roman,14,5,13,96.4,"Elgin, IL 60120, 7041 Thorne Dr. ",0.65,1
+Basil,Gilbert,14,4,10,78.1,"66 Buckingham Dr. , Lake Worth, FL 33460",0.5,1
+Cheyenne,Walsh,15,0,10,74.6,"Hallandale, FL 33009, 53 Big Rock Cove Dr. ",0.5,0
+Sawyer,Mathis,18,5,10,89.6,"9358 High Point Drive , Emporia, KS 66801",0.5,1
+William,Hatfield,16,5,13,89.2,"Daphne, AL 36526, 92 Marvon Road ",0.65,1
+Anthony,Blake,14,5,14,96.6,"42 W. Bald Hill Street , Belmont, MA 02478",0.7000000000000001,1
+Laurel,Byers,15,2,11,77.3,"812 Jockey Hollow Dr. , Pleasanton, CA 94566",0.55,0
+Irene,Vinson,15,3,8,79.4,"366 Prospect Rd. , Baltimore, MD 21206",0.4,0
+Thaddeus,Kirby,14,1,15,98.9,"35 Wild Rose Drive , Woodstock, GA 30188",0.75,1
+Alfreda,Dillard,19,2,6,72.1,"Powhatan, VA 23139, 478 Country Dr. ",0.30000000000000004,0
+Alec,Sheppard,16,4,13,88.3,"7348 Mayfield Ave. , Los Banos, CA 93635",0.65,1
+Hoyt,Bradford,19,4,4,75.8,"629 Strawberry Circle , Gibsonia, PA 15044",0.2,1
+Dolan,Oneill,15,3,14,95.3,"Richmond, VA 23223, 8625 Newbridge Drive ",0.7000000000000001,1
+Blaine,Kirkland,17,5,15,89.6,"Waynesboro, PA 17268, 13 Essex Road ",0.75,0
+Caryn,Cherry,15,3,14,80.8,"Biloxi, MS 39532, 636 Lake Forest St. ",0.7000000000000001,0
+Tanisha,Contreras,14,5,5,75.1,"812 Tower Street , Mcallen, TX 78501",0.25,0
+Burton,Bender,19,5,11,80.3,"34 South Shore Drive , Grove City, OH 43123",0.55,1
+Noah,Keith,14,2,9,81.0,"402 Division Avenue , Springfield Gardens, NY 11413",0.45,1
+Madaline,Hyde,14,1,14,92.0,"46 Greenrose Street , Augusta, GA 30906",0.7000000000000001,0
+Cassidy,Whitley,18,4,20,100.0,"Chatsworth, GA 30705, 633 Arlington Street ",1.0,0
+Cathleen,Robles,14,3,12,78.3,"La Vergne, TN 37086, 58 Windsor St. ",0.6000000000000001,0
+Desiree,Simon,14,2,11,79.2,"102 West Windsor Dr. , Charlotte, NC 28205",0.55,0
+Bruno,Caldwell,16,1,16,99.9,"50 Victoria Dr. , Ashburn, VA 20147",0.8,1
+Laurel,Brennan,17,1,7,75.2,"Englishtown, NJ 07726, 476 South Schoolhouse Dr. ",0.35000000000000003,0
+Bethany,Mays,17,3,18,93.2,"Anchorage, AK 99504, 94 Beech Dr. ",0.9,0
+Cora,Emerson,16,4,17,99.9,"842 Spruce Ave. , Gloucester, MA 01930",0.8500000000000001,0
+Giacomo,Harvey,17,3,7,71.2,"651 Coffee St. , Oak Lawn, IL 60453",0.35000000000000003,1
+Clare,Fitzpatrick,14,4,19,94.2,"Myrtle Beach, SC 29577, 78 Cottage Avenue ",0.9500000000000001,0
+Steven,Frank,18,2,10,85.7,"9867 River St. , Oak Creek, WI 53154",0.5,1
+Brianna,Martinez,18,2,15,86.8,"737 Wayne Lane , West Palm Beach, FL 33404",0.75,0
+Frances,Frost,17,1,16,83.0,"Saint Joseph, MI 49085, 9385 W. Catherine Street ",0.8,0
+Amela,Kennedy,17,4,10,72.1,"Yonkers, NY 10701, 8839 Brandywine Street ",0.5,0
+Libby,Pickett,17,2,13,84.1,"895 W. Ocean Street , Laurel, MD 20707",0.65,0
+Uma,Pugh,16,1,5,67.3,"Macungie, PA 18062, 8674 Glenridge Dr. ",0.25,0
+Jacob,Lindsey,16,4,11,88.1,"482 South Fawn Road , Williamstown, NJ 08094",0.55,1
+Nyssa,Rhodes,17,4,5,64.9,"12 East Circle Ave. , Aiken, SC 29803",0.25,0
+Tate,Moreno,16,1,16,87.6,"508 Cypress Court , Edison, NJ 08817",0.8,1
+Laura,Jacobs,18,5,5,67.6,"Paducah, KY 42001, 696 Grove Dr. ",0.25,0
+Kareem,Walters,16,2,14,83.1,"751 SW. Myers Drive , Dearborn, MI 48124",0.7000000000000001,1
+Dexter,Horn,16,2,10,88.8,"290 Poor House Drive , Scotch Plains, NJ 07076",0.5,1
+Kibo,Howard,19,2,15,83.2,"7899 W. Chestnut Ave. , Framingham, MA 01701",0.75,1
+Madaline,Mcmillan,14,4,8,82.5,"744 Beacon Drive , Stratford, CT 06614",0.4,0
+May,Duran,19,1,18,100.0,"Waukegan, IL 60085, 612 E. Mayfair Street ",0.9,0
+Shad,Avila,19,2,18,86.5,"8709 S. Canterbury Ave. , Saint Cloud, MN 56301",0.9,1
+Rana,Luna,18,1,12,91.8,"408 Snake Hill Dr. , Ottawa, IL 61350",0.6000000000000001,0
+Tobias,Delaney,17,3,10,76.2,"904 Ryan Avenue , Olive Branch, MS 38654",0.5,1
+Erica,Barker,16,3,11,83.0,"56 Franklin Drive , Acworth, GA 30101",0.55,0
+Bruce,Noel,17,1,11,89.7,"662 Miller Avenue , Tuscaloosa, AL 35405",0.55,1
+Bo,Greene,18,2,4,75.3,"North Wales, PA 19454, 552 North Atlantic Lane ",0.2,0
+Lucius,Vang,15,3,10,80.6,"Richardson, TX 75080, 10 South San Carlos St. ",0.5,1
+Lee,Gallagher,19,1,16,98.3,"Bluffton, SC 29910, 246 Pawnee Ave. ",0.8,0
+Matthew,Greer,17,4,10,88.2,"67 Cross St. , Buford, GA 30518",0.5,1
+Mari,Holt,16,2,11,76.1,"664 SW. Cemetery Lane , Bethel Park, PA 15102",0.55,0
+Plato,Holcomb,16,1,7,76.1,"912 Clinton Street , Naples, FL 34116",0.35000000000000003,1
+Constance,Morrow,19,2,17,100.0,"761 Wagon St. , Springboro, OH 45066",0.8500000000000001,0
+Castor,Bryant,14,3,14,91.1,"Chambersburg, PA 17201, 2 North Foxrun St. ",0.7000000000000001,1
+Solomon,Hayden,16,1,13,83.3,"522 Sunbeam Street , Torrington, CT 06790",0.65,1
+Calvin,Chapman,15,2,8,67.6,"8955 Carriage Dr. , Spartanburg, SC 29301",0.4,1
+Linda,Arnold,16,5,8,82.0,"Summerville, SC 29483, 9 East Gonzales St. ",0.4,0
+May,Sandoval,16,4,7,79.5,"9747 E. Baker St. , New Albany, IN 47150",0.35000000000000003,0
+Tobias,Erickson,14,5,3,73.8,"395 Sunnyslope Lane , Elkridge, MD 21075",0.15000000000000002,1
+Dexter,Stark,18,2,14,88.3,"54 Parker Drive , New Orleans, LA 70115",0.7000000000000001,1
+Amos,Reed,17,1,13,95.0,"859 Glenlake Drive , Meadville, PA 16335",0.65,1
+Nichole,Knox,16,3,14,84.3,"Daphne, AL 36526, 16 Cherry Hill St. ",0.7000000000000001,0
+Amber,Morton,18,2,11,77.8,"Elmhurst, NY 11373, 712 Woodsman Street ",0.55,0
+Bruno,Noel,16,2,13,89.8,"744 Windfall Avenue , Adrian, MI 49221",0.65,1
+Isaiah,Harrington,17,1,4,58.9,"Southampton, PA 18966, 717 W. Longbranch St. ",0.2,1
+Samuel,Spence,17,2,13,86.5,"Brookline, MA 02446, 9 Manhattan Ave. ",0.65,1
+Dominic,Martin,17,1,20,92.9,"57 E. Tunnel Ave. , Vicksburg, MS 39180",1.0,1
+Clark,Baker,16,5,18,100.0,"475 N. Honey Creek Street , Columbia, MD 21044",0.9,1
+Destiny,Guerra,17,5,16,100.0,"65 Sierra St. , Trenton, NJ 08610",0.8,0
+Giacomo,Conley,17,3,18,92.1,"89 Marsh St. , New Brunswick, NJ 08901",0.9,1
+Hamish,Cherry,17,5,13,86.0,"59 Edgefield St. , Roslindale, MA 02131",0.65,1
+Leigh,Short,18,5,11,80.1,"32 Ryan Street , Sandusky, OH 44870",0.55,0
+Kylan,Burgess,18,5,4,74.0,"7359 Woodsman Street , Erlanger, KY 41018",0.2,0
+Malcolm,White,16,2,5,62.6,"8927 Cobblestone Rd. , Cambridge, MA 02138",0.25,1
+Dai,Powell,17,4,16,99.0,"7950 Lookout Drive , Pensacola, FL 32503",0.8,0
+Maisie,Barton,16,2,13,81.4,"602 Snake Hill Dr. , Buckeye, AZ 85326",0.65,0
+Jillian,Reynolds,18,2,7,66.6,"Nashville, TN 37205, 188 Birchpond Drive ",0.35000000000000003,0
+Garth,Battle,16,4,12,81.1,"274 High Noon Avenue , Chesapeake, VA 23320",0.6000000000000001,1
+Charissa,Waters,15,4,9,86.2,"Windsor Mill, MD 21244, 9604 East John St. ",0.45,0
+Morgan,Dejesus,14,2,12,85.2,"Addison, IL 60101, 2 Jockey Hollow St. ",0.6000000000000001,0
+Tobias,Newton,18,2,13,87.1,"7 Miles Rd. , West Roxbury, MA 02132",0.65,1
+Phelan,Mathis,19,3,14,87.4,"583 Birch Hill Street , Plainfield, NJ 07060",0.7000000000000001,1
+Keaton,Heath,17,5,6,73.9,"959 Glen Eagles Drive , Somerset, NJ 08873",0.30000000000000004,1
+Victoria,Rojas,18,2,9,80.4,"29 Pleasant Drive , Vicksburg, MS 39180",0.45,0
+August,Bass,18,1,14,80.2,"Piedmont, SC 29673, 309 Fieldstone Drive ",0.7000000000000001,1
+Laurel,Bowman,19,5,10,91.0,"Powell, TN 37849, 36 Mayfield St. ",0.5,0
+Cameron,Marks,18,3,6,76.5,"58 West Bridgeton St. , Long Beach, NY 11561",0.30000000000000004,0
+Nolan,Doyle,19,3,10,86.6,"9418 Heritage Road , Champlin, MN 55316",0.5,1
+Dolan,Guy,15,4,13,95.8,"346 Littleton Dr. , Murfreesboro, TN 37128",0.65,1
+Zenia,Rhodes,16,5,11,92.0,"Miami Gardens, FL 33056, 954 York St. ",0.55,0
+Mia,Goodman,19,4,4,65.8,"Thomasville, NC 27360, 7087 Shub Farm St. ",0.2,0
+Mona,Hull,16,3,10,73.6,"79 Park Street , Middle Village, NY 11379",0.5,0
+Hayley,Davis,17,3,15,96.0,"Toledo, OH 43612, 48 S. Ketch Harbour St. ",0.75,0
+Alexandra,Bowen,18,4,15,98.2,"Collegeville, PA 19426, 907 Union Drive ",0.75,0
+Ria,Cannon,14,5,16,100.0,"Stockbridge, GA 30281, 713 Foxrun Avenue ",0.8,0
+Tara,Gilliam,16,2,5,63.4,"853 Beech Rd. , Anderson, SC 29621",0.25,0
+Hadley,Faulkner,18,3,11,83.5,"54 Grove Street , Buffalo Grove, IL 60089",0.55,0
+Mohammad,Middleton,19,4,12,87.2,"Winter Garden, FL 34787, 824 Creek Street ",0.6000000000000001,1
+Barrett,Randall,18,1,14,88.6,"Albany, NY 12203, 7501 Gregory Court ",0.7000000000000001,1
+Lester,Mendoza,18,1,7,62.7,"598 Mayflower Ave. , Calhoun, GA 30701",0.35000000000000003,1
+Myles,Farmer,19,2,19,100.0,"Vista, CA 92083, 76 Primrose Street ",0.9500000000000001,1
+Katelyn,Galloway,17,1,13,82.1,"47 Mayflower Dr. , Flemington, NJ 08822",0.65,0
+Vivien,Henderson,17,3,12,87.9,"7 Shub Farm Ave. , Derby, KS 67037",0.6000000000000001,0
+Nina,Salazar,17,4,14,92.4,"376 Lantern Street , Oxnard, CA 93035",0.7000000000000001,0
+Hillary,Joyner,15,3,10,75.2,"8923 Windfall Drive , Chevy Chase, MD 20815",0.5,0
+Samson,Spears,19,3,10,80.4,"285 Rose St. , Monroe, NY 10950",0.5,1
+Xerxes,Mooney,17,1,2,70.4,"901 East Baker Ave. , Pottstown, PA 19464",0.1,0
+Porter,Rowland,19,2,5,61.2,"45 Ridgewood Lane , Barberton, OH 44203",0.25,1
+Ann,Medina,15,4,17,92.3,"New Albany, IN 47150, 42 Hudson Ave. ",0.8500000000000001,0
+Bryar,Wiggins,17,4,6,73.3,"Dearborn, MI 48124, 76 Bridle Lane ",0.30000000000000004,0
+Thane,Yates,16,3,8,76.8,"9600 S. Main Lane , Absecon, NJ 08205",0.4,1
+Yoko,Hurley,15,4,12,84.2,"751 Hanover Street , Circle Pines, MN 55014",0.6000000000000001,0
+Perry,Hudson,18,3,10,71.8,"Palm City, FL 34990, 8637 Brandywine Ave. ",0.5,1
+Adam,Gordon,14,2,5,70.1,"8 Willow Ave. , Upper Darby, PA 19082",0.25,1
+Clare,Clarke,19,3,8,74.0,"890 Mechanic Avenue , Sylvania, OH 43560",0.4,0
+Evangeline,Haley,16,5,12,94.3,"Glendale Heights, IL 60139, 79 Schoolhouse Drive ",0.6000000000000001,0
+Eric,Palmer,15,4,10,90.9,"New Brunswick, NJ 08901, 85 Ryan St. ",0.5,1
+Sloane,Gill,18,1,18,96.5,"8801 Briarwood Rd. , Joliet, IL 60435",0.9,0
+Knox,Kane,15,4,18,100.0,"Akron, OH 44312, 700 Chapel St. ",0.9,1
+Simon,Carson,19,4,3,68.8,"27 North Surrey Street , Key West, FL 33040",0.15000000000000002,1
+Gareth,Heath,18,1,15,80.8,"879 Rockwell St. , Fair Lawn, NJ 07410",0.75,1
+Linda,Conner,16,3,12,86.3,"872 Fieldstone Lane , Englishtown, NJ 07726",0.6000000000000001,0
+Arsenio,Mcleod,17,3,5,64.0,"346 Court Dr. , Shrewsbury, MA 01545",0.25,1
+Debra,Graham,19,5,8,74.7,"768 Albany St. , Fairfax, VA 22030",0.4,0
+Andrew,Wooten,16,3,12,77.6,"370 North Ryan Drive , Rossville, GA 30741",0.6000000000000001,1
+Nasim,Stuart,17,1,11,72.4,"Whitestone, NY 11357, 96 Grant Road ",0.55,1
+Tiger,Merritt,16,2,14,85.3,"514 N. Greenview Road , Clearwater, FL 33756",0.7000000000000001,1
+Forrest,Valentine,18,1,6,65.9,"9656 North Beechwood Drive , Morgantown, WV 26508",0.30000000000000004,1
+Reese,Mitchell,16,4,17,92.2,"22 Bedford Street , Lapeer, MI 48446",0.8500000000000001,1
+Abraham,Kent,19,2,5,62.6,"Richmond Hill, NY 11418, 660 North Pennsylvania St. ",0.25,1
+Malcolm,Beach,18,4,14,99.2,"665 Lantern St. , Canyon Country, CA 91387",0.7000000000000001,1
+Herman,Landry,15,2,3,65.9,"8314 St Margarets St. , Fayetteville, NC 28303",0.15000000000000002,1
+Jayme,Cantu,16,3,6,65.1,"606 Shady Dr. , Manitowoc, WI 54220",0.30000000000000004,0
+Duncan,Noel,16,5,9,84.1,"22 Myers Dr. , Horn Lake, MS 38637",0.45,1
+Quamar,Spears,16,4,7,74.2,"94 Edgewater Drive , Villa Rica, GA 30180",0.35000000000000003,1
+Mara,Hendrix,19,1,9,73.0,"646 Princess Street , Lake Charles, LA 70605",0.45,0
+Brian,Hale,14,5,17,97.8,"Manitowoc, WI 54220, 7596 Durham St. ",0.8500000000000001,1
+Nerea,Daugherty,15,2,15,90.1,"Huntington, NY 11743, 8182 Alton Ave. ",0.75,0
+India,Foreman,19,4,10,80.1,"891 Shirley Ave. , Key West, FL 33040",0.5,0
+Tara,Copeland,16,2,15,84.2,"506 Roosevelt Rd. , Eastlake, OH 44095",0.75,0
+Guinevere,Barnett,17,1,20,92.2,"Lynnwood, WA 98037, 406 Trout Street ",1.0,0
+Alexander,Riley,15,3,10,82.8,"9287 Sleepy Hollow Court , Carol Stream, IL 60188",0.5,1
+Logan,Kirby,16,1,6,73.1,"497 Leatherwood Ave. , Saint Augustine, FL 32084",0.30000000000000004,1
+Ariana,Glass,19,5,11,90.8,"Willoughby, OH 44094, 7521 Myrtle St. ",0.55,0
+Rhea,Cantrell,19,4,12,81.3,"Garner, NC 27529, 7492 Poor House Ave. ",0.6000000000000001,0
+Quon,Brewer,14,3,9,79.2,"Winston Salem, NC 27103, 7691 Second Street ",0.45,0
+Sonya,Jordan,19,4,8,80.3,"Vista, CA 92083, 939 Catherine Ave. ",0.4,0
+Reece,Lott,17,3,11,76.1,"263 Princess Lane , Baldwin, NY 11510",0.55,1
+Slade,Lucas,18,1,14,89.5,"Ontario, CA 91762, 9880 Bridge Court ",0.7000000000000001,1
+Kelly,Kent,15,1,15,92.4,"Tallahassee, FL 32303, 8606 Amherst Court ",0.75,0
+Hayes,Ware,16,1,17,84.9,"Villa Park, IL 60181, 245 Holly Street ",0.8500000000000001,1
+Kieran,Martinez,14,3,4,60.8,"9 W. 3rd Street , Lady Lake, FL 32159",0.2,1
+Laura,Park,16,5,8,78.4,"Riverview, FL 33569, 8493 Addison Dr. ",0.4,0
+Chancellor,Graves,18,1,9,83.4,"568 Primrose St. , Macomb, MI 48042",0.45,1
+Brett,Wilder,17,4,7,71.4,"283 East Stonybrook St. , Fayetteville, NC 28303",0.35000000000000003,1
+Abra,Neal,16,1,14,80.1,"Coraopolis, PA 15108, 41 Spruce Ave. ",0.7000000000000001,0
+John,Olsen,15,3,11,77.4,"6 Briarwood St. , Henderson, KY 42420",0.55,1
+Madonna,Barrera,16,3,16,85.2,"Stow, OH 44224, 18 S. Westport Ave. ",0.8,0
+Cedric,Horton,16,2,15,91.8,"9676 Rockcrest St. , Hendersonville, NC 28792",0.75,1
+Rudyard,Banks,19,2,9,75.4,"7935 North Homewood St. , Canyon Country, CA 91387",0.45,1
+Gabriel,Chapman,16,1,9,86.3,"7 Walt Whitman Rd. , Falls Church, VA 22041",0.45,1
+Tanek,Mooney,15,4,12,79.8,"115 Lawrence St. , Inman, SC 29349",0.6000000000000001,1
+Dane,Carter,16,2,18,94.9,"Cranston, RI 02920, 43 Cedar Street ",0.9,1
+Whoopi,Lane,17,4,11,89.7,"Severn, MD 21144, 9354 Marsh Street ",0.55,0
+Karen,Mejia,17,4,17,88.7,"9067 Tailwater Street , Ashburn, VA 20147",0.8500000000000001,0
+Addison,Horne,16,2,10,81.8,"4 County St. , Culpeper, VA 22701",0.5,1
+Eliana,Todd,14,5,5,74.8,"Milledgeville, GA 31061, 217 E. Sulphur Springs Drive ",0.25,0
+Evan,Shelton,17,4,13,91.1,"3 School St. , Forest Hills, NY 11375",0.65,1
+Jaquelyn,Rodriguez,14,4,7,66.8,"40 John St. , Erlanger, KY 41018",0.35000000000000003,0
+Doris,Cross,17,2,8,82.5,"166 4th Ave. , Clinton Township, MI 48035",0.4,0
+Acton,Conley,19,5,12,79.5,"24 Birchpond Drive , Fremont, OH 43420",0.6000000000000001,1
+Nyssa,Vincent,14,2,6,73.1,"7567 Stonybrook Dr. , Mount Pleasant, SC 29464",0.30000000000000004,0
+Phillip,Cunningham,18,4,3,74.6,"9438 Riverview St. , Omaha, NE 68107",0.15000000000000002,1
+Edan,Rush,18,4,9,74.1,"20 Glenridge Street , Warminster, PA 18974",0.45,1
+Hanna,Guzman,19,3,15,91.3,"Gastonia, NC 28052, 179 Glen Eagles St. ",0.75,0
+Shad,Reilly,16,3,16,86.7,"38 Bradford Street , Rome, NY 13440",0.8,1
+Rahim,Tucker,14,4,8,76.2,"Streamwood, IL 60107, 386 North Tallwood St. ",0.4,1
+Kitra,Michael,16,5,16,92.3,"92 Catherine St. , Port Richey, FL 34668",0.8,0
+Illana,Mcmahon,18,4,10,77.5,"773 Sleepy Hollow Avenue , Clover, SC 29710",0.5,0
+Linda,Underwood,15,5,8,83.7,"28 Lantern St. , Fairhope, AL 36532",0.4,0
+Illiana,Donaldson,17,5,19,93.6,"419 South Newport Dr. , Fernandina Beach, FL 32034",0.9500000000000001,0
+Rogan,Orr,19,2,12,89.2,"Findlay, OH 45840, 603 Linda St. ",0.6000000000000001,1
+Tucker,Blair,18,1,10,74.7,"9444 Bridge Street , Solon, OH 44139",0.5,1
+Brock,Knight,18,5,11,83.4,"Bel Air, MD 21014, 9890 Euclid Dr. ",0.55,1
+Lane,Villarreal,18,1,8,76.0,"411 Lawrence Drive , Hollywood, FL 33020",0.4,1
+Ila,Pratt,19,2,7,79.5,"640 Pawnee Lane , North Kingstown, RI 02852",0.35000000000000003,0
+Aristotle,Lang,15,3,13,77.3,"80 Cambridge Street , Pewaukee, WI 53072",0.65,1
+Todd,Erickson,15,5,6,69.8,"87 S. Spring St. , Ashland, OH 44805",0.30000000000000004,1
+Blythe,Snyder,16,4,18,100.0,"9165 Madison St. , Coram, NY 11727",0.9,0
+Lunea,Vazquez,14,5,6,74.8,"537 Joy Ridge Dr. , Alabaster, AL 35007",0.30000000000000004,0
+Azalia,Ward,14,4,12,91.2,"5 Sage Ave. , Appleton, WI 54911",0.6000000000000001,0
+Yael,Hardin,15,1,19,91.4,"51 West Cardinal St. , Uniontown, PA 15401",0.9500000000000001,0
+Karen,Colon,15,2,10,83.5,"Lockport, NY 14094, 835 Homestead Court ",0.5,0
+Valentine,Morton,14,4,15,89.7,"Springfield, PA 19064, 995 Thompson Street ",0.75,1
+Brock,Espinoza,17,3,15,82.9,"29 East Pleasant St. , Titusville, FL 32780",0.75,1
+Ray,Coffey,14,3,16,89.4,"Coraopolis, PA 15108, 454 Jennings St. ",0.8,1
+Ray,Holloway,15,3,12,91.8,"10 Prairie Street , New Bern, NC 28560",0.6000000000000001,1
+Hayfa,Richmond,19,5,15,91.6,"384 Acacia Ave. , Ormond Beach, FL 32174",0.75,0
+Orlando,Stanley,15,3,9,86.1,"852 Wild Rose Ave. , Bozeman, MT 59715",0.45,1
+Jaden,Hogan,14,5,14,94.8,"866 Santa Clara Dr. , Warminster, PA 18974",0.7000000000000001,0
+Jordan,Foster,18,3,8,86.9,"Farmingdale, NY 11735, 149 Forest St. ",0.4,0
+Amber,Greene,16,4,5,78.0,"977 Roosevelt St. , Wyandotte, MI 48192",0.25,0
+Xanthus,Franks,18,3,8,72.2,"Gulfport, MS 39503, 32 Marsh Street ",0.4,1
+Selma,Stout,19,2,3,59.4,"9755 Shipley Dr. , Canton, GA 30114",0.15000000000000002,0
+Fleur,Snider,18,3,18,97.3,"405 West Sheffield St. , Little Falls, NJ 07424",0.9,0
+Carl,Nelson,14,1,15,95.2,"8698 Dogwood St. , Suwanee, GA 30024",0.75,1
+Keegan,Richardson,18,1,3,66.2,"Aliquippa, PA 15001, 198 Virginia Street ",0.15000000000000002,1
+Rudyard,Parsons,17,1,10,82.7,"Raleigh, NC 27603, 73 Howard Street ",0.5,1
+Lance,Doyle,18,2,9,70.6,"185 North Clark Street , Burke, VA 22015",0.45,1
+Arthur,Nieves,14,3,0,76.8,"98 Golden Star Ave. , Glendale, AZ 85302",0.0,1
+Isaiah,Hendricks,17,3,7,69.9,"7054 E. Bow Ridge St. , Mansfield, MA 02048",0.35000000000000003,1
+Justine,Nolan,16,5,5,72.8,"Oxon Hill, MD 20745, 265 NW. Liberty Ave. ",0.25,0
+Levi,Atkins,16,4,8,72.8,"9143 Kent Road , Attleboro, MA 02703",0.4,1
+Jakeem,Lynch,14,4,5,78.8,"349 Court Street , Long Beach, NY 11561",0.25,1
+Olivia,Craig,14,4,3,60.6,"Elizabeth, NJ 07202, 984 E. Rockville Road ",0.15000000000000002,0
+Dylan,Delaney,14,4,5,64.3,"642 Sierra Lane , Whitehall, PA 18052",0.25,1
+Emerson,Sparks,14,3,10,76.1,"10 Peg Shop Street , Sun Prairie, WI 53590",0.5,1
+Echo,Bird,14,2,6,76.5,"Roanoke, VA 24012, 2 Adams Dr. ",0.30000000000000004,0
+Devin,Rodriguez,19,1,14,83.4,"242 High Ridge Dr. , New Windsor, NY 12553",0.7000000000000001,1
+Georgia,Castaneda,14,3,10,78.4,"8914 Edgefield Street , Cheshire, CT 06410",0.5,0
+Darryl,Baird,14,2,7,64.3,"26 N. Elmwood Street , Blacksburg, VA 24060",0.35000000000000003,0
+Leo,Roach,19,1,13,75.8,"58 Magnolia Ave. , Milledgeville, GA 31061",0.65,1
+Magee,Berger,14,0,13,91.1,"South Lyon, MI 48178, 7204 Mammoth Road ",0.65,1
+Clare,Wyatt,16,5,10,74.1,"Huntley, IL 60142, 383 Indian Summer St. ",0.5,0
+Chaney,Edwards,14,2,9,75.8,"Bedford, OH 44146, 147 Kingston St. ",0.45,1
+Kyla,Garner,18,2,4,70.9,"916 Heather St. , Martinsville, VA 24112",0.2,0
+Leroy,Morrow,19,2,9,71.2,"23 Ridgeview Drive , Laurel, MD 20707",0.45,1
+Marshall,Erickson,18,3,11,77.8,"Bluffton, SC 29910, 583 Schoolhouse Ave. ",0.55,1
+Logan,Mccarty,17,2,9,81.7,"9637 Gulf Street , Ocean Springs, MS 39564",0.45,1
+Hamish,Parker,16,5,6,65.9,"7598 Manor Station Street , Palatine, IL 60067",0.30000000000000004,1
+Illiana,Kirby,19,5,12,84.8,"163 Lake Avenue , Ridgefield, CT 06877",0.6000000000000001,0
+Brenda,Gates,16,2,7,73.0,"769 Thorne Street , Key West, FL 33040",0.35000000000000003,0
+Elmo,Roy,18,1,10,78.4,"5 South Nut Swamp Lane , Rolla, MO 65401",0.5,1
+Willa,Byers,14,2,4,59.2,"Morgantown, WV 26508, 8253 Elmwood St. ",0.2,0
+Naida,Carrillo,18,2,5,75.9,"Pelham, AL 35124, 8907 Green Hill Ave. ",0.25,0
+Sydney,Blackburn,15,3,8,75.7,"248 Hillcrest St. , Hopewell, VA 23860",0.4,0
+Brandon,Myers,19,2,12,78.6,"Omaha, NE 68107, 784 Honey Creek Lane ",0.6000000000000001,1
+Malik,Pratt,19,1,14,87.5,"Cordova, TN 38016, 804 Andover Lane ",0.7000000000000001,1
+Dai,Richardson,16,2,15,84.5,"613 Henry Smith Ave. , Flushing, NY 11354",0.75,0
+Thane,Collins,19,1,6,76.9,"7905 Gates Road , Pottstown, PA 19464",0.30000000000000004,1
+Clark,Maynard,16,1,7,66.9,"46 West Durham St. , Spring Valley, NY 10977",0.35000000000000003,1
+Bevis,Gray,15,1,16,94.8,"8621 Birch Hill St. , Fresh Meadows, NY 11365",0.8,1
+Pascale,Browning,16,4,9,89.2,"873 Pheasant Ave. , Pearl, MS 39208",0.45,0
+Zorita,Ashley,19,1,13,80.4,"219 Green Hill St. , Alpharetta, GA 30004",0.65,0
+Jerry,Short,17,5,6,78.2,"692 Winchester Court , Fort Walton Beach, FL 32547",0.30000000000000004,1
+Hyatt,Mcintosh,19,3,11,82.3,"979 George Drive , Pasadena, MD 21122",0.55,1
+Perry,Hopper,16,2,15,81.8,"31 Walnutwood Dr. , South Ozone Park, NY 11420",0.75,1
+Lance,Rush,17,4,15,98.5,"638 State Street , Asheville, NC 28803",0.75,1
+Declan,Macias,14,2,14,83.2,"9266 Winchester Ave. , West Islip, NY 11795",0.7000000000000001,1
+Geraldine,Brooks,19,1,10,79.0,"Bayside, NY 11361, 467 Hilldale Street ",0.5,0
+Adara,Fernandez,15,5,13,98.5,"Elgin, IL 60120, 9618 Cherry Hill Court ",0.65,0
+Whoopi,Hunter,15,4,14,94.8,"435 Bow Ridge Drive , Clermont, FL 34711",0.7000000000000001,0
+Lara,Newton,17,4,12,86.0,"8457 Annadale Drive , Palmetto, FL 34221",0.6000000000000001,0
+Rigel,Johnson,17,4,8,82.1,"41 San Pablo Street , Newport News, VA 23601",0.4,1
+Raja,Sims,18,5,17,89.7,"Abingdon, MD 21009, 488 W. Euclid Drive ",0.8500000000000001,1
+Kiona,Hernandez,14,2,9,84.3,"Toledo, OH 43612, 63 Johnson St. ",0.45,0
+Jade,Cline,15,4,8,75.1,"9095 NW. St Paul St. , Bethesda, MD 20814",0.4,0
+Tana,Sloan,19,5,11,92.1,"9696 Williams Avenue , Kaukauna, WI 54130",0.55,0
+Luke,Hayes,18,2,10,88.0,"791 Cedar Street , Chelmsford, MA 01824",0.5,1
+Regan,Mcintosh,17,3,15,97.2,"Helena, MT 59601, 542 North Applegate Rd. ",0.75,0
+Mufutau,Valentine,14,2,11,75.3,"Salt Lake City, UT 84119, 219 Williams Ave. ",0.55,1
+Justina,Mcgowan,15,1,8,73.6,"Midland, MI 48640, 9869 Wakehurst Ave. ",0.4,0
+Ruby,Sutton,14,5,9,79.4,"14 E. Pleasant Dr. , Brick, NJ 08723",0.45,0
+Tucker,Coleman,16,4,17,95.6,"9 Vine St. , Wyoming, MI 49509",0.8500000000000001,1
+Kylan,Rosa,17,5,12,84.0,"Tampa, FL 33604, 337 W. Center Lane ",0.6000000000000001,0
+Valentine,Cummings,14,5,19,100.0,"675 W. Baker Ave. , Fair Lawn, NJ 07410",0.9500000000000001,1
+Cheyenne,Vincent,18,5,11,81.8,"7273 Mayfair Street , Trumbull, CT 06611",0.55,0
+Cleo,Romero,16,2,17,93.9,"Staten Island, NY 10301, 286 Edgefield St. ",0.8500000000000001,0
+Tarik,Winters,15,5,13,92.5,"2 Poor House Street , Lake In The Hills, IL 60156",0.65,1
+Sylvester,Newton,14,3,11,81.0,"736 Valley Farms St. , Jersey City, NJ 07302",0.55,1
+Samuel,Green,15,5,11,85.6,"Clementon, NJ 08021, 37 Golden Star St. ",0.55,1
+Gary,Bradford,17,4,9,73.9,"96 Henry Dr. , Crawfordsville, IN 47933",0.45,1
+Whoopi,Strickland,16,4,9,80.2,"Piqua, OH 45356, 9380 Oak Valley Dr. ",0.45,0
+Melyssa,Garner,17,1,6,71.3,"Stamford, CT 06902, 8896 Hudson Street ",0.30000000000000004,0
+Barclay,Nichols,19,0,2,66.3,"282 Westminster Dr. , Bedford, OH 44146",0.1,1
+Georgia,Fuentes,16,4,8,75.3,"464 Woodland Ave. , Wheeling, WV 26003",0.4,0
+Dara,Fleming,18,2,15,99.6,"Phoenixville, PA 19460, 60 Squaw Creek St. ",0.75,0
+Lacy,Arnold,19,4,6,82.2,"7451 Magnolia Rd. , Staten Island, NY 10301",0.30000000000000004,0
+Cameron,David,14,2,10,84.5,"Kalispell, MT 59901, 8270 Bow Ridge Street ",0.5,1
+Caldwell,Russell,16,3,12,91.2,"Woodbridge, VA 22191, 295 W. Silver Spear St. ",0.6000000000000001,1
+Oliver,Oconnor,17,4,12,91.1,"53 Third Court , Ephrata, PA 17522",0.6000000000000001,1
+Samuel,Beasley,19,1,15,90.6,"932 Ridgewood St. , Tuscaloosa, AL 35405",0.75,1
+Shana,Conner,16,2,12,81.5,"138 S. Bay Meadows Road , Santa Monica, CA 90403",0.6000000000000001,0
+Dexter,Kramer,17,4,16,97.7,"Clemmons, NC 27012, 4 Greystone Court ",0.8,1
+Griffith,Swanson,19,4,4,78.5,"61 Alton Street , Plainview, NY 11803",0.2,1
+Chava,Barlow,17,3,15,91.6,"Reading, MA 01867, 96 Oklahoma Rd. ",0.75,0
+Oprah,Walker,19,2,6,69.7,"Staten Island, NY 10301, 9052 Mayfield St. ",0.30000000000000004,0
+Brian,Hawkins,15,5,8,69.7,"8145 S. Rockledge Drive , Southington, CT 06489",0.4,1
+Shannon,Whitley,19,1,10,78.1,"98 Westminster St. , New Windsor, NY 12553",0.5,0
+Martin,Macdonald,17,2,7,76.7,"Royersford, PA 19468, 816 Leatherwood St. ",0.35000000000000003,1
+Kaitlin,Chen,18,3,12,79.5,"876 Broad St. , Kearny, NJ 07032",0.6000000000000001,0
+Linus,Downs,18,4,7,73.4,"779 Riverside Drive , Wilmington, MA 01887",0.35000000000000003,1
+Yoko,Castro,16,3,10,83.1,"Royal Oak, MI 48067, 88 Applegate Drive ",0.5,0
+Gregory,Evans,14,1,13,88.0,"47 N. Spruce Rd. , Bethel Park, PA 15102",0.65,1
+Erica,Bond,15,3,16,100.0,"Goose Creek, SC 29445, 96 Gainsway St. ",0.8,0
+Uriah,Jordan,14,2,10,74.4,"7284 Jones Avenue , Raleigh, NC 27603",0.5,1
+Flynn,Haynes,17,2,11,81.6,"Faribault, MN 55021, 9869 Meadow Ave. ",0.55,1
+Cecilia,Santiago,16,4,7,68.2,"Cranberry Twp, PA 16066, 49 Hickory Dr. ",0.35000000000000003,0
+Devin,Roberson,14,4,15,99.7,"733 Linda Road , Taunton, MA 02780",0.75,1
+Astra,Leonard,16,4,5,69.5,"Merrick, NY 11566, 48 Cedar Swamp Rd. ",0.25,0
+Cairo,Cardenas,14,4,13,85.9,"832 Hudson Road , Hixson, TN 37343",0.65,1
+Riley,Valdez,16,2,12,79.0,"Elizabethton, TN 37643, 69 Campfire Drive ",0.6000000000000001,0
+Nero,Witt,14,3,13,95.5,"6 Addison Street , Southaven, MS 38671",0.65,1
+Hyatt,Albert,19,4,15,87.8,"North Haven, CT 06473, 71 Heritage Street ",0.75,1
+Arthur,Guerra,16,1,10,81.1,"550 Walnut Street , Mebane, NC 27302",0.5,1
+Odette,Jacobson,18,3,14,88.3,"863 North Woodsman Ave. , Wasilla, AK 99654",0.7000000000000001,0
+Ivory,Chapman,16,3,8,75.4,"Greensboro, NC 27405, 963 Prince Rd. ",0.4,0
+Leonard,Gates,18,5,16,89.7,"290 Meadowbrook Street , King Of Prussia, PA 19406",0.8,1
+Veda,Briggs,15,5,8,88.5,"Depew, NY 14043, 997 53rd Ave. ",0.4,0
+Lenore,Freeman,18,3,3,76.4,"308 Valley Farms Rd. , San Diego, CA 92111",0.15000000000000002,0
+Ori,Gross,14,2,7,77.2,"Waukegan, IL 60085, 8217 East Sunbeam Dr. ",0.35000000000000003,0
+Odette,Leonard,17,1,17,96.2,"7306 53rd St. , Homestead, FL 33030",0.8500000000000001,0
+Darryl,Lawrence,18,5,13,94.0,"384 Brewery Dr. , Wellington, FL 33414",0.65,0
+Kessie,Mcdonald,17,1,2,62.2,"Valrico, FL 33594, 69 Princess Dr. ",0.1,0
+Kylie,Rivers,14,5,13,88.2,"Glenside, PA 19038, 87 Baker Rd. ",0.65,0
+Fulton,Mullen,15,4,9,72.0,"Calumet City, IL 60409, 7456 Pin Oak Lane ",0.45,1
+Gretchen,Reynolds,14,3,15,99.4,"Ocean Springs, MS 39564, 8646 Border Street ",0.75,0
+Noah,Chan,19,3,6,74.9,"57 Hanover Street , Randallstown, MD 21133",0.30000000000000004,1
+Magee,Sears,15,4,15,100.0,"9 Arrowhead St. , Grayslake, IL 60030",0.75,1
+Caldwell,Case,15,3,9,71.9,"9675 Beech Ave. , Faribault, MN 55021",0.45,1
+Ciaran,Middleton,17,1,5,73.3,"9404 NE. Elmwood Dr. , Emporia, KS 66801",0.25,1
+Chase,Blackwell,17,3,17,95.0,"Lakewood, NJ 08701, 77 Arcadia Court ",0.8500000000000001,1
+Abraham,Snider,16,1,4,73.3,"12 San Carlos Rd. , Cookeville, TN 38501",0.2,1
+Timothy,Richardson,15,3,14,89.1,"9518 College St. , Cocoa, FL 32927",0.7000000000000001,1
+Ignacia,Berger,15,3,17,100.0,"508 Birchpond Dr. , Detroit, MI 48205",0.8500000000000001,0
+Octavia,Wilcox,18,3,11,78.4,"86 Atlantic Ave. , Freehold, NJ 07728",0.55,0
+Quinn,Gallagher,14,5,18,100.0,"8 Berkshire Road , Fargo, ND 58102",0.9,1
+Christian,Herrera,15,4,12,89.4,"Brookline, MA 02446, 7773 Tarkiln Hill Avenue ",0.6000000000000001,1
+Jacob,Ewing,15,4,7,74.3,"Brick, NJ 08723, 7430 Cherry Hill Dr. ",0.35000000000000003,1
+Ulla,Brennan,17,3,11,83.9,"8284 Shadow Brook Avenue , Toms River, NJ 08753",0.55,0
+Zelenia,Vasquez,18,5,14,97.1,"Maplewood, NJ 07040, 9572 North Lakeview Ave. ",0.7000000000000001,0
+Geraldine,Bass,14,5,9,84.5,"Tacoma, WA 98444, 8076 Branch Court ",0.45,0
+Morgan,Rutledge,15,3,13,92.3,"Nampa, ID 83651, 699 Locust St. ",0.65,0
+Morgan,Moreno,17,4,5,73.0,"Piedmont, SC 29673, 81 East 2nd Street ",0.25,0
+Vladimir,Casey,15,2,12,83.5,"96 Atlantic Ave. , Severn, MD 21144",0.6000000000000001,1
+Michael,Wynn,17,5,11,80.0,"Pasadena, MD 21122, 114 N. Glenridge St. ",0.55,1
+Olympia,Long,15,3,10,84.2,"9170 Columbia Road , Canton, GA 30114",0.5,0
+Richard,Ross,17,4,11,85.9,"7211 Durham Street , North Wales, PA 19454",0.55,1
+Petra,Riley,18,4,4,63.3,"Fredericksburg, VA 22405, 74 Ridge Road ",0.2,0
+Kirestin,Sloan,18,1,13,88.1,"702 Wild Rose St. , Depew, NY 14043",0.65,0
+Adam,Holloway,14,2,9,82.7,"6 North Wall Street , Great Falls, MT 59404",0.45,1
+Moana,Carter,14,5,7,72.3,"Vicksburg, MS 39180, 8183 Lakewood Road ",0.35000000000000003,0
+Vielka,Crosby,17,4,18,98.0,"Clarkston, MI 48348, 973 Delaware Dr. ",0.9,0
+Indigo,Wiggins,16,2,15,93.1,"Trussville, AL 35173, 338 East Acacia Rd. ",0.75,0
+Autumn,Macdonald,15,4,10,78.1,"8676 State St. , Far Rockaway, NY 11691",0.5,0
+Jamal,Snow,19,1,12,86.9,"908 Blue Spring St. , Lake Mary, FL 32746",0.6000000000000001,1
+Kimberley,Key,19,4,11,93.0,"Laurel, MD 20707, 7 College St. ",0.55,0
+Ashton,Dotson,14,1,9,74.0,"138 Gregory Street , Haines City, FL 33844",0.45,1
+Uma,Branch,14,1,12,78.5,"Tampa, FL 33604, 91 Bridle Drive ",0.6000000000000001,0
+Haley,Duke,18,2,18,97.7,"Traverse City, MI 49684, 376 Valley Ave. ",0.9,0
+Regan,Hatfield,14,4,12,81.1,"Buckeye, AZ 85326, 238 Birchpond Street ",0.6000000000000001,0
+Gannon,Coffey,15,5,14,99.6,"7792 Gregory Ave. , Thornton, CO 80241",0.7000000000000001,1
+Gray,Jensen,18,5,20,100.0,"305 Valley View Drive , Reston, VA 20191",1.0,1
+Inez,Slater,15,3,16,93.0,"Brandon, FL 33510, 835 Prairie Rd. ",0.8,0
+Chester,Boone,15,2,6,64.2,"42 Bayberry Circle , Lansing, MI 48910",0.30000000000000004,1
+Jin,Valdez,19,2,2,77.0,"484 Griffin Court , West Hempstead, NY 11552",0.1,1
+Brooke,Trujillo,16,3,12,79.0,"74 Hilltop Ave. , Romeoville, IL 60446",0.6000000000000001,0
+Keefe,Banks,17,5,7,77.7,"195 Andover Avenue , Pataskala, OH 43062",0.35000000000000003,1
+Harrison,Knight,19,5,15,95.8,"Natick, MA 01760, 13 East Sunset Dr. ",0.75,1
+Ferris,Mullins,16,2,7,78.4,"9587 Ohio Ave. , Wethersfield, CT 06109",0.35000000000000003,1
+Olympia,Huffman,15,2,13,89.4,"18 Thomas Lane , Cranberry Twp, PA 16066",0.65,0
+Jane,Oneal,16,5,9,82.4,"Lake Villa, IL 60046, 9925 San Carlos Street ",0.45,0
+Colin,Fisher,15,3,10,71.7,"9557 West Columbia Dr. , Titusville, FL 32780",0.5,1
+Calvin,Ballard,19,5,11,82.5,"Holland, MI 49423, 5 Silver Spear Dr. ",0.55,1
+Kermit,Richard,19,5,12,89.0,"8120 Center Dr. , Fort Wayne, IN 46804",0.6000000000000001,1
+Dolan,Hyde,17,1,17,100.0,"56 Glen Ridge Street , Long Branch, NJ 07740",0.8500000000000001,1
+Kendall,Mccullough,15,4,16,99.5,"156 Bayport Ave. , Lockport, NY 14094",0.8,0
+Isadora,Ward,14,3,15,95.2,"Watertown, MA 02472, 8 Birchpond Avenue ",0.75,0
+Kathleen,Salazar,15,1,14,79.5,"399 Oakwood Road , Hampton, VA 23666",0.7000000000000001,0
+Amanda,Garner,14,2,11,75.7,"Hamtramck, MI 48212, 64 Orchard St. ",0.55,0
+Quinn,Dorsey,15,3,9,78.7,"396 Oakwood St. , Springboro, OH 45066",0.45,0
+Howard,Santiago,15,4,15,100.0,"61 Adams St. , Bel Air, MD 21014",0.75,1
+Merrill,Rojas,15,1,7,68.1,"9 Bear Hill Ave. , Erlanger, KY 41018",0.35000000000000003,1
+Mollie,Sweet,14,4,16,91.3,"Redondo Beach, CA 90278, 9126 Beech St. ",0.8,0
+Allistair,Pittman,17,2,13,77.1,"155 Oakwood Road , West Orange, NJ 07052",0.65,1
+Claire,Francis,18,4,4,67.1,"Sacramento, CA 95820, 43 N. Leeton Ridge Circle ",0.2,0
+Ulla,Russell,18,1,15,84.7,"712 Franklin Ave. , Oak Ridge, TN 37830",0.75,0
+Ocean,Carver,18,1,11,79.3,"Cedar Falls, IA 50613, 144 Mayflower St. ",0.55,0
+Anthony,Whitney,19,1,11,74.2,"7210 Nichols St. , Newtown, PA 18940",0.55,1
+Mason,Mcgowan,17,1,17,100.0,"8061 Newport Dr. , Hackettstown, NJ 07840",0.8500000000000001,1
+Cooper,Harrell,18,4,17,95.6,"934 Foxrun St. , Webster, NY 14580",0.8500000000000001,1
+Pandora,Ewing,19,2,12,88.4,"Alabaster, AL 35007, 8948 Halifax Lane ",0.6000000000000001,0
+George,Fischer,19,1,6,75.0,"Madison Heights, MI 48071, 95 Bellevue Ave. ",0.30000000000000004,1
+Kermit,Higgins,18,2,6,68.6,"Bergenfield, NJ 07621, 8097 Nichols Drive ",0.30000000000000004,1
+Harlan,Cox,18,3,14,85.1,"Port Orange, FL 32127, 9560 3rd Road ",0.7000000000000001,1
+Mariko,Le,18,2,15,91.1,"227 Church Ave. , Appleton, WI 54911",0.75,0
+Rafael,Randall,16,2,11,71.2,"8613 Cypress St. , Taylor, MI 48180",0.55,1
+Xavier,Jensen,18,2,8,79.4,"9862 8th St. , Atlanta, GA 30303",0.4,1
+Dorothy,Norman,15,5,7,77.7,"10 Garfield Street , Beloit, WI 53511",0.35000000000000003,0
+Camden,Lamb,17,5,11,88.1,"West Chicago, IL 60185, 55 SW. Charles Rd. ",0.55,1
+Gil,Duran,16,1,13,83.8,"Fishers, IN 46037, 24 Taylor St. ",0.65,1
+Ryan,Swanson,17,5,11,88.1,"8120 Pineknoll Lane , Glendale, AZ 85302",0.55,1
+Mikayla,Jarvis,16,2,7,67.3,"30 N. Pilgrim Dr. , Carlisle, PA 17013",0.35000000000000003,0
+Beatrice,Matthews,14,1,4,61.1,"Torrance, CA 90505, 7 Cherry Hill Street ",0.2,0
+Halla,Vang,16,3,17,100.0,"7 Annadale Lane , Redondo Beach, CA 90278",0.8500000000000001,0
+Ingrid,Kennedy,19,5,7,72.1,"90 Country Rd. , Thibodaux, LA 70301",0.35000000000000003,0
+Celeste,Mann,19,2,11,88.6,"75 Military Ave. , Cartersville, GA 30120",0.55,0
+Shelly,Sutton,16,2,12,74.8,"8596 Sheffield Ave. , Dearborn Heights, MI 48127",0.6000000000000001,0
+Susan,Harvey,19,5,9,76.4,"113 Rockaway Lane , Riverdale, GA 30274",0.45,0
+Aurelia,Frederick,15,3,9,72.2,"657 Queen St. , Vernon Rockville, CT 06066",0.45,0
+Ivy,Justice,14,2,13,83.1,"Charlotte, NC 28205, 778 Oak Rd. ",0.65,0
+Wesley,Douglas,16,1,14,86.6,"276 Tunnel Ave. , Chicago Heights, IL 60411",0.7000000000000001,1
+Armand,Pacheco,16,4,17,95.5,"7999 Mill Pond St. , Gwynn Oak, MD 21207",0.8500000000000001,1
+Hamish,Simon,18,4,3,71.2,"236 Third Drive , Sun City, AZ 85351",0.15000000000000002,1
+Sloane,Kent,16,1,7,76.4,"Matawan, NJ 07747, 8175 S. Shirley St. ",0.35000000000000003,0
+Denise,Keith,17,5,4,71.7,"Roanoke, VA 24012, 27 Young St. ",0.2,0
+Maxwell,Rhodes,18,3,11,77.9,"869 Glenholme Ave. , Trussville, AL 35173",0.55,1
+Elmo,Stuart,14,5,10,74.8,"68 Del Monte Dr. , Absecon, NJ 08205",0.5,1
+Isabelle,Neal,19,3,6,67.9,"9211 Green Hill Street , Rosedale, NY 11422",0.30000000000000004,0
+Cassidy,Owen,16,5,13,98.5,"Pleasanton, CA 94566, 9892 Bay St. ",0.65,0
+Addison,Willis,14,5,13,91.1,"437 Adams Street , Howell, NJ 07731",0.65,1
+Clayton,Cervantes,16,5,11,84.1,"2 Alton Ave. , Newnan, GA 30263",0.55,1
+Dillon,Fowler,16,2,8,80.6,"62 Halifax Lane , Long Beach, NY 11561",0.4,1
+Garth,Gilliam,18,5,13,80.3,"Royal Oak, MI 48067, 8134 River Lane ",0.65,1
+Vanna,Reyes,19,3,11,77.3,"Kennesaw, GA 30144, 282 Sulphur Springs Street ",0.55,0
+Octavia,Wolfe,16,5,12,81.0,"7445 S. Baker Street , Hastings, MN 55033",0.6000000000000001,0
+Melvin,Burt,14,3,16,95.9,"Los Angeles, CA 90008, 7980 Cross Dr. ",0.8,1
+Harriet,Long,17,3,17,100.0,"Lynn, MA 01902, 619 North Beaver Ridge St. ",0.8500000000000001,0
+Kendall,Keith,18,1,18,87.2,"4 Harrison Drive , Vista, CA 92083",0.9,0
+Yoshio,Wyatt,15,5,14,94.7,"8571 Silver Spear Dr. , Athens, GA 30605",0.7000000000000001,1
+Gregory,Myers,15,1,12,77.5,"Tampa, FL 33604, 50 Golf St. ",0.6000000000000001,1
+Wylie,Clemons,15,5,9,88.2,"7748 Amherst St. , Menomonee Falls, WI 53051",0.45,1
+Shaine,Mcleod,16,2,18,100.0,"24 Willow Dr. , Fuquay Varina, NC 27526",0.9,0
+Sonya,Hooper,17,1,9,85.1,"638 Forest Court , Vineland, NJ 08360",0.45,0
+Lacy,Rowe,16,2,12,76.5,"94 East Kent Ave. , Lake Worth, FL 33460",0.6000000000000001,0
+Amanda,Tillman,18,2,6,78.6,"Oak Lawn, IL 60453, 7304 Addison Street ",0.30000000000000004,0
+Perry,Wright,19,1,10,86.0,"Chicopee, MA 01020, 150 W. Saxon Drive ",0.5,1
+Melanie,Wilson,15,4,13,81.5,"647 E. Summer Ave. , Perrysburg, OH 43551",0.65,0
+Lev,Mcneil,18,5,7,77.2,"9649 Bradford Lane , Marquette, MI 49855",0.35000000000000003,1
+Vladimir,Cochran,18,1,11,83.0,"9500 Beach Lane , Frankfort, KY 40601",0.55,1
+Blossom,Henry,18,3,5,72.7,"218 S. Chestnut St. , Fenton, MI 48430",0.25,0
+Neville,Duffy,15,4,15,90.8,"99 Wild Rose Drive , Miami Beach, FL 33139",0.75,1
+Acton,Bright,14,2,8,67.0,"Macungie, PA 18062, 8111 Valley Drive ",0.4,1
+Mariko,Matthews,17,5,6,77.0,"7560 S. Wrangler Road , Faribault, MN 55021",0.30000000000000004,0
+Rafael,Villarreal,17,1,11,75.3,"Park Forest, IL 60466, 523 6th Street ",0.55,1
+Levi,Acevedo,14,2,6,63.0,"Buckeye, AZ 85326, 47 Hilldale Lane ",0.30000000000000004,1
+Declan,Warner,14,4,12,89.7,"7662 Bank Street , Sylvania, OH 43560",0.6000000000000001,1
+Raven,Sampson,19,3,16,86.1,"26 Pineknoll St. , Massapequa, NY 11758",0.8,0
+Barbara,Ratliff,19,5,8,88.7,"388 Grove Road , Ashburn, VA 20147",0.4,0
+Sierra,Farrell,19,3,7,65.7,"7252 8th Ave. , Deltona, FL 32725",0.35000000000000003,0
+Teegan,Duke,18,1,12,81.5,"92 Heritage Avenue , Ankeny, IA 50023",0.6000000000000001,0
+Dolan,Hubbard,19,2,16,84.1,"3 Proctor Rd. , Tiffin, OH 44883",0.8,1
+Idola,Jacobson,17,5,7,70.0,"Oxford, MS 38655, 52 Alton Street ",0.35000000000000003,0
+Zorita,Benson,19,3,12,85.0,"Sterling Heights, MI 48310, 95 Grand St. ",0.6000000000000001,0
+Beck,Mcconnell,15,2,10,80.1,"38 Franklin Street , East Lansing, MI 48823",0.5,1
+Gillian,Norris,19,5,2,63.4,"9559 White Street , Libertyville, IL 60048",0.1,0
+Iona,Franks,17,3,12,77.5,"590 53rd Street , Florence, SC 29501",0.6000000000000001,0
+Zachery,Flowers,19,5,7,72.2,"7744 Longbranch Street , Gallatin, TN 37066",0.35000000000000003,1
+Kiona,Freeman,19,2,11,85.8,"194 Trenton Lane , Hobart, IN 46342",0.55,0
+Scott,Atkinson,15,4,10,89.2,"8349 Virginia Drive , Massapequa, NY 11758",0.5,1
+Vivian,Jimenez,17,1,11,86.5,"Hermitage, TN 37076, 31 West St. ",0.55,0
+Jermaine,Cortez,17,2,15,99.1,"Noblesville, IN 46060, 9576 Jefferson Road ",0.75,1
+Graiden,Cantu,14,2,7,66.6,"4 Kirkland Ave. , Brunswick, GA 31525",0.35000000000000003,1
+Keegan,Harvey,19,4,14,86.3,"24 E. Summit Rd. , East Brunswick, NJ 08816",0.7000000000000001,1
+Cedric,Acevedo,19,5,14,98.8,"Winder, GA 30680, 850 Birchpond Street ",0.7000000000000001,1
+Mechelle,Velazquez,19,1,5,72.0,"Providence, RI 02904, 471 Saxton Avenue ",0.25,0
+Jackson,Brooks,19,3,11,82.4,"98 Ashley St. , Canal Winchester, OH 43110",0.55,1
+Linus,Kaufman,17,2,17,91.3,"Oak Park, MI 48237, 51 Marsh Road ",0.8500000000000001,1
+Zenaida,Ross,18,3,10,87.4,"8180 West Tunnel Street , Irmo, SC 29063",0.5,0
+Larissa,Goff,17,2,10,79.7,"Dover, NH 03820, 20 Shadow Brook Road ",0.5,0
+Lilah,Cooley,18,3,13,93.5,"Pembroke Pines, FL 33028, 622 Lafayette St. ",0.65,0
+Chastity,Mcbride,17,5,15,83.6,"66 College Drive , Arlington, MA 02474",0.75,0
+Dustin,Barry,18,3,14,90.6,"8987 Maple St. , Niceville, FL 32578",0.7000000000000001,1
+Juliet,Golden,16,4,14,85.5,"Daphne, AL 36526, 8324 Franklin Ave. ",0.7000000000000001,0
+Daphne,Mckinney,15,2,12,89.7,"7469 St Louis Rd. , Moorhead, MN 56560",0.6000000000000001,0
+Orli,Stein,18,1,4,68.0,"240 Linda St. , Douglasville, GA 30134",0.2,0
+Gisela,Sharp,14,3,10,89.1,"Campbell, CA 95008, 495 Edgewood St. ",0.5,0
+Macey,Conley,14,2,16,94.7,"Altamonte Springs, FL 32714, 9541 Prairie Street ",0.8,0
+Jeremy,Shepard,14,5,15,92.3,"9782 North Arlington St. , West Fargo, ND 58078",0.75,1
+Duncan,Fisher,15,2,13,91.8,"8552 Brandywine Rd. , Windsor, CT 06095",0.65,1
+Tamara,Wright,17,5,8,74.2,"Middletown, CT 06457, 7815 Stonybrook Drive ",0.4,0
+Hannah,Cline,17,4,12,79.8,"Rockville Centre, NY 11570, 7944 Garfield Circle ",0.6000000000000001,0
+Alan,Mayer,19,5,12,76.4,"9505 Coffee Street , Lexington, NC 27292",0.6000000000000001,1
+Calvin,Dudley,15,5,5,77.6,"Chesapeake, VA 23320, 9597 W. Manhattan Ave. ",0.25,1
+Merritt,Dean,19,2,9,68.4,"Lincoln, NE 68506, 813 Lexington Road ",0.45,1
+Lysandra,Buckner,18,3,14,81.3,"Jeffersonville, IN 47130, 820 Oak Valley Road ",0.7000000000000001,0
+Ora,Kinney,19,5,5,75.4,"Hudsonville, MI 49426, 65 Sherman Dr. ",0.25,0
+September,Norris,15,1,20,100.0,"529 Richardson Lane , Winter Garden, FL 34787",1.0,0
+Damian,Kaufman,16,1,9,71.3,"8321 Corona Lane , Mocksville, NC 27028",0.45,1
+Mercedes,Delaney,15,3,8,82.4,"Spring Valley, NY 10977, 977 Gonzales Street ",0.4,0
+Mara,Irwin,17,3,11,85.0,"8197 Princeton St. , Harrison Township, MI 48045",0.55,0
+Tucker,Kidd,16,5,11,83.9,"65 Aspen Court , Frankfort, KY 40601",0.55,1
+Dominic,Banks,15,3,4,75.5,"8267 Pennington St. , Webster, NY 14580",0.2,1
+Karen,Melton,18,1,6,77.4,"Somerset, NJ 08873, 489 Chestnut Street ",0.30000000000000004,0
+Fletcher,Conley,17,1,9,71.6,"448 Edgefield Rd. , Reno, NV 89523",0.45,1
+Valentine,Manning,14,3,18,89.1,"9417 Blue Spring Drive , Geneva, IL 60134",0.9,1
+Larissa,Head,17,4,8,82.7,"116 Bay Lane , Atwater, CA 95301",0.4,0
+Sacha,Travis,18,1,8,78.5,"217 Wellington Rd. , Kansas City, MO 64151",0.4,0
+Oliver,Harvey,19,4,11,86.4,"395 Bear Hill Ave. , Lancaster, NY 14086",0.55,1
+Leonard,Juarez,19,1,11,79.7,"7496 Boston Road , Saginaw, MI 48601",0.55,1
+Jenna,Wagner,16,1,3,56.3,"Newington, CT 06111, 857 Boston Ave. ",0.15000000000000002,0
+Emily,Leblanc,16,4,16,89.4,"Elgin, IL 60120, 7664 Military Drive ",0.8,0
+Marny,Whitaker,19,5,12,86.8,"Littleton, CO 80123, 958 Fulton Drive ",0.6000000000000001,0
+Hanae,Jones,17,5,6,83.7,"717 School Street , Plymouth, MA 02360",0.30000000000000004,0
+Sharon,Burks,15,4,16,87.8,"7614 Henry Smith Dr. , Zanesville, OH 43701",0.8,0
+Erin,Grimes,16,3,14,98.5,"Bolingbrook, IL 60440, 418 Fairground Dr. ",0.7000000000000001,0
+Joel,Campos,17,2,18,93.0,"8345 North Plumb Branch St. , Odenton, MD 21113",0.9,1
+Emmanuel,King,18,3,10,86.1,"Biloxi, MS 39532, 5 Wood St. ",0.5,1
+Damon,Carlson,19,1,16,88.5,"9919 Marvon Circle , Windsor Mill, MD 21244",0.8,1
+Erasmus,Hopper,15,4,8,73.4,"4 West Mill Pond St. , Port Charlotte, FL 33952",0.4,1
+Sierra,Chandler,15,3,13,95.8,"3 Cross Road , West Islip, NY 11795",0.65,0
+Kennan,Sheppard,16,3,6,80.6,"Kingston, NY 12401, 456 Manchester Road ",0.30000000000000004,1
+Timothy,Oconnor,15,0,15,96.7,"7331 E. Lake View Ave. , Staunton, VA 24401",0.75,1
+Ferris,Avila,18,5,1,74.2,"59 W. Green Hill St. , Green Bay, WI 54302",0.05,1
+Owen,Barber,15,5,13,81.8,"30 Newport St. , North Haven, CT 06473",0.65,1
+Buffy,Giles,14,4,11,79.9,"8 Pennington Street , Grand Rapids, MI 49503",0.55,0
+Malachi,Hudson,17,5,11,88.3,"Copperas Cove, TX 76522, 85 Cleveland Drive ",0.55,1
+David,Mayo,18,1,6,76.8,"8714 N. Clay St. , Massapequa, NY 11758",0.30000000000000004,1
+Jermaine,Sims,16,2,3,60.5,"7874 Union St. , Euless, TX 76039",0.15000000000000002,1
+Lisandra,Boyer,16,5,9,80.9,"Naples, FL 34116, 60 Belmont Rd. ",0.45,0
+Colin,Banks,14,2,5,63.8,"7576 Homewood St. , Reynoldsburg, OH 43068",0.25,1
+Zane,Kane,14,3,7,70.3,"9006 Franklin Street , Saint Cloud, MN 56301",0.35000000000000003,1
+Aiko,Alford,16,1,11,83.1,"New Britain, CT 06051, 8962 Thompson Drive ",0.55,0
+Akeem,Walsh,17,3,12,89.9,"96 King Road , Franklin Square, NY 11010",0.6000000000000001,1
+Jaden,Ashley,18,2,11,88.2,"862 Tunnel Dr. , Fort Washington, MD 20744",0.55,0
+Brody,Duncan,15,4,9,76.4,"7208 Hickory Lane , Acworth, GA 30101",0.45,1
+Velma,Taylor,14,2,10,74.9,"North Ridgeville, OH 44039, 32 Columbia Court ",0.5,0
+Wayne,Sellers,14,4,13,88.8,"Venice, FL 34293, 62 Birch Hill St. ",0.65,1
+Levi,Dotson,14,2,11,72.0,"294 Penn Dr. , Mount Vernon, NY 10550",0.55,1
+Jack,Norman,18,3,12,92.0,"928 San Carlos Ave. , Culpeper, VA 22701",0.6000000000000001,1
+Carter,Turner,14,2,13,84.2,"40 Church Dr. , Gettysburg, PA 17325",0.65,1
+Randall,Walker,16,4,13,87.8,"7772 Temple St. , Hernando, MS 38632",0.65,1
+Kaitlin,Sears,19,2,9,74.3,"Ann Arbor, MI 48103, 9571 Cedar Dr. ",0.45,0
+Zachary,Ochoa,19,1,10,80.6,"Lynn, MA 01902, 790 Rockwell Street ",0.5,1
+Ahmed,Olson,17,2,10,80.0,"829 Greystone Ave. , Newton, NJ 07860",0.5,1
+Lunea,Garza,17,1,12,87.5,"76 SE. Birchpond St. , Annandale, VA 22003",0.6000000000000001,0
+Roanna,Oconnor,19,3,15,81.6,"93 Kent Lane , Framingham, MA 01701",0.75,0
+Laurel,King,17,5,5,72.1,"8 W. Main Circle , Longwood, FL 32779",0.25,0
+Audrey,Barry,19,2,13,88.3,"242 S. Elmwood Dr. , Johnson City, TN 37601",0.65,0
+Grant,Ruiz,14,5,14,95.5,"113 Cobblestone Street , Deland, FL 32720",0.7000000000000001,1
+Idona,Morrison,16,1,17,90.2,"Rockledge, FL 32955, 90 W. 1st Lane ",0.8500000000000001,0
+Harlan,Collier,17,3,14,96.5,"249 Poplar Rd. , Dover, NH 03820",0.7000000000000001,1
+Indira,Nichols,17,4,10,80.3,"9040 Parker St. , Buckeye, AZ 85326",0.5,0
+Ali,Raymond,18,1,6,72.7,"845 Logan Street , Stroudsburg, PA 18360",0.30000000000000004,1
+Hedy,Atkinson,19,2,13,79.2,"Schererville, IN 46375, 521 W. Rock Maple Dr. ",0.65,0
+Isadora,Whitehead,14,1,7,75.0,"26 8th Lane , Holly Springs, NC 27540",0.35000000000000003,0
+Noah,Burke,17,5,18,91.2,"Clover, SC 29710, 58 Summerhouse Drive ",0.9,1
+Nathaniel,Meyer,14,1,6,71.8,"36 Constitution St. , Coventry, RI 02816",0.30000000000000004,1
+Chaney,Burks,17,2,12,87.9,"442 Cherry Drive , Griffin, GA 30223",0.6000000000000001,1
+Angela,Macias,15,1,5,66.0,"9826 Fairground St. , Oak Lawn, IL 60453",0.25,0
+Shea,Cervantes,19,1,16,92.9,"446 Meadowbrook St. , Bowie, MD 20715",0.8,0
+Asher,Guerrero,14,4,15,100.0,"84 Lyme Dr. , Atwater, CA 95301",0.75,1
+Kirsten,Lloyd,14,2,14,78.0,"9236 Marlborough Avenue , Alliance, OH 44601",0.7000000000000001,0
+Mason,Shaw,18,1,9,74.1,"7181 Indian Spring Ave. , Pawtucket, RI 02860",0.45,1
+Leonard,Salazar,16,5,8,69.9,"40 Jackson Court , New Berlin, WI 53151",0.4,1
+Riley,Cannon,15,4,7,70.8,"Highland Park, IL 60035, 9953 Myers Ave. ",0.35000000000000003,0
+Shoshana,Collier,16,5,9,82.5,"559 Race Ave. , Alexandria, VA 22304",0.45,0
+Megan,Anderson,17,4,8,74.2,"682 N. Newport St. , Hixson, TN 37343",0.4,0
+Velma,Hardin,18,4,11,85.3,"Orange, NJ 07050, 7 South Bay St. ",0.55,0
+Taylor,Butler,14,1,13,94.1,"501 Courtland Lane , Gaithersburg, MD 20877",0.65,0
+Harding,Beck,14,3,5,66.2,"2 Arch Road , Baton Rouge, LA 70806",0.25,1
+Brenna,Lester,16,3,6,71.4,"586 Hartford Ave. , Cranford, NJ 07016",0.30000000000000004,0
+Lucas,Booth,19,5,16,87.8,"Chelmsford, MA 01824, 8020 Wintergreen Ave. ",0.8,1
+Vladimir,Brown,14,3,9,71.8,"7218 Pheasant St. , Greensboro, NC 27405",0.45,1
+Casey,Dotson,15,4,9,80.4,"Commack, NY 11725, 9477 Edgemont Avenue ",0.45,0
+Quon,Porter,16,4,5,69.2,"15 Border Lane , San Diego, CA 92111",0.25,0
+Baxter,Kirkland,15,2,8,76.4,"Chesterton, IN 46304, 780 Olive Dr. ",0.4,1
+Tiger,Ochoa,19,4,15,98.2,"489 Henry Smith Dr. , Maineville, OH 45039",0.75,1
+Maia,Norman,15,3,14,87.3,"Brentwood, NY 11717, 8097 Gulf Dr. ",0.7000000000000001,0
+Maia,Brennan,18,3,12,78.4,"78 Virginia Ave. , Allen Park, MI 48101",0.6000000000000001,0
+Malachi,Reid,15,5,11,78.9,"9259 Eagle Ave. , Cantonment, FL 32533",0.55,1
+Clementine,Rogers,14,5,9,90.3,"7560 West Beaver Ridge Lane , Stow, OH 44224",0.45,0
+Zephr,Orr,19,5,13,97.3,"856 Chestnut Ave. , Cape Coral, FL 33904",0.65,0
+Gay,Ballard,18,5,11,88.7,"14 West Clay Ave. , Mount Juliet, TN 37122",0.55,0
+Leila,Riddle,19,5,9,72.9,"Villa Rica, GA 30180, 699 Greenrose Dr. ",0.45,0
+David,Rowland,16,3,14,91.3,"Newark, NJ 07103, 2 Cottage Circle ",0.7000000000000001,1
+Travis,Shields,19,4,10,86.1,"770 Linda Avenue , Baltimore, MD 21206",0.5,1
+Kevin,Buckley,17,2,9,74.1,"Westlake, OH 44145, 954 Tunnel St. ",0.45,1
+Bryar,Watson,14,1,11,80.8,"9969 N. Victoria Ave. , Lindenhurst, NY 11757",0.55,0
+Linda,Moreno,15,3,3,61.7,"Huntsville, AL 35803, 384 Bay Meadows Court ",0.15000000000000002,0
+Akeem,Tucker,15,2,9,85.1,"8327 Buttonwood Road , Taunton, MA 02780",0.45,1
+Leandra,Schwartz,14,3,4,67.1,"75 Sycamore Ave. , Elk River, MN 55330",0.2,0
+Flavia,Hurley,17,5,5,71.1,"Hillsborough, NJ 08844, 9686 San Carlos St. ",0.25,0
+Allegra,Davidson,14,5,11,80.9,"8126 Sussex St. , Easley, SC 29640",0.55,0
+Geoffrey,Wolf,17,4,13,82.5,"31 West High Ridge Lane , Huntsville, AL 35803",0.65,1
+Wyoming,Sharpe,18,5,16,87.0,"9644 Gartner Lane , Upper Darby, PA 19082",0.8,0
+Ulric,Martinez,17,1,12,81.9,"9761 Mayfield Dr. , Deland, FL 32720",0.6000000000000001,1
+Adara,Barlow,15,5,6,68.2,"879 Pineknoll Dr. , Mechanicsburg, PA 17050",0.30000000000000004,0
+MacKenzie,Sawyer,18,4,9,77.4,"353 North Second Ave. , Champlin, MN 55316",0.45,0
+Brenden,Simmons,18,2,11,82.2,"8835 Main Dr. , New Lenox, IL 60451",0.55,1
+Lewis,Buck,19,5,11,86.6,"23 Glenlake Street , Virginia Beach, VA 23451",0.55,1
+Renee,Hester,18,2,6,68.4,"39 East East St. , Salem, MA 01970",0.30000000000000004,0
+Burke,Bennett,17,1,3,65.8,"19 South Acacia Street , Fort Dodge, IA 50501",0.15000000000000002,1
+Kirby,Vance,17,1,15,97.3,"Far Rockaway, NY 11691, 626 West Shipley Street ",0.75,0
+Katelyn,Pace,16,4,11,77.0,"5 W. Wellington Dr. , Thibodaux, LA 70301",0.55,0
+Jaime,Mason,19,5,5,77.9,"Northville, MI 48167, 8763 Bridge St. ",0.25,0
+Dillon,Kane,19,2,4,60.3,"551 Gates Rd. , Taylors, SC 29687",0.2,1
+Harper,Bryan,19,5,10,85.6,"9800 Old Arlington St. , Brunswick, GA 31525",0.5,1
+Alden,Dickson,17,4,13,80.5,"67 Wild Horse Circle , Irvington, NJ 07111",0.65,1
+Jane,Stark,14,3,14,95.0,"Dunedin, FL 34698, 89 Wakehurst St. ",0.7000000000000001,0
+Gray,Page,15,3,11,76.0,"Carol Stream, IL 60188, 7901 Edgewater Street ",0.55,1
+Colt,Mendez,15,4,12,94.1,"New Bedford, MA 02740, 866 Tower St. ",0.6000000000000001,1
+Matthew,Washington,17,2,13,85.7,"34 Maiden Road , Louisville, KY 40207",0.65,1
+Abra,Tyler,15,2,9,71.7,"671 King Avenue , Amsterdam, NY 12010",0.45,0
+Xander,Meadows,19,1,7,68.6,"84 Stillwater Road , Bradenton, FL 34203",0.35000000000000003,1
+Brody,Sears,17,3,19,93.8,"9543 Durham Lane , Massapequa, NY 11758",0.9500000000000001,1
+Phillip,Sloan,17,1,12,87.9,"Hudson, NH 03051, 37 Liberty Street ",0.6000000000000001,1
+Barbara,Chang,17,5,12,93.7,"8450 Tunnel Avenue , Arvada, CO 80003",0.6000000000000001,0
+Petra,Bryan,15,4,12,92.5,"9349 Poor House St. , Montclair, NJ 07042",0.6000000000000001,0
+Blaze,Meyer,19,1,12,85.7,"8805 Mayflower St. , Niagara Falls, NY 14304",0.6000000000000001,1
+Dylan,Rivers,16,5,9,90.0,"Calhoun, GA 30701, 995 South Tarkiln Hill Ave. ",0.45,1
+Clio,Glover,15,4,16,100.0,"Mount Vernon, NY 10550, 9586 Bay Meadows Dr. ",0.8,0
+Wynne,Miranda,16,5,17,95.1,"Downers Grove, IL 60515, 610 E. Glen Ridge Avenue ",0.8500000000000001,0
+Shelly,Jenkins,14,5,8,74.0,"Goldsboro, NC 27530, 28 George Street ",0.4,0
+Macon,Koch,15,1,11,88.2,"7065 Briarwood Lane , Springfield, PA 19064",0.55,1
+Rae,Donaldson,18,4,16,89.8,"747 Canal Lane , Portsmouth, VA 23703",0.8,0
+Isaiah,Montgomery,16,3,12,82.3,"8539 El Dorado St. , Severn, MD 21144",0.6000000000000001,1
+Garrett,Everett,17,2,0,78.1,"539 Swanson St. , Ooltewah, TN 37363",0.0,1
+Carson,Delacruz,15,3,16,96.4,"8996 Richardson Ave. , Buffalo Grove, IL 60089",0.8,1
+Warren,Garcia,16,2,12,82.3,"Lynn, MA 01902, 305 Howard Street ",0.6000000000000001,1
+Yolanda,Watson,15,2,4,71.1,"Park Ridge, IL 60068, 8636 Walnut St. ",0.2,0
+Callum,Walls,16,4,10,76.9,"8676 Walt Whitman Street , Port Orange, FL 32127",0.5,1
+Lydia,Lindsay,15,5,15,83.0,"Lynchburg, VA 24502, 98 Wayne St. ",0.75,0
+Galena,Sherman,18,5,16,92.1,"341 Henry Street , Bismarck, ND 58501",0.8,0
+Marshall,Arnold,17,5,11,78.8,"8126 Bayberry Drive , Avon, IN 46123",0.55,1
+Sasha,Fernandez,14,1,10,73.9,"Lititz, PA 17543, 9352 Thomas Drive ",0.5,0
+Tanner,Velasquez,18,5,18,97.9,"8 Jennings Dr. , Savage, MN 55378",0.9,1
+Gisela,Pollard,17,5,16,92.8,"539 Henry Smith Court , Roanoke, VA 24012",0.8,0
+Howard,Shaffer,18,3,14,97.1,"327 Lakewood Avenue , Suite J ",0.7000000000000001,1
+Kenneth,Curry,17,5,9,86.1,"9769 St Louis St. , El Dorado, AR 71730",0.45,1
+Halee,Garner,16,2,15,93.8,"Fair Lawn, NJ 07410, 7901 Orchard St. ",0.75,0
+Avye,Mccray,17,3,8,84.4,"44 Manchester Ave. , Westerville, OH 43081",0.4,0
+Tanisha,Dennis,16,3,11,75.3,"25 West Cedar Swamp Lane , Redondo Beach, CA 90278",0.55,0
+Dora,Dalton,14,5,10,89.9,"Northville, MI 48167, 35 Princess Court ",0.5,0
+Freya,Sykes,19,4,18,89.4,"Uniontown, PA 15401, 8110 Beechwood St. ",0.9,0
+Cassady,Ruiz,16,2,18,100.0,"8837 Clark Court , Beckley, WV 25801",0.9,0
+Cullen,Strong,16,4,16,84.3,"423 Augusta St. , Sevierville, TN 37876",0.8,1
+Kim,Pugh,18,2,15,90.2,"7058 Middle River Avenue , Detroit, MI 48205",0.75,0
+Warren,Lambert,16,3,8,79.5,"Loganville, GA 30052, 8698 North Border Street ",0.4,1
+Alan,Langley,16,1,18,87.3,"35 Rosewood Street , Vista, CA 92083",0.9,1
+Blossom,Gonzalez,17,4,18,100.0,"Rego Park, NY 11374, 6 Lookout Street ",0.9,0
+Velma,Moreno,17,2,9,76.4,"Ogden, UT 84404, 7 S. Arch St. ",0.45,0
+Kaitlin,Ferguson,19,5,14,86.4,"9872 E. Cobblestone Drive , Carpentersville, IL 60110",0.7000000000000001,0
+Griffin,Burch,17,0,11,83.0,"9771 Birchpond Ave. , Jacksonville, NC 28540",0.55,1
+Constance,Mcmahon,16,3,10,75.3,"Hermitage, TN 37076, 953 East Nut Swamp St. ",0.5,0
+Colorado,Cash,16,5,18,100.0,"935 East New Saddle St. , Hartsville, SC 29550",0.9,1
+Nolan,Small,14,3,2,71.5,"9990 Sleepy Hollow Street , Huntsville, AL 35803",0.1,1
+Hadassah,Grimes,15,2,12,79.2,"Zanesville, OH 43701, 16 Ridge Drive ",0.6000000000000001,0
+Fitzgerald,Rowland,18,5,9,80.4,"76 Manhattan St. , Raeford, NC 28376",0.45,1
+Madeline,Mcconnell,18,2,11,80.3,"North Bergen, NJ 07047, 15 Illinois Lane ",0.55,0
+Nicholas,Garrison,17,2,12,85.2,"540 Smith Store Rd. , Herndon, VA 20170",0.6000000000000001,1
+Marvin,Jackson,18,1,9,72.8,"25 Shub Farm Rd. , Worcester, MA 01604",0.45,1
+Keiko,Simon,17,1,9,69.5,"8663 El Dorado Lane , New Bern, NC 28560",0.45,0
+Gray,Harrison,17,2,9,71.2,"Davenport, IA 52804, 9167 Grandrose Road ",0.45,1
+Odessa,Shaffer,16,1,5,76.7,"7432 Nut Swamp St. , Leominster, MA 01453",0.25,0
+Igor,Conway,17,1,17,100.0,"61 Alderwood St. , Union City, NJ 07087",0.8500000000000001,1
+Denise,Sloan,18,4,20,100.0,"9808 Princeton St. , Saugus, MA 01906",1.0,0
+Rhona,Raymond,19,5,13,90.3,"455 NW. Wild Rose Street , Hampton, VA 23666",0.65,0
+Desiree,Webb,19,2,18,98.1,"Atlantic City, NJ 08401, 157 Alderwood Drive ",0.9,0
+Xavier,Moran,14,2,6,66.0,"324 Logan Street , Point Pleasant Beach, NJ 08742",0.30000000000000004,1
+Ivor,Clark,14,1,7,68.9,"2 Foster Street , Ozone Park, NY 11417",0.35000000000000003,1
+Elvis,Allen,15,3,12,82.5,"7354 Lakewood Street , North Brunswick, NJ 08902",0.6000000000000001,1
+Lester,Mcconnell,17,1,10,83.9,"852 Chapel Rd. , Muskogee, OK 74403",0.5,1
+Rashad,Sims,17,3,15,84.5,"7600 Arnold Drive , Williamsport, PA 17701",0.75,1
+Rhoda,Hill,17,4,7,72.8,"8025 Bridge St. , Jackson, NJ 08527",0.35000000000000003,0
+Honorato,Gutierrez,16,5,17,100.0,"Providence, RI 02904, 9428 Sage Street ",0.8500000000000001,1
+Anjolie,King,15,5,13,80.8,"8497 Pleasant St. , Rossville, GA 30741",0.65,0
+Alvin,Randall,18,5,9,83.7,"650 Belmont Drive , Villa Park, IL 60181",0.45,1
+Garrison,Durham,16,3,11,87.2,"582 Vale Ave. , Wilkes Barre, PA 18702",0.55,1
+Hunter,Roach,17,3,14,95.2,"Annandale, VA 22003, 55 Henry Lane ",0.7000000000000001,1
+Shafira,Bean,17,5,10,85.5,"Independence, KY 41051, 507 Cardinal St. ",0.5,0
+Avram,Huber,18,3,20,100.0,"811 Lancaster Dr. , Piedmont, SC 29673",1.0,1
+Macey,Duran,19,5,14,84.0,"18 Brookside Street , Piqua, OH 45356",0.7000000000000001,0
+Penelope,Bernard,17,4,14,83.1,"956 Indian Summer Ave. , Muncie, IN 47302",0.7000000000000001,0
+Kane,Clay,18,4,8,70.6,"Huntington, NY 11743, 38 Bank Street ",0.4,1
+Alvin,Hodges,14,5,11,91.5,"3 Grand Drive , Sidney, OH 45365",0.55,1
+Tanner,Head,14,1,14,80.7,"Sheboygan, WI 53081, 90 Fairfield St. ",0.7000000000000001,1
+Kelsie,Solomon,18,4,10,83.7,"Menomonee Falls, WI 53051, 21 Old Brook Ave. ",0.5,0
+Cheyenne,Prince,15,2,4,61.3,"268 Sugar Ave. , Westland, MI 48185",0.2,0
+Hermione,Snyder,18,5,12,79.9,"5 Hillside Rd. , Lawrence Township, NJ 08648",0.6000000000000001,0
+Hanae,Cortez,18,2,12,83.1,"Altoona, PA 16601, 42 Lexington Drive ",0.6000000000000001,0
+Vladimir,Rose,19,5,13,84.1,"49 Longbranch Dr. , Westford, MA 01886",0.65,1
+Plato,Moran,17,2,10,71.8,"876 Cactus St. , Kearny, NJ 07032",0.5,1
+Ariana,Mcclure,15,1,11,78.1,"806 River St. , Jersey City, NJ 07302",0.55,0
+Nevada,Mcdonald,19,2,11,81.3,"20 West Olive Court , Pikesville, MD 21208",0.55,0
+Carter,Greer,16,3,6,71.4,"40 Atlantic Ave. , Grayslake, IL 60030",0.30000000000000004,1
+Clayton,Yates,16,5,14,100.0,"709 South Manhattan St. , Chandler, AZ 85224",0.7000000000000001,1
+Gabriel,Goff,19,5,13,94.4,"Maumee, OH 43537, 7519 Glen Ridge Rd. ",0.65,1
+Aurora,Nash,18,2,13,81.0,"Niagara Falls, NY 14304, 204 Ann Dr. ",0.65,0
+Pandora,Petty,14,4,10,90.3,"8678 Edgewater Road , Highland, IN 46322",0.5,0
+Jocelyn,Byers,15,4,15,86.9,"9923 Alton Avenue , Bowie, MD 20715",0.75,0
+Amos,Norton,17,2,5,69.3,"8797 Buttonwood Drive , Circle Pines, MN 55014",0.25,1
+May,Rivera,19,2,10,77.3,"Spartanburg, SC 29301, 7507 Marlborough Street ",0.5,0
+Cara,Simmons,18,2,7,81.3,"Troy, NY 12180, 157 East Smith St. ",0.35000000000000003,0
+Dolan,Boyd,17,3,11,86.0,"882 Catherine Ave. , Camp Hill, PA 17011",0.55,1
+Felix,Avila,16,5,11,89.7,"3 Newcastle St. , Potomac, MD 20854",0.55,1
+Abbot,Kramer,16,2,8,81.0,"9205 Augusta St. , Westmont, IL 60559",0.4,1
+Flavia,Hester,14,1,16,82.5,"364 Wentworth Dr. , Winter Park, FL 32792",0.8,0
+Inez,Webb,17,2,4,60.9,"Wilkes Barre, PA 18702, 680 Deerfield Lane ",0.2,0
+Nigel,Snyder,17,1,11,77.3,"8030 Leatherwood Road , Edison, NJ 08817",0.55,1
+Ross,Hopkins,14,5,7,71.1,"56 Canterbury St. , Allen Park, MI 48101",0.35000000000000003,1
+Virginia,Witt,15,4,11,92.0,"805 Lees Creek Dr. , Upper Darby, PA 19082",0.55,0
+Gloria,Pate,16,3,9,88.4,"Miami, FL 33125, 868 Plymouth Street ",0.45,0
+Lyle,Salas,16,5,13,81.9,"Bel Air, MD 21014, 69 2nd Dr. ",0.65,1
+Oscar,Walters,19,3,9,79.2,"7702 Hamilton St. , Hudson, NH 03051",0.45,1
+Chandler,Buckner,17,3,8,81.9,"Charlotte, NC 28205, 527 West Heather Ave. ",0.4,1
+Karen,Moss,16,3,7,71.8,"Wilmette, IL 60091, 58 Snake Hill Dr. ",0.35000000000000003,0
+Demetria,Hensley,17,3,11,77.2,"Brainerd, MN 56401, 7535 Hawthorne Lane ",0.55,0
+Karly,Watts,19,2,11,89.3,"Burnsville, MN 55337, 22 Maple Avenue ",0.55,0
+Lucius,Pugh,14,4,13,93.1,"549 La Sierra Drive , Hartford, CT 06106",0.65,1
+Shafira,Rodriquez,15,4,17,98.1,"Kenosha, WI 53140, 95 West Devon Lane ",0.8500000000000001,0
+Sonia,Rhodes,19,3,11,83.1,"112 East Glendale Lane , Lowell, MA 01851",0.55,0
+Rhona,Huffman,17,3,8,78.7,"Emporia, KS 66801, 316 East Redwood Drive ",0.4,0
+Timothy,Bender,14,1,6,64.0,"7657 W. Jennings Road , Lebanon, PA 17042",0.30000000000000004,1
+Colin,Aguilar,14,5,15,86.0,"Chesterfield, VA 23832, 7545 Anderson Lane ",0.75,1
+Katelyn,Santana,18,3,14,82.6,"565 Smith Store Street , Cherry Hill, NJ 08003",0.7000000000000001,0
+Jorden,Byers,19,2,12,87.6,"735 County Drive , Valrico, FL 33594",0.6000000000000001,0
+Josiah,Lucas,16,5,8,83.6,"Gastonia, NC 28052, 76 SW. Valley Farms St. ",0.4,1
+Yuri,Joyner,14,1,3,60.8,"Vernon Hills, IL 60061, 28 El Dorado Street ",0.15000000000000002,0
+Carolyn,Rhodes,17,3,6,72.5,"Richmond Hill, NY 11418, 93 Courtland Circle ",0.30000000000000004,0
+Raja,Owen,14,2,18,98.6,"Tallahassee, FL 32303, 9410 Garfield Street ",0.9,1
+Brenden,Prince,14,2,9,72.8,"589 Locust Drive , Loxahatchee, FL 33470",0.45,1
+Hector,Melton,18,4,12,88.2,"9598 Colonial Street , Anderson, SC 29621",0.6000000000000001,1
+Wang,Stewart,16,3,13,79.1,"939 Big Rock Cove Ave. , Manitowoc, WI 54220",0.65,1
+Nita,Castillo,19,5,10,92.1,"Waukesha, WI 53186, 8659 Bohemia Circle ",0.5,0
+Gay,Carlson,18,2,20,100.0,"Macon, GA 31204, 79 Riverside Ave. ",1.0,0
+Kelsie,Obrien,19,2,6,73.8,"Cranston, RI 02920, 84 South Drive ",0.30000000000000004,0
+Lysandra,Mendez,16,1,12,92.2,"275 Sunbeam Rd. , Littleton, CO 80123",0.6000000000000001,0
+Brynn,Owen,19,2,7,75.0,"Ft Mitchell, KY 41017, 439 Brook St. ",0.35000000000000003,0
+Harrison,Beasley,19,4,10,91.5,"413 W. Birchpond St. , Lorain, OH 44052",0.5,1
+Carol,Dillard,18,5,17,100.0,"Fernandina Beach, FL 32034, 9840 Pendergast St. ",0.8500000000000001,0
+Leonard,Lynn,16,1,19,95.6,"20 Lake Forest Ave. , Phoenixville, PA 19460",0.9500000000000001,1
+Hyatt,Erickson,18,4,13,89.1,"7034 Del Monte St. , North Miami Beach, FL 33160",0.65,1
+Kirk,Holmes,19,3,6,77.0,"634 W. Stonybrook Street , Hickory, NC 28601",0.30000000000000004,1
+Lee,Hooper,18,4,15,99.7,"9756 Greenrose Ave. , Southfield, MI 48076",0.75,1
+Adam,Hines,19,3,10,88.2,"22 Cleveland St. , Woburn, MA 01801",0.5,1
+Henry,Stafford,14,3,11,75.7,"265 W. Thomas Ave. , Shakopee, MN 55379",0.55,1
+Hop,Sanford,15,5,4,68.3,"2 Cottage Court , East Northport, NY 11731",0.2,1
+Dolan,Ball,15,4,9,76.9,"9333 Howard Ave. , Marlborough, MA 01752",0.45,1
+Naomi,Strong,15,2,20,100.0,"66 North Ocean St. , Fort Mill, SC 29708",1.0,0
+Marcia,Perez,18,3,10,79.4,"Highland Park, IL 60035, 419 Columbia Road ",0.5,0
+Xenos,Workman,14,1,10,85.5,"119 N. Glenlake St. , Waukesha, WI 53186",0.5,1
+Oscar,Mason,18,4,15,90.3,"Leland, NC 28451, 26 Myers Rd. ",0.75,1
+Miriam,Poole,15,2,17,95.0,"Winchester, VA 22601, 489 Maiden Ave. ",0.8500000000000001,0
+Chiquita,Monroe,14,3,7,74.6,"717 Ocean Dr. , Villa Park, IL 60181",0.35000000000000003,0
+Chadwick,Harrell,17,1,12,90.3,"7600 Durham Road , Valrico, FL 33594",0.6000000000000001,1
+Warren,Warner,19,1,5,62.6,"143 Jennings Street , Delray Beach, FL 33445",0.25,1
+Griffin,French,19,2,11,73.2,"3 Marshall Road , Inman, SC 29349",0.55,1
+Keegan,Savage,18,3,10,70.7,"332 Columbia Street , Jonesborough, TN 37659",0.5,1
+Skyler,Olson,19,3,7,66.3,"Michigan City, IN 46360, 52 Fremont Street ",0.35000000000000003,0
+Maggy,Kim,17,1,11,85.1,"82 Railroad St. , King Of Prussia, PA 19406",0.55,0
+Leandra,Ortiz,15,1,15,89.5,"Southaven, MS 38671, 695 Jefferson St. ",0.75,0
+Unity,Waters,17,2,12,91.6,"134 N. Riverview Dr. , Sun City, AZ 85351",0.6000000000000001,0
+Mufutau,Sanchez,19,3,7,66.0,"13 Queen Drive , Urbandale, IA 50322",0.35000000000000003,1
+Jaden,Hayden,18,2,5,61.2,"52 Williams Ave. , Muskegon, MI 49441",0.25,0
+Raya,Kane,18,4,6,83.1,"Torrington, CT 06790, 9 Airport Avenue ",0.30000000000000004,0
+Montana,Bell,17,4,11,88.9,"Elizabethtown, PA 17022, 8985 Walt Whitman Street ",0.55,0
+Astra,Rodgers,15,4,6,75.3,"9258 W. Pennsylvania St. , Winona, MN 55987",0.30000000000000004,0
+Chandler,Wooten,15,2,13,87.5,"41 Thorne Street , Hamden, CT 06514",0.65,1
+Galena,Hale,16,5,3,72.1,"424 N. Kingston Street , Johnston, RI 02919",0.15000000000000002,0
+Darrel,Wood,19,1,14,91.5,"49 E. Penn Ave. , Glen Cove, NY 11542",0.7000000000000001,0
+Ali,Hartman,14,1,7,76.9,"553 Academy St. , Warwick, RI 02886",0.35000000000000003,1
+Colorado,Sullivan,19,1,10,76.2,"Wheaton, IL 60187, 9676 Roberts Dr. ",0.5,1
+Gannon,Joseph,16,2,12,93.3,"7379 Mammoth Ave. , Saint Johns, FL 32259",0.6000000000000001,1
+Omar,Pittman,14,5,2,66.6,"13 Peg Shop Ave. , Hernando, MS 38632",0.1,1
+Hoyt,Tanner,14,1,15,90.2,"2 Olive Dr. , Ft Mitchell, KY 41017",0.75,1
+Cameron,Bridges,18,4,7,79.3,"1 Thomas Road , New York, NY 10002",0.35000000000000003,0
+Uta,Cohen,16,5,7,83.9,"Far Rockaway, NY 11691, 959 Airport St. ",0.35000000000000003,0
+Gavin,Sloan,16,2,16,87.9,"37 S. Sunbeam Court , Long Branch, NJ 07740",0.8,1
+Kay,Wright,14,3,15,83.5,"Hagerstown, MD 21740, 9512 Harvard St. ",0.75,0
+Joan,Kramer,17,2,13,89.8,"21 Depot Street , Cordova, TN 38016",0.65,0
+Mercedes,Wood,15,4,10,79.0,"9259 Shadow Brook Ave. , Freehold, NJ 07728",0.5,0
+Brynn,Vasquez,15,2,11,87.5,"Alpharetta, GA 30004, 7607 Bay Meadows St. ",0.55,0
+Justina,Berger,18,4,11,90.2,"7859 Grandrose Drive , Rocklin, CA 95677",0.55,0
+Camden,Petty,19,1,16,88.2,"679 E. Washington Road , Pembroke Pines, FL 33028",0.8,1
+Angela,Mcdaniel,18,1,8,73.3,"91 Honey Creek Rd. , Glenview, IL 60025",0.4,0
+Leandra,Acevedo,14,1,15,94.4,"8695 West Hilltop Road , Arlington, MA 02474",0.75,0
+William,Mosley,14,1,4,64.2,"7981 Mill Pond Ave. , Bel Air, MD 21014",0.2,1
+Odette,Acosta,15,2,6,68.2,"Racine, WI 53402, 70 West Chapel Drive ",0.30000000000000004,0
+Ava,David,18,1,8,75.0,"Bristow, VA 20136, 4 Beacon St. ",0.4,0
+Xavier,Pugh,15,2,3,69.0,"Sioux City, IA 51106, 29 Maiden Ave. ",0.15000000000000002,1
+Amethyst,Logan,18,4,6,66.1,"9056 High Noon St. , Bowie, MD 20715",0.30000000000000004,0
+Ulric,Gay,19,2,10,80.9,"3 Durham Street , Evanston, IL 60201",0.5,1
+Brandon,Sherman,18,1,13,83.1,"70 Bowman Ave. , Hamburg, NY 14075",0.65,1
+Dolan,Anderson,15,2,8,72.3,"Milledgeville, GA 31061, 8763 Argyle Ave. ",0.4,1
+Aspen,Ayers,14,2,14,96.8,"Canfield, OH 44406, 405 W. Iroquois St. ",0.7000000000000001,0
+Signe,Bentley,14,1,6,71.8,"417 North Applegate St. , Bensalem, PA 19020",0.30000000000000004,0
+Lunea,Perkins,14,2,10,85.3,"7980 Prairie Court , Fullerton, CA 92831",0.5,0
+Alvin,Bullock,16,1,18,90.1,"8676 Cypress St. , Norwalk, CT 06851",0.9,1
+Herman,Potter,17,4,14,88.4,"9521 Poplar Ave. , Summerville, SC 29483",0.7000000000000001,1
+Keane,Morales,17,4,14,97.3,"51 Mayflower St. , Owatonna, MN 55060",0.7000000000000001,1
+Peter,Douglas,18,5,7,83.2,"7610 Charles St. , Chattanooga, TN 37421",0.35000000000000003,1
+Neil,Carr,16,1,13,79.1,"9939 Church Lane , Woodhaven, NY 11421",0.65,1
+Cairo,Rowe,14,4,11,88.0,"44 Sulphur Springs Rd. , Fairmont, WV 26554",0.55,1
+Caryn,Townsend,18,5,14,83.5,"Arlington Heights, IL 60004, 388 Brickell St. ",0.7000000000000001,0
+Aspen,Carlson,16,3,6,77.2,"88 Fulton St. , Apex, NC 27502",0.30000000000000004,0
+Josiah,Dennis,14,1,14,86.1,"4 Birch Hill Court , Burbank, IL 60459",0.7000000000000001,1
+Gareth,Coleman,17,3,15,83.0,"7695 Pendergast St. , Barrington, IL 60010",0.75,1
+Germaine,Harrington,17,2,10,85.3,"372 Logan Street , Ponte Vedra Beach, FL 32082",0.5,0
+Lev,Brown,17,2,10,71.8,"Flemington, NJ 08822, 8621 N. Myers Avenue ",0.5,1
+Jackson,Ballard,19,1,19,91.2,"8573 Delaware Rd. , East Northport, NY 11731",0.9500000000000001,1
+Martin,Weber,14,1,14,77.0,"15 East Shadow Brook Drive , Daphne, AL 36526",0.7000000000000001,1
+Drake,Kelley,19,5,13,96.0,"Braintree, MA 02184, 987 Walt Whitman Street ",0.65,1
+Armando,Hutchinson,17,3,14,97.5,"8295 Ridge St. , Methuen, MA 01844",0.7000000000000001,1
+Clark,Wilkins,16,4,10,89.2,"273 Washington Lane , Great Falls, MT 59404",0.5,1
+Wanda,Jones,16,3,14,84.7,"Meriden, CT 06450, 8115 School Street ",0.7000000000000001,0
+Shay,Luna,17,3,8,77.7,"Chapel Hill, NC 27516, 9812 Country Ave. ",0.4,0
+Quentin,Hines,17,4,16,85.5,"904 College Street , Mechanicsville, VA 23111",0.8,1
+Karleigh,Jackson,15,3,13,97.3,"36 East Cypress Dr. , Hempstead, NY 11550",0.65,0
+Xaviera,Howell,14,1,17,92.5,"945 Arrowhead St. , Glen Allen, VA 23059",0.8500000000000001,0
+Clayton,Avery,18,1,11,86.9,"Loveland, OH 45140, 654 Johnson St. ",0.55,1
+Oprah,Stevens,15,5,10,78.7,"9489 Henry Smith Drive , Kent, OH 44240",0.5,0
+Katelyn,Conway,19,5,10,74.0,"53 St Margarets St. , Fernandina Beach, FL 32034",0.5,0
+Amal,Terry,15,4,3,66.3,"Davenport, IA 52804, 7077 Applegate Court ",0.15000000000000002,1
+Akeem,Patterson,18,3,8,76.2,"132 Bank Street , Davison, MI 48423",0.4,1
+Aubrey,Carrillo,18,4,16,87.1,"State College, PA 16801, 680 Cherry Ave. ",0.8,0
+Candice,Jarvis,14,4,8,68.9,"La Crosse, WI 54601, 7426 El Dorado St. ",0.4,0
+Colby,Whitley,19,3,11,82.8,"7024 Shore Street , Severn, MD 21144",0.55,1
+Cooper,Thomas,16,2,12,80.1,"Vienna, VA 22180, 7692 Bedford Street ",0.6000000000000001,1
+Whoopi,Lang,15,5,4,76.1,"Morton Grove, IL 60053, 471 Bald Hill St. ",0.2,0
+Mona,Lester,17,2,12,78.8,"929 Hill Field Court , Aiken, SC 29803",0.6000000000000001,0
+Jocelyn,Quinn,19,1,4,61.1,"7763 Boston Dr. , Dorchester Center, MA 02124",0.2,0
+Reece,Heath,14,3,12,83.5,"7589 Randall Mill Drive , Warwick, RI 02886",0.6000000000000001,1
+Vera,Molina,14,2,11,83.6,"9124 E. Bohemia Street , Windsor, CT 06095",0.55,0
+Caleb,Francis,17,3,11,76.8,"72 North Edgemont Ave. , Loganville, GA 30052",0.55,1
+Buckminster,Knox,18,3,11,79.6,"7360 Kirkland Street , Dorchester Center, MA 02124",0.55,1
+Dexter,Dalton,14,3,8,72.0,"Beachwood, OH 44122, 899 Tarkiln Hill Road ",0.4,1
+Gage,Tyler,19,1,14,77.7,"New Port Richey, FL 34653, 9774 Rockledge Dr. ",0.7000000000000001,1
+Kendall,Adkins,14,1,13,85.7,"16 Marconi Ave. , Missoula, MT 59801",0.65,0
+Charles,Sears,18,1,4,74.3,"8589 Riverview Court , Great Falls, MT 59404",0.2,1
+Brynn,Oconnor,18,5,5,64.7,"Algonquin, IL 60102, 687 Pearl St. ",0.25,0
+Alec,Sparks,15,2,13,90.1,"9189 Strawberry Ave. , Merrillville, IN 46410",0.65,1
+Rogan,Conley,14,4,10,71.9,"Camden, NJ 08105, 898 Illinois Rd. ",0.5,1
+Hashim,Clark,14,1,8,79.9,"269 Devon Street , Champaign, IL 61821",0.4,1
+Quintessa,Byrd,19,2,7,73.5,"7738 N. Johnson Drive , Buford, GA 30518",0.35000000000000003,0
+Odette,Merrill,17,4,7,85.0,"23 Selby Lane , Bettendorf, IA 52722",0.35000000000000003,0
+Xander,Woodward,14,2,9,71.0,"305 Cobblestone St. , Elmhurst, NY 11373",0.45,1
+Jenna,Bartlett,17,2,12,81.7,"Bellmore, NY 11710, 9378 Westport Dr. ",0.6000000000000001,0
+Kylan,Sutton,19,1,10,81.7,"Framingham, MA 01701, 9419 Grandrose Court ",0.5,0
+Dahlia,Bowman,18,3,8,82.3,"Clinton, MD 20735, 54 North Hillcrest Road ",0.4,0
+Phillip,Savage,19,2,19,100.0,"956 Oxford St. , Poughkeepsie, NY 12601",0.9500000000000001,1
+Maxwell,Blake,15,2,17,100.0,"8907 Galvin Dr. , New City, NY 10956",0.8500000000000001,1
+Louis,Joyner,19,2,19,100.0,"30 Argyle Ave. , Patchogue, NY 11772",0.9500000000000001,1
+Sophia,Allison,17,5,9,82.0,"906 Summer Street , Grand Rapids, MI 49503",0.45,0
+Vera,Russell,18,4,16,100.0,"Sidney, OH 45365, 8837 Yukon Dr. ",0.8,0
+Ann,Reese,16,4,14,93.1,"Palmetto, FL 34221, 240 Santa Clara St. ",0.7000000000000001,0
+Calista,Montoya,16,4,17,91.5,"Bolingbrook, IL 60440, 5 2nd Road ",0.8500000000000001,0
+Len,Hamilton,17,1,13,90.1,"7384 Ann Ave. , Garner, NC 27529",0.65,1
+Bo,Hendricks,19,3,9,79.9,"99 Lees Creek Street , Winder, GA 30680",0.45,0
+Wilma,Farrell,14,2,15,80.7,"707 Manor Street , West Springfield, MA 01089",0.75,0
+Yael,Hatfield,19,2,18,100.0,"Lorain, OH 44052, 90 Old Griffin Street ",0.9,0
+Salvador,Perkins,16,2,17,99.9,"Chester, PA 19013, 71 North Bay Street ",0.8500000000000001,1
+Roary,Howe,16,1,18,85.4,"Ocean Springs, MS 39564, 30 E. Prairie Lane ",0.9,0
+Christen,Nelson,15,4,10,73.9,"1 Orchard St. , Spartanburg, SC 29301",0.5,0
+Graham,Morse,16,5,16,99.3,"Mooresville, NC 28115, 8044 College St. ",0.8,1
+Judah,Vega,15,4,13,95.2,"Fenton, MI 48430, 414 South Court ",0.65,1
+Geoffrey,Warren,18,1,12,86.6,"569 Madison Court , Circle Pines, MN 55014",0.6000000000000001,1
+Slade,Delgado,14,5,10,83.2,"8810 Sutor Ave. , Apt 84 ",0.5,1
+Danielle,Hartman,16,4,13,89.0,"Dover, NH 03820, 978 Gonzales Ave. ",0.65,0
+Murphy,Michael,14,1,19,100.0,"373 North Warren St. , Elgin, IL 60120",0.9500000000000001,1
+Kareem,Fisher,18,2,14,82.5,"13 West Walnut Drive , Troy, NY 12180",0.7000000000000001,1
+Henry,Lowe,14,2,8,78.4,"West Haven, CT 06516, 2 Indian Spring Ave. ",0.4,1
+Keely,Moran,18,5,11,84.3,"7600 Piper Rd. , Chapel Hill, NC 27516",0.55,0
+Honorato,Savage,15,3,13,93.9,"76 South Helen Street , Woodside, NY 11377",0.65,1
+Chaim,Sawyer,18,5,12,77.1,"Smyrna, GA 30080, 95 Amerige Rd. ",0.6000000000000001,1
+Todd,Horn,19,4,17,88.7,"Findlay, OH 45840, 8656 Addison St. ",0.8500000000000001,1
+Tara,Cook,16,3,10,77.1,"9276 West Fordham Circle , Port Saint Lucie, FL 34952",0.5,0
+India,Macdonald,15,2,15,85.5,"Wyandotte, MI 48192, 110 Jennings Drive ",0.75,0
+Alfreda,Farley,16,2,13,76.8,"66 Edgemont Lane , Oxon Hill, MD 20745",0.65,0
+Paki,Schwartz,17,3,16,90.6,"8429 Illinois St. , Chandler, AZ 85224",0.8,1
+Harper,Harris,18,5,10,73.3,"3 Gulf Drive , Westmont, IL 60559",0.5,1
+Charles,Moon,17,4,10,87.3,"9748 Overlook Drive , Nutley, NJ 07110",0.5,1
+Michelle,Cross,14,5,11,95.1,"Greensboro, NC 27405, 190 SE. Beaver Ridge St. ",0.55,0
+Porter,Cameron,15,4,7,81.0,"540 Glen Eagles St. , Mableton, GA 30126",0.35000000000000003,1
+Clayton,Nelson,16,4,10,86.4,"368 East River Ave. , Corona, NY 11368",0.5,1
+Inez,Reese,19,2,8,74.3,"59 Helen St. , Elkton, MD 21921",0.4,0
+Levi,Coleman,19,3,3,55.9,"7109 South Ridgeview Ave. , West Bloomfield, MI 48322",0.15000000000000002,1
+Lyle,Sampson,18,1,10,88.8,"5 Glenwood Dr. , El Paso, TX 79930",0.5,1
+Mariko,Lynch,18,1,7,69.5,"Altamonte Springs, FL 32714, 5 Locust Drive ",0.35000000000000003,0
+James,Morrison,18,3,13,82.7,"9879 Corona St. , Lithonia, GA 30038",0.65,1
+Tatum,Grimes,15,1,15,91.1,"Woodhaven, NY 11421, 9631 Buttonwood Ave. ",0.75,0
+Lyle,Kline,18,2,10,76.6,"Glen Allen, VA 23059, 942 South Anderson St. ",0.5,1
+Isabella,Stewart,19,2,17,92.5,"Ada, OK 74820, 8802 Rose St. ",0.8500000000000001,0
+Gage,Harrington,17,2,11,77.2,"180 Center Avenue , Frankfort, KY 40601",0.55,1
+Graham,Bonner,17,1,12,88.2,"818 S. Gates Street , Bozeman, MT 59715",0.6000000000000001,1
+Helen,Levine,18,4,17,94.5,"4 Lake Forest St. , Newburgh, NY 12550",0.8500000000000001,0
+Chanda,Sellers,15,3,5,64.9,"Hopewell Junction, NY 12533, 8821 Cardinal Street ",0.25,0
+Karly,Ramirez,17,3,8,86.6,"745 Bedford St. , Corpus Christi, TX 78418",0.4,0
+Fitzgerald,Goff,18,1,4,59.8,"85 S. Fairfield Street , Richardson, TX 75080",0.2,1
+Jayme,Ferguson,19,2,12,90.7,"576 S. Newport Drive , Catonsville, MD 21228",0.6000000000000001,0
+Angela,Watts,17,3,9,81.5,"7715 North Deerfield Dr. , Garland, TX 75043",0.45,0
+Dana,Chen,15,3,12,93.7,"94 SW. Marshall Street , Starkville, MS 39759",0.6000000000000001,0
+Ifeoma,Melton,14,5,8,75.1,"287 E. Squaw Creek St. , Knoxville, TN 37918",0.4,0
+Cairo,French,14,5,9,87.2,"91 Race Ave. , Falls Church, VA 22041",0.45,1
+Fitzgerald,Welch,16,5,16,93.4,"529 Pennsylvania Ave. , Maspeth, NY 11378",0.8,1
+Carlos,Price,15,3,20,92.4,"9044 South Street , Casselberry, FL 32707",1.0,1
+Macy,Hawkins,19,5,15,84.1,"Silver Spring, MD 20901, 7383 Crescent Street ",0.75,0
+Halla,Norman,15,1,7,68.4,"Marion, NC 28752, 8896 North Country Drive ",0.35000000000000003,0
+Illiana,Riddle,16,3,9,82.0,"9692 Oak Meadow Rd. , Nottingham, MD 21236",0.45,0
+Juliet,Good,14,5,15,100.0,"Largo, FL 33771, 734 Summerhouse Drive ",0.75,0
+Tamekah,Perez,18,4,5,70.9,"Littleton, CO 80123, 7121 Mill Drive ",0.25,0
+Lucian,Myers,16,1,7,64.9,"Mount Pleasant, SC 29464, 7421 Fremont Street ",0.35000000000000003,1
+Isaac,Webb,14,5,11,80.9,"5 E. Prospect St. , Athens, GA 30605",0.55,1
+Hakeem,Roth,17,5,10,90.6,"8600 Market St. , Athens, GA 30605",0.5,1
+Basil,Santos,17,4,10,84.1,"333 Pumpkin Hill St. , Astoria, NY 11102",0.5,1
+Nora,Gaines,19,3,15,98.9,"Williamsburg, VA 23185, 8871 Tower Street ",0.75,0
+Malik,Goodman,15,3,18,86.8,"6 E. Proctor Dr. , Cranston, RI 02920",0.9,1
+Abbot,Kinney,16,4,18,87.5,"866 East East St. , Rolla, MO 65401",0.9,1
+Tanek,Mclaughlin,19,2,14,89.5,"Rocklin, CA 95677, 16 Euclid Street ",0.7000000000000001,1
+Phyllis,Moore,18,2,14,92.4,"68 Clay St. , Philadelphia, PA 19111",0.7000000000000001,0
+Vance,Byrd,18,4,17,91.5,"456 Wellington Street , Chicopee, MA 01020",0.8500000000000001,1
+Sandra,Foreman,14,5,14,86.4,"Waukegan, IL 60085, 12 Philmont Street ",0.7000000000000001,0
+Carol,Orr,15,2,12,87.3,"Harlingen, TX 78552, 8084 Greenview St. ",0.6000000000000001,0
+Zenaida,Page,17,4,18,95.6,"441 W. Cardinal Street , Mahopac, NY 10541",0.9,0
+Ezekiel,Wilder,15,2,4,62.8,"Glenview, IL 60025, 42 Wilson Road ",0.2,1
+Reece,Baker,14,1,12,84.6,"2 Marvon St. , Annandale, VA 22003",0.6000000000000001,1
+Gail,Mcneil,17,2,3,56.1,"Libertyville, IL 60048, 9 Longbranch Street ",0.15000000000000002,0
+Neil,Collins,17,4,12,94.9,"508 Washington Ave. , Springboro, OH 45066",0.6000000000000001,1
+Piper,Trevino,14,1,7,73.4,"Hastings, MN 55033, 43 Kent Ave. ",0.35000000000000003,0
+Maxwell,Phelps,14,3,7,68.7,"346 Devonshire Rd. , Cocoa, FL 32927",0.35000000000000003,1
+Iris,Carr,18,1,14,79.2,"16 Wild Horse St. , Spring Valley, NY 10977",0.7000000000000001,0
+Zoe,Collins,16,2,15,83.7,"9025 Wilson Dr. , Shelton, CT 06484",0.75,0
+Kevin,Townsend,14,5,2,60.1,"Ashtabula, OH 44004, 69 Piper Rd. ",0.1,1
+Orson,Stone,19,1,16,85.1,"Hartsville, SC 29550, 8080 Lakeshore Road ",0.8,1
+Lionel,Dodson,18,4,13,84.9,"63 Jackson St. , Graham, NC 27253",0.65,1
+Mari,Collins,18,3,15,97.5,"Pewaukee, WI 53072, 7993 South Wayne Ave. ",0.75,0
+Stewart,Kidd,19,1,9,80.7,"7700 Helen Court , New City, NY 10956",0.45,1
+Levi,Horton,17,3,8,85.5,"7989 Rockcrest Avenue , Coatesville, PA 19320",0.4,1
+Phelan,Frye,16,5,19,100.0,"Wyandotte, MI 48192, 35 Oak Meadow St. ",0.9500000000000001,1
+Jeanette,Allison,17,1,9,85.0,"13 Smith Store Drive , Lynchburg, VA 24502",0.45,0
+Xanthus,Mcneil,16,3,4,59.8,"45 Lantern St. , Severna Park, MD 21146",0.2,1
+Keelie,Valencia,17,3,9,84.2,"Boca Raton, FL 33428, 97 North Glen Eagles Ave. ",0.45,0
+Lillith,Bradley,16,2,19,92.4,"Salem, MA 01970, 929 Country Street ",0.9500000000000001,0
+Sandra,Richards,19,4,9,71.9,"Saint Paul, MN 55104, 265 Mulberry Street ",0.45,0
+Jarrod,Strong,14,3,11,76.1,"69 Chapel Dr. , Owings Mills, MD 21117",0.55,1
+Yolanda,Hull,14,5,8,80.3,"Jacksonville Beach, FL 32250, 348 E. Bay Meadows Rd. ",0.4,0
+Felix,Coleman,17,5,16,87.3,"9481 Annadale Ave. , Hopewell Junction, NY 12533",0.8,1
+Luke,Morrison,19,5,2,70.1,"7 East Tower Rd. , Westminster, MD 21157",0.1,1
+Rana,Sawyer,17,1,16,88.5,"Glen Ellyn, IL 60137, 7677 S. Briarwood Dr. ",0.8,0
+Adena,Robinson,14,3,19,100.0,"Niagara Falls, NY 14304, 502 Wrangler St. ",0.9500000000000001,0
+Bert,Hayden,14,5,14,84.9,"24 E. Nichols Street , Flushing, NY 11354",0.7000000000000001,1
+Jada,Spence,15,5,7,74.6,"Plymouth, MA 02360, 49 Riverside Rd. ",0.35000000000000003,0
+Orla,Waller,18,4,17,91.3,"Amsterdam, NY 12010, 96 Peachtree Avenue ",0.8500000000000001,0
+Hayden,Griffin,18,5,8,83.5,"567 E. Sunnyslope Street , Atlantic City, NJ 08401",0.4,1
+Demetria,Espinoza,16,5,17,92.5,"93 Fairview Road , Fresno, CA 93706",0.8500000000000001,0
+Castor,Mullins,18,4,12,82.7,"622 Nichols Dr. , Danbury, CT 06810",0.6000000000000001,1
+Alisa,Randall,19,3,13,80.3,"Omaha, NE 68107, 984 Adams Ave. ",0.65,0
+Maxine,Estrada,14,3,17,87.4,"Easley, SC 29640, 1 Tarkiln Hill Lane ",0.8500000000000001,0
+Wilma,Tyler,19,3,4,67.0,"6 Big Rock Cove St. , Prattville, AL 36067",0.2,0
+Kirk,Mckinney,14,5,10,83.7,"Port Jefferson Station, NY 11776, 135 Homewood Court ",0.5,1
+Nadine,Clarke,15,1,7,70.1,"Monroeville, PA 15146, 36 Elizabeth Court ",0.35000000000000003,0
+Brianna,Holloway,18,4,18,100.0,"Beltsville, MD 20705, 291 Goldfield Road ",0.9,0
+Thane,Stevenson,14,4,9,82.4,"211 Cross Rd. , Grandville, MI 49418",0.45,1
+Yvette,Franklin,14,5,8,72.8,"7251 Linden Dr. , Albany, NY 12203",0.4,0
+Ezekiel,Mays,19,2,7,74.5,"Westland, MI 48185, 81 Johnson St. ",0.35000000000000003,1
+Armando,Mccarty,15,3,13,93.8,"Bozeman, MT 59715, 491 S. Greystone Court ",0.65,1
+Kaseem,Finch,18,1,16,97.1,"3 Bald Hill Ave. , Thomasville, NC 27360",0.8,1
+Lydia,Cook,16,5,7,71.7,"765 Joy Ridge Ave. , Wheaton, IL 60187",0.35000000000000003,0
+Tatum,Hall,16,1,7,75.0,"980 S. Locust St. , Menasha, WI 54952",0.35000000000000003,0
+Erin,Mercado,15,4,9,71.4,"San Lorenzo, CA 94580, 93 Pumpkin Hill Dr. ",0.45,0
+Beatrice,Price,17,4,14,82.5,"2 Ridgewood St. , Clover, SC 29710",0.7000000000000001,0
+Carlos,Ingram,16,5,17,98.7,"9569 Squaw Creek Drive , Mays Landing, NJ 08330",0.8500000000000001,1
+Neve,Barnes,19,2,9,79.8,"West Bloomfield, MI 48322, 44 Cooper Street ",0.45,0
+Aileen,Sutton,18,5,16,91.4,"Powell, TN 37849, 7549 N. Gainsway Ave. ",0.8,0
+Craig,Roberts,14,1,5,66.4,"675 Nut Swamp St. , Flowery Branch, GA 30542",0.25,1
+Chelsea,Holloway,19,4,12,91.4,"Shelbyville, TN 37160, 678 Magnolia Ave. ",0.6000000000000001,0
+Emerald,Mckinney,17,3,8,78.4,"Chattanooga, TN 37421, 8211 South Snake Hill Street ",0.4,0
+Nero,Kennedy,14,4,14,88.3,"8 6th Court , West Fargo, ND 58078",0.7000000000000001,1
+August,Green,16,2,9,87.2,"592 Oakwood Street , Covington, GA 30014",0.45,1
+Colleen,Holland,18,1,5,70.2,"Macungie, PA 18062, 1 Belmont Ave. ",0.25,0
+Zenaida,Maynard,16,2,19,91.3,"772 Paris Hill St. , Endicott, NY 13760",0.9500000000000001,0
+Lavinia,Carr,16,2,4,62.2,"65 Beech Street , Kent, OH 44240",0.2,0
+Stone,Miles,15,4,12,87.4,"9018 Newcastle St. , Omaha, NE 68107",0.6000000000000001,1
+Aurora,Gould,15,3,18,90.3,"Sheboygan, WI 53081, 839 Cardinal Dr. ",0.9,0
+Carlos,Aguirre,16,4,7,82.2,"9894 Hamilton Street , Chambersburg, PA 17201",0.35000000000000003,1
+Randall,Weaver,18,1,15,83.1,"22 Ohio Dr. , Hope Mills, NC 28348",0.75,1
+Armando,Mcclure,19,2,14,93.2,"2 Elm Rd. , Winter Garden, FL 34787",0.7000000000000001,1
+Haley,Mcgowan,17,3,16,90.4,"32 W. Front St. , Rockville, MD 20850",0.8,0
+Fritz,Rojas,17,5,13,79.5,"412 Argyle Ave. , Latrobe, PA 15650",0.65,1
+Allistair,Boyer,14,3,10,74.2,"574 Golf Drive , Stow, OH 44224",0.5,1
+Ella,Patterson,16,1,8,68.0,"Chaska, MN 55318, 8334 George Street ",0.4,0
+Felix,Freeman,15,4,11,75.2,"26 Beacon Court , Harrison Township, MI 48045",0.55,1
+Dean,Oneil,16,2,8,74.5,"San Antonio, TX 78213, 9436 Bellevue St. ",0.4,1
+Quinlan,Hawkins,14,3,18,85.6,"Grayslake, IL 60030, 92 Beechwood Drive ",0.9,1
+Kiara,Lott,17,2,12,82.7,"9738 Amerige Dr. , Green Bay, WI 54302",0.6000000000000001,0
+Kai,Woodard,17,5,17,100.0,"Jamaica, NY 11432, 39 South Vine Rd. ",0.8500000000000001,0
+Maxine,Raymond,17,4,19,91.9,"Lorton, VA 22079, 339 Lees Creek Street ",0.9500000000000001,0
+Leah,Lawrence,15,5,15,100.0,"677 Branch St. , Homestead, FL 33030",0.75,0
+Kalia,Lewis,18,1,6,61.4,"Carmel, NY 10512, 332 10th St. ",0.30000000000000004,0
+Anthony,Palmer,14,1,14,93.1,"Durham, NC 27703, 529 Cobblestone Ave. ",0.7000000000000001,1
+Joshua,Randolph,15,1,4,72.7,"9375 East Maiden Drive , Douglasville, GA 30134",0.2,1
+Akeem,Luna,15,4,6,74.4,"70 Cherry Hill Street , Ottumwa, IA 52501",0.30000000000000004,1
+Indigo,Mccoy,19,2,14,91.3,"9923 Maiden Street , Aberdeen, SD 57401",0.7000000000000001,0
+Price,Wall,15,5,11,78.6,"Pensacola, FL 32503, 999 Brook Street ",0.55,1
+Quinn,Patterson,15,1,14,78.0,"Essex, MD 21221, 800 Sleepy Hollow Ave. ",0.7000000000000001,1
+John,Ford,14,2,14,91.2,"9793 Beaver Ridge Street , Hernando, MS 38632",0.7000000000000001,1
+Adena,Battle,17,2,8,70.2,"9 Pine Road , Everett, MA 02149",0.4,0
+Craig,Obrien,16,3,7,64.9,"9741 Mayflower Ave. , Schaumburg, IL 60193",0.35000000000000003,1
+Isabelle,Barber,14,5,9,78.5,"76 Newbridge Street , Stratford, CT 06614",0.45,0
+Risa,Watson,14,2,10,74.3,"45 Birch Hill Dr. , Mesa, AZ 85203",0.5,0
+Emerson,Gill,17,5,5,67.5,"453 Sunbeam Avenue , Oak Creek, WI 53154",0.25,1
+Cody,Shepherd,19,1,8,80.1,"8567 Walnut Street , Piqua, OH 45356",0.4,1
+Geraldine,Peterson,16,4,18,100.0,"Lynn, MA 01902, 66 Bridge Drive ",0.9,0
+Mercedes,Leon,18,3,14,84.9,"Loxahatchee, FL 33470, 8887 NE. Sugar Road ",0.7000000000000001,0
+Lucius,Rowland,16,1,7,69.1,"8734 South Birch Hill Drive , Canfield, OH 44406",0.35000000000000003,1
+Linus,Morris,19,4,10,79.6,"21 Glen Ridge St. , Highland, IN 46322",0.5,1
